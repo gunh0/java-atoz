@@ -1,6 +1,6 @@
 version: "2"
 services:
-    mysql8:
+    mysql:
         image: mysql:latest
         container_name: mysql-server
         environment:
