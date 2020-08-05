@@ -1,0 +1,9 @@
+version: "2"
+services:
+    openjdk:
+        build: ./
+        container_name: openjdk-env
+        volumes:
+        - type: bind
+          source: ./
+          target: /t-point
