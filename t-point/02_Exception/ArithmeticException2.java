@@ -1,4 +1,4 @@
-public class ArithmeticExceptionSample {
+public class ArithmeticException2 {
     public static void main(String args[]) {
         try {
             // code that may raise exception
