@@ -17,4 +17,5 @@ buildNumber.properties
 .mvn/timing.properties
 
 # python venv
-venv/
+venv
+.ipynb_checkpoints
