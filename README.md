@@ -82,6 +82,12 @@ A try block can be followed by one or more catch blocks. Each catch block must c
 
 <br/>
 
+### 4. Nested try block
+
+In Java, using a try block inside another try block is permitted. It is called as nested try block. Every statement that we enter a statement in try block, context of that exception is pushed onto the stack.
+
+For example, the **inner try block** can be used to handle **ArrayIndexOutOfBoundsException** while the **outer try block** can handle the **ArithemeticException** (division by zero).
+
 ---
 
 <br/>
