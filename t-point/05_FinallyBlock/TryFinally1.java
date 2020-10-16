@@ -1,4 +1,4 @@
-public class TryFinally {
+public class TryFinally1 {
     public static void main(String args[]) {
         try {
             //below code do not throw any exception
