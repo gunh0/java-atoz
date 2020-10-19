@@ -6,7 +6,7 @@ public class FileException {
 
         PrintWriter pw;
         try {
-            pw = new PrintWriter("jtp.txt"); // may throw exception
+            pw = new PrintWriter("text.txt"); // may throw exception
             pw.println("saved");
         }
         // providing the checked exception handler
