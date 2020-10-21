@@ -1,0 +1,2 @@
+javac ThrowException3.java
+java ThrowException3
