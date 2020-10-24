@@ -27,15 +27,13 @@ java example.java
 
 <br/>
 
----
+<br/>
 
 <br/>
 
-### `t-point`
+## `t-point`
 
-> .
-
-#### 1. Regex
+### 1. Regex
 
 The Java Regex or Regular Expression is an API to define a pattern for searching or manipulating strings.
 
@@ -45,7 +43,7 @@ To use the `java.util.regex` package, you must first compile a regular expressio
 
 <br/>
 
-#### 2. Exceptoin Handling
+### 2. Exceptoin Handling
 
 Java provides five keywords that are used to handle the exception. The following table describes each.
 
@@ -71,7 +69,7 @@ Java provides five keywords that are used to handle the exception. The following
 
 <br/>
 
-#### 3. Multiple Exceptions
+### 3. Multiple Exceptions
 
 A try block can be followed by one or more catch blocks. Each catch block must contain a different exception handler. So, if you have to perform different tasks at the occurrence of different exceptions, use java multi-catch block.
 
@@ -88,10 +86,32 @@ In Java, using a try block inside another try block is permitted. It is called a
 
 For example, the **inner try block** can be used to handle **ArrayIndexOutOfBoundsException** while the **outer try block** can handle the **ArithemeticException** (division by zero).
 
----
+<br/>
+
+### 5. finally block
+
+**Java finally block** is a block used to execute important code such as closing the connection, etc.
+
+Java finally block is always executed whether an exception is handled or not. Therefore, it contains all the necessary statements that need to be printed regardless of the exception occurs or not.
 
 <br/>
 
-### `this-is`
+### 6. throw Exception
+
+In Java, exceptions allows us to write good quality codes where the errors are checked at the compile time instead of runtime and we can create custom exceptions making the code recovery and debugging easier.
+
+The Java throw keyword is used to throw an exception explicitly.
+
+We specify the **exception** object which is to be thrown. The Exception has some message with it that provides the error description. These exceptions may be related to user inputs, server, etc.
+
+We can throw either checked or unchecked exceptions in Java by throw keyword. It is mainly used to throw a custom exception.
+
+<br/>
+
+<br/>
+
+<br/>
+
+## `this-is`
 
 >.
