@@ -80,7 +80,7 @@ A try block can be followed by one or more catch blocks. Each catch block must c
 
 <br/>
 
-### 4. Nested try block
+### 4. Nested try Block
 
 In Java, using a try block inside another try block is permitted. It is called as nested try block. Every statement that we enter a statement in try block, context of that exception is pushed onto the stack.
 
@@ -88,7 +88,7 @@ For example, the **inner try block** can be used to handle **ArrayIndexOutOfBoun
 
 <br/>
 
-### 5. finally block
+### 5. finally Block
 
 **Java finally block** is a block used to execute important code such as closing the connection, etc.
 
@@ -105,6 +105,18 @@ The Java throw keyword is used to throw an exception explicitly.
 We specify the **exception** object which is to be thrown. The Exception has some message with it that provides the error description. These exceptions may be related to user inputs, server, etc.
 
 We can throw either checked or unchecked exceptions in Java by throw keyword. It is mainly used to throw a custom exception.
+
+<br/>
+
+### 7. Exception Propagation
+
+An exception is first thrown from the top of the stack and if it is not caught, it drops down the call stack to the previous method. If not caught there, the exception again drops down to the previous method, and so on until they are caught or until they reach the very bottom of the call stack. This is called exception propagation.
+
+<br/>
+
+### 8. throws Keyword
+
+The **Java throws keyword** is used to declare an exception. It gives an information to the programmer that there may occur an exception. So, it is better for the programmer to provide the exception handling code so that the normal flow of the program can be maintained.
 
 <br/>
 
