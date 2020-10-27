@@ -1,0 +1,2 @@
+javac ThrowsTest2.java
+java ThrowsTest2
