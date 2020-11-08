@@ -4,14 +4,14 @@
 
 ### Naming Conventions of the Different Identifiers
 
-| Identifiers Type | Naming Rules                                                 | Examples                                                     |
-| :--------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| Class            | It should start with the uppercase letter. It should be a noun such as Color, Button, System, Thread, etc. Use appropriate words, instead of acronyms. | public class **Employee** { //code snippet }                 |
-| Interface        | It should start with the uppercase letter. It should be an adjective such as Runnable, Remote, ActionListener. Use appropriate words, instead of acronyms. | interface **Printable** { //code snippet }                   |
-| Method           | It should start with lowercase letter. It should be a verb such as main(), print(), println(). If the name contains multiple words, start it with a lowercase letter followed by an uppercase letter such as actionPerformed(). | class Employee { // method void **draw()** { //code snippet } } |
-| Variable         | It should start with a lowercase letter such as id, name. It should not start with the special characters like & (ampersand), $ (dollar), _ (underscore). If the name contains multiple words, start it with the lowercase letter followed by an uppercase letter such as firstName, lastName. Avoid using one-character variables such as x, y, z. | class Employee { // variable int **id**; //code snippet }    |
-| Package          | It should be a lowercase letter such as java, lang. If the name contains multiple words, it should be separated by dots (.) such as java.util, java.lang. | //package package **com.javatpoint;** class Employee { //code snippet } |
-| Constant         | It should be in uppercase letters such as RED, YELLOW. If the name contains multiple words, it should be separated by an underscore(_) such as MAX_PRIORITY. It may contain digits but not as the first letter. | class Employee { //constant static final int **MIN_AGE** = 18; //code snippet } |
+| Identifiers Type | Naming Rules                                                                                                                                                                                                                                                                                                                                         | Examples                                                                        |
+| :--------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------ |
+| Class            | It should start with the uppercase letter. It should be a noun such as Color, Button, System, Thread, etc. Use appropriate words, instead of acronyms.                                                                                                                                                                                               | public class **Employee** { //code snippet }                                    |
+| Interface        | It should start with the uppercase letter. It should be an adjective such as Runnable, Remote, ActionListener. Use appropriate words, instead of acronyms.                                                                                                                                                                                           | interface **Printable** { //code snippet }                                      |
+| Method           | It should start with lowercase letter. It should be a verb such as main(), print(), println(). If the name contains multiple words, start it with a lowercase letter followed by an uppercase letter such as actionPerformed().                                                                                                                      | class Employee { // method void **draw()** { //code snippet } }                 |
+| Variable         | It should start with a lowercase letter such as id, name. It should not start with the special characters like & (ampersand), $ (dollar), \_ (underscore). If the name contains multiple words, start it with the lowercase letter followed by an uppercase letter such as firstName, lastName. Avoid using one-character variables such as x, y, z. | class Employee { // variable int **id**; //code snippet }                       |
+| Package          | It should be a lowercase letter such as java, lang. If the name contains multiple words, it should be separated by dots (.) such as java.util, java.lang.                                                                                                                                                                                            | //package package **com.javatpoint;** class Employee { //code snippet }         |
+| Constant         | It should be in uppercase letters such as RED, YELLOW. If the name contains multiple words, it should be separated by an underscore(\_) such as MAX_PRIORITY. It may contain digits but not as the first letter.                                                                                                                                     | class Employee { //constant static final int **MIN_AGE** = 18; //code snippet } |
 
 <br/>
 
@@ -49,23 +49,23 @@ Java provides five keywords that are used to handle the exception. The following
 
 `try`
 
-- The "try" keyword is used to specify a block where we should place an exception code. It means we can't use try block alone. The try block must be followed by either catch or finally.
+-   The "try" keyword is used to specify a block where we should place an exception code. It means we can't use try block alone. The try block must be followed by either catch or finally.
 
 `catch`
 
-- The "catch" block is used to handle the exception. It must be preceded by try block which means we can't use catch block alone. It can be followed by finally block later.
+-   The "catch" block is used to handle the exception. It must be preceded by try block which means we can't use catch block alone. It can be followed by finally block later.
 
 `finally`
 
-- The "finally" block is used to execute the necessary code of the program. It is executed whether an exception is handled or not.
+-   The "finally" block is used to execute the necessary code of the program. It is executed whether an exception is handled or not.
 
 `throw`
 
-- The "throw" keyword is used to throw an exception.
+-   The "throw" keyword is used to throw an exception.
 
 `throws`
 
-- The "throws" keyword is used to declare exceptions. It specifies that there may occur an exception in the method. It doesn't throw an exception. It is always used with method signature.
+-   The "throws" keyword is used to declare exceptions. It specifies that there may occur an exception in the method. It doesn't throw an exception. It is always used with method signature.
 
 <br/>
 
@@ -75,8 +75,8 @@ A try block can be followed by one or more catch blocks. Each catch block must c
 
 **Points to remember**
 
-- At a time only one exception occurs and at a time only one catch block is executed.
-- All catch blocks must be ordered from most specific to most general, i.e. catch for ArithmeticException must come before catch for Exception.
+-   At a time only one exception occurs and at a time only one catch block is executed.
+-   All catch blocks must be ordered from most specific to most general, i.e. catch for ArithmeticException must come before catch for Exception.
 
 <br/>
 
@@ -126,4 +126,12 @@ The **Java throws keyword** is used to declare an exception. It gives an informa
 
 ## `this-is`
 
->.
+> .
+
+<br/>
+
+<br/>
+
+<br/>
+
+## `effective`
