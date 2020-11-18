@@ -29,8 +29,6 @@ java example.java
 
 <br/>
 
-<br/>
-
 ## `t-point`
 
 ### 1. Regex
@@ -122,8 +120,6 @@ The **Java throws keyword** is used to declare an exception. It gives an informa
 
 <br/>
 
-<br/>
-
 ## `this-is`
 
 > .
@@ -132,6 +128,14 @@ The **Java throws keyword** is used to declare an exception. It gives an informa
 
 <br/>
 
+## `one-day`
+
+> .
+
+<br/>
+
 <br/>
 
 ## `effective`
+
+> .
