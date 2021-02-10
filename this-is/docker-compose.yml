@@ -1,7 +1,7 @@
 version: "2"
 services:
     mysql:
-        image: mysql:latest
+        image: mysql:8.2.0
         container_name: mysql-server
         environment:
             MYSQL_ROOT_PASSWORD: 1234

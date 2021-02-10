@@ -4,19 +4,33 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-// Notice, do not import com.mysql.cj.jdbc.*
-// or you will have problems!
-
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Connection conn = null;
         try {
-            // The newInstance() call is a work around for some
-            // broken Java implementations
+            // JDBC Driver Registration
+            Class.forName("com.mysql.cj.jdbc.Driver");
 
-            Class.forName("com.mysql.cj.jdbc.Driver").newInstance();
-        } catch (Exception ex) {
-            // handle the error
+            // Creating a connection to the database
+            conn = DriverManager.getConnection(
+                    "jdbc:mysql://localhost:3306/test",
+                    "user",
+                    "1234");
+
+            System.out.println("Connection established successfully!");
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            if (conn != null) {
+                try {
+                    conn.close();
+                    System.out.println("Connection closed successfully!");
+                } catch (SQLException e) {
+                    e.printStackTrace();
+                }
+            }
         }
     }
 }

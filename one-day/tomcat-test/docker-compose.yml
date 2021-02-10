@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+    tomcat:
+        image: tomcat:9.0
+        ports:
+            - "8080:8080"
+        volumes:
+            - ./target/tomcat-test-1.0-SNAPSHOT.war:/usr/local/tomcat/webapps/ROOT.war
+        environment:
+            - CATALINA_OPTS=-Xmx512m

@@ -31,6 +31,8 @@ java example.java
 
 ## `t-point`
 
+> Acquiring proficiency in Java syntax and constructs.
+
 ### 1. Regex
 
 The Java Regex or Regular Expression is an API to define a pattern for searching or manipulating strings.
@@ -120,13 +122,13 @@ The **Java throws keyword** is used to declare an exception. It gives an informa
 
 ### 9. Difference between throw and throws in Java
 
-| Sr. no. | Basis of Differences | throw | throws |
-|---------|---------------------|-------|--------|
-| 1.      | Definition          | Java `throw` keyword is used to throw an exception explicitly in the code, inside the function or the block of code. | Java `throws` keyword is used in the method signature to declare an exception which might be thrown by the function during the execution of the code. |
-| 2.      | Type of exception   | Using `throw` keyword, we can only propagate unchecked exceptions, i.e., checked exceptions cannot be propagated using `throw` alone. | Using `throws` keyword, we can declare both checked and unchecked exceptions. However, the `throws` keyword can be used to propagate checked exceptions only. |
-| 3.      | Syntax              | The `throw` keyword is followed by an instance of Exception to be thrown. | The `throws` keyword is followed by class names of Exceptions to be thrown. |
-| 4.      | Declaration         | `throw` is used within the method. | `throws` is used with the method signature. |
-| 5.      | Internal implementation | We are allowed to throw only one exception at a time, i.e., we cannot throw multiple exceptions. | We can declare multiple exceptions using `throws` keyword that can be thrown by the method. For example, `main()` throws `IOException, SQLException`. |
+| Sr. no. | Basis of Differences    | throw                                                                                                                                 | throws                                                                                                                                                        |
+| ------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.      | Definition              | Java `throw` keyword is used to throw an exception explicitly in the code, inside the function or the block of code.                  | Java `throws` keyword is used in the method signature to declare an exception which might be thrown by the function during the execution of the code.         |
+| 2.      | Type of exception       | Using `throw` keyword, we can only propagate unchecked exceptions, i.e., checked exceptions cannot be propagated using `throw` alone. | Using `throws` keyword, we can declare both checked and unchecked exceptions. However, the `throws` keyword can be used to propagate checked exceptions only. |
+| 3.      | Syntax                  | The `throw` keyword is followed by an instance of Exception to be thrown.                                                             | The `throws` keyword is followed by class names of Exceptions to be thrown.                                                                                   |
+| 4.      | Declaration             | `throw` is used within the method.                                                                                                    | `throws` is used with the method signature.                                                                                                                   |
+| 5.      | Internal implementation | We are allowed to throw only one exception at a time, i.e., we cannot throw multiple exceptions.                                      | We can declare multiple exceptions using `throws` keyword that can be thrown by the method. For example, `main()` throws `IOException, SQLException`.         |
 
 <br/>
 
@@ -134,7 +136,10 @@ The **Java throws keyword** is used to declare an exception. It gives an informa
 
 ## `this-is`
 
-> .
+> Establishing from the Basics.
+
+-   demo-001
+-   demo-002
 
 <br/>
 
@@ -142,7 +147,9 @@ The **Java throws keyword** is used to declare an exception. It gives an informa
 
 ## `one-day`
 
-> .
+> Getting Acquainted with the Comprehensive Structure of a Spring MVC Project.
+
+-   tomcat-test
 
 <br/>
 
@@ -150,4 +157,10 @@ The **Java throws keyword** is used to declare an exception. It gives an informa
 
 ## `effective`
 
-> .
+> Cultivating Insight for Effective Java Coding.
+
+-   01_StaticFactoryMethodComparison
+-   08_FinalizerAttack
+-   26_UnboundedWildcard
+-   70_CheckedException
+-   70-2_RuntimeException
