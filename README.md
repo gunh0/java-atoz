@@ -23,7 +23,7 @@ Since Java 11 you can use a single command
 java example.java
 ```
 
-> JEP 330: Launch Single-File Source-Code Programs : https://openjdk.java.net/jeps/330
+> JEP 330: Launch Single-File Source-Code Programs : <https://openjdk.java.net/jeps/330>
 
 <br/>
 
@@ -32,8 +32,25 @@ java example.java
 ## `t-point`
 
 > Acquiring proficiency in Java syntax and constructs.
+>
+> - [String Methods](#string-methods)
+> - [Regex](#regex)
+> - [Exceptoin Handling](#exceptoin-handling)
+> - [Multiple Exceptions](#multiple-exceptions)
+> - [Nested try Block](#nested-try-block)
+> - [finally Block](#finally-block)
+> - [throw Exception](#throw-exception)
+> - [Exception Propagation](#exception-propagation)
+> - [throws Keyword](#throws-keyword)
+> - [Difference between throw and throws in Java](#difference-between-throw-and-throws-in-java)
 
-### 1. Regex
+<br/>
+
+### String Methods
+
+<br/>
+
+### Regex
 
 The Java Regex or Regular Expression is an API to define a pattern for searching or manipulating strings.
 
@@ -43,44 +60,44 @@ To use the `java.util.regex` package, you must first compile a regular expressio
 
 <br/>
 
-### 2. Exceptoin Handling
+### Exceptoin Handling
 
 Java provides five keywords that are used to handle the exception. The following table describes each.
 
 `try`
 
--   The "try" keyword is used to specify a block where we should place an exception code. It means we can't use try block alone. The try block must be followed by either catch or finally.
+- The "try" keyword is used to specify a block where we should place an exception code. It means we can't use try block alone. The try block must be followed by either catch or finally.
 
 `catch`
 
--   The "catch" block is used to handle the exception. It must be preceded by try block which means we can't use catch block alone. It can be followed by finally block later.
+- The "catch" block is used to handle the exception. It must be preceded by try block which means we can't use catch block alone. It can be followed by finally block later.
 
 `finally`
 
--   The "finally" block is used to execute the necessary code of the program. It is executed whether an exception is handled or not.
+- The "finally" block is used to execute the necessary code of the program. It is executed whether an exception is handled or not.
 
 `throw`
 
--   The "throw" keyword is used to throw an exception.
+- The "throw" keyword is used to throw an exception.
 
 `throws`
 
--   The "throws" keyword is used to declare exceptions. It specifies that there may occur an exception in the method. It doesn't throw an exception. It is always used with method signature.
+- The "throws" keyword is used to declare exceptions. It specifies that there may occur an exception in the method. It doesn't throw an exception. It is always used with method signature.
 
 <br/>
 
-### 3. Multiple Exceptions
+### Multiple Exceptions
 
 A try block can be followed by one or more catch blocks. Each catch block must contain a different exception handler. So, if you have to perform different tasks at the occurrence of different exceptions, use java multi-catch block.
 
 **Points to remember**
 
--   At a time only one exception occurs and at a time only one catch block is executed.
--   All catch blocks must be ordered from most specific to most general, i.e. catch for ArithmeticException must come before catch for Exception.
+- At a time only one exception occurs and at a time only one catch block is executed.
+- All catch blocks must be ordered from most specific to most general, i.e. catch for ArithmeticException must come before catch for Exception.
 
 <br/>
 
-### 4. Nested try Block
+### Nested try Block
 
 In Java, using a try block inside another try block is permitted. It is called as nested try block. Every statement that we enter a statement in try block, context of that exception is pushed onto the stack.
 
@@ -88,7 +105,7 @@ For example, the **inner try block** can be used to handle **ArrayIndexOutOfBoun
 
 <br/>
 
-### 5. finally Block
+### finally Block
 
 **Java finally block** is a block used to execute important code such as closing the connection, etc.
 
@@ -96,7 +113,7 @@ Java finally block is always executed whether an exception is handled or not. Th
 
 <br/>
 
-### 6. throw Exception
+### throw Exception
 
 In Java, exceptions allows us to write good quality codes where the errors are checked at the compile time instead of runtime and we can create custom exceptions making the code recovery and debugging easier.
 
@@ -108,19 +125,19 @@ We can throw either checked or unchecked exceptions in Java by throw keyword. It
 
 <br/>
 
-### 7. Exception Propagation
+### Exception Propagation
 
 An exception is first thrown from the top of the stack and if it is not caught, it drops down the call stack to the previous method. If not caught there, the exception again drops down to the previous method, and so on until they are caught or until they reach the very bottom of the call stack. This is called exception propagation.
 
 <br/>
 
-### 8. throws Keyword
+### throws Keyword
 
 The **Java throws keyword** is used to declare an exception. It gives an information to the programmer that there may occur an exception. So, it is better for the programmer to provide the exception handling code so that the normal flow of the program can be maintained.
 
 <br/>
 
-### 9. Difference between throw and throws in Java
+### Difference between throw and throws in Java
 
 | Sr. no. | Basis of Differences    | throw                                                                                                                                 | throws                                                                                                                                                        |
 | ------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -138,8 +155,8 @@ The **Java throws keyword** is used to declare an exception. It gives an informa
 
 > Establishing from the Basics.
 
--   demo-001
--   demo-002
+- demo-001
+- demo-002
 
 <br/>
 
@@ -149,7 +166,7 @@ The **Java throws keyword** is used to declare an exception. It gives an informa
 
 > Getting Acquainted with the Comprehensive Structure of a Spring MVC Project.
 
--   tomcat-test
+- tomcat-test
 
 <br/>
 
@@ -159,8 +176,8 @@ The **Java throws keyword** is used to declare an exception. It gives an informa
 
 > Cultivating Insight for Effective Java Coding.
 
--   01_StaticFactoryMethodComparison
--   08_FinalizerAttack
--   26_UnboundedWildcard
--   70_CheckedException
--   70-2_RuntimeException
+- 01_StaticFactoryMethodComparison
+- 08_FinalizerAttack
+- 26_UnboundedWildcard
+- 70_CheckedException
+- 70-2_RuntimeException
