@@ -34,8 +34,15 @@ java example.java
 > Acquiring proficiency in Java syntax and constructs.
 >
 > - [String Methods](#string-methods)
+>   - String charAt()
+>   - String compareTo()
 > - [Regex](#regex)
 > - [Exceptoin Handling](#exceptoin-handling)
+>   - Exceptions
+>   - Nested try Block
+>   - Finally Block
+>   - Exception Propagation
+>   - Throw and Throws
 > - [Multiple Exceptions](#multiple-exceptions)
 > - [Nested try Block](#nested-try-block)
 > - [finally Block](#finally-block)
