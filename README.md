@@ -39,23 +39,19 @@ java example.java
 > - [Regex](#regex)
 > - [Exceptoin Handling](#exceptoin-handling)
 >   - Exceptions
->   - Nested try Block
->   - Finally Block
->   - Exception Propagation
+>   - [Multiple Catch Block](#multiple-catch-block)
+>   - [Nested try](#nested-try)
+>   - [Finally Block](#finally-block)
+>   - [Exception Propagation](#exception-propagation)
+>   - [Throws Keyword](#throws-keyword)
 >   - Throw and Throws
-> - [Multiple Exceptions](#multiple-exceptions)
-> - [Nested try Block](#nested-try-block)
 > - [finally Block](#finally-block)
 > - [throw Exception](#throw-exception)
-> - [Exception Propagation](#exception-propagation)
-> - [throws Keyword](#throws-keyword)
 > - [Difference between throw and throws in Java](#difference-between-throw-and-throws-in-java)
 
 <br/>
 
 ### String Methods
-
-<br/>
 
 ### Regex
 
@@ -64,8 +60,6 @@ The Java Regex or Regular Expression is an API to define a pattern for searching
 In Java, the `java.util.regex` package provides support for regular expressions. A regular expression, or regex for short, is a pattern that can be used to match character combinations in strings.
 
 To use the `java.util.regex` package, you must first compile a regular expression pattern into a `Pattern` object. You can then use this `Pattern` object to create a `Matcher` object that can match the pattern against a given string.
-
-<br/>
 
 ### Exceptoin Handling
 
@@ -93,7 +87,7 @@ Java provides five keywords that are used to handle the exception. The following
 
 <br/>
 
-### Multiple Exceptions
+#### Multiple Catch Block
 
 A try block can be followed by one or more catch blocks. Each catch block must contain a different exception handler. So, if you have to perform different tasks at the occurrence of different exceptions, use java multi-catch block.
 
@@ -104,7 +98,7 @@ A try block can be followed by one or more catch blocks. Each catch block must c
 
 <br/>
 
-### Nested try Block
+#### Nested try
 
 In Java, using a try block inside another try block is permitted. It is called as nested try block. Every statement that we enter a statement in try block, context of that exception is pushed onto the stack.
 
@@ -112,7 +106,7 @@ For example, the **inner try block** can be used to handle **ArrayIndexOutOfBoun
 
 <br/>
 
-### finally Block
+#### Finally Block
 
 **Java finally block** is a block used to execute important code such as closing the connection, etc.
 
@@ -132,13 +126,13 @@ We can throw either checked or unchecked exceptions in Java by throw keyword. It
 
 <br/>
 
-### Exception Propagation
+#### Exception Propagation
 
 An exception is first thrown from the top of the stack and if it is not caught, it drops down the call stack to the previous method. If not caught there, the exception again drops down to the previous method, and so on until they are caught or until they reach the very bottom of the call stack. This is called exception propagation.
 
 <br/>
 
-### throws Keyword
+#### Throws Keyword
 
 The **Java throws keyword** is used to declare an exception. It gives an information to the programmer that there may occur an exception. So, it is better for the programmer to provide the exception handling code so that the normal flow of the program can be maintained.
 
