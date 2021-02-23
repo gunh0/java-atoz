@@ -33,7 +33,7 @@ java example.java
 
 > Acquiring proficiency in Java syntax and constructs.
 >
-> - [String Methods](#string-methods)
+> - String Methods
 >   - String charAt()
 >   - String compareTo()
 > - [Regex](#regex)
@@ -42,16 +42,15 @@ java example.java
 >   - [Multiple Catch Block](#multiple-catch-block)
 >   - [Nested try](#nested-try)
 >   - [Finally Block](#finally-block)
+>   - [Throw Keyword](#throw-keyword)
 >   - [Exception Propagation](#exception-propagation)
 >   - [Throws Keyword](#throws-keyword)
 >   - Throw and Throws
-> - [finally Block](#finally-block)
-> - [throw Exception](#throw-exception)
 > - [Difference between throw and throws in Java](#difference-between-throw-and-throws-in-java)
+> - Multithreading
+>   - Calling run() method
 
 <br/>
-
-### String Methods
 
 ### Regex
 
@@ -114,7 +113,7 @@ Java finally block is always executed whether an exception is handled or not. Th
 
 <br/>
 
-### throw Exception
+#### Throw Keyword
 
 In Java, exceptions allows us to write good quality codes where the errors are checked at the compile time instead of runtime and we can create custom exceptions making the code recovery and debugging easier.
 
@@ -138,7 +137,7 @@ The **Java throws keyword** is used to declare an exception. It gives an informa
 
 <br/>
 
-### Difference between throw and throws in Java
+#### Difference between throw and throws in Java
 
 | Sr. no. | Basis of Differences    | throw                                                                                                                                 | throws                                                                                                                                                        |
 | ------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
