@@ -49,6 +49,7 @@ java example.java
 > - [Difference between throw and throws in Java](#difference-between-throw-and-throws-in-java)
 > - Multithreading
 >   - Calling run() method
+>   - Joining a thread
 
 <br/>
 
