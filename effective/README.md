@@ -10,4 +10,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 26, don't use raw types (unbounded wildcard): `26_UnboundedWildcard.java`
 - Item 70, checked exceptions for recoverable conditions: `70_CheckedException.java`
 - Item 70, runtime exceptions for programming errors: `70-2_RuntimeException.java`
+- Item 2, consider a builder when faced with many constructor parameters: `02_Builder.java`
 <!-- INDEX:END -->
