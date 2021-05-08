@@ -40,6 +40,7 @@ java example.java
 | [`effective`](effective/) | Items from *Effective Java, 3rd Edition* |
 | [`this-is`](this-is/) | Establishing from the basics: Maven demo projects |
 | [`one-day`](one-day/) | A Spring MVC / Tomcat project structure in a day |
+| [`modern-java`](modern-java/) | Language and API features by Java release, one JEP per example |
 <!-- SECTIONS:END -->
 
 <br/>
