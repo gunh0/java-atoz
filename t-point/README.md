@@ -17,6 +17,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Joining a thread: [`Multithreading/JoiningAThread`](Multithreading/JoiningAThread/)
 - String `concat()`: [`StringMethods/concat`](StringMethods/concat/)
 - String `contains()`: [`StringMethods/contains`](StringMethods/contains/)
+- String `startsWith()` / `endsWith()`: [`StringMethods/startsWith`](StringMethods/startsWith/)
 <!-- INDEX:END -->
 
 <br/>
