@@ -6,4 +6,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 
 <!-- INDEX:START -->
 - Java 9, JEP 269 convenience factory methods for collections: [`java9/CollectionFactories.java`](java9/CollectionFactories.java)
+- Java 9, JEP 213 private interface methods: [`java9/PrivateInterfaceMethods.java`](java9/PrivateInterfaceMethods.java)
 <!-- INDEX:END -->
