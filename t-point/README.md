@@ -20,6 +20,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - String `startsWith()` / `endsWith()`: [`StringMethods/startsWith`](StringMethods/startsWith/)
 - String `equals()` / `equalsIgnoreCase()`: [`StringMethods/equals`](StringMethods/equals/)
 - String `format()`: [`StringMethods/format`](StringMethods/format/)
+- String `indexOf()` / `lastIndexOf()`: [`StringMethods/indexOf`](StringMethods/indexOf/)
 <!-- INDEX:END -->
 
 <br/>
