@@ -13,4 +13,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 2, consider a builder when faced with many constructor parameters: `02_Builder.java`
 - Item 3, singleton with a private constructor or an enum type: `03_Singleton.java`
 - Item 4, noninstantiability with a private constructor: `04_Noninstantiability.java`
+- Item 5, prefer dependency injection to hardwiring resources: `05_DependencyInjection.java`
 <!-- INDEX:END -->
