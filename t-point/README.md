@@ -21,6 +21,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - String `equals()` / `equalsIgnoreCase()`: [`StringMethods/equals`](StringMethods/equals/)
 - String `format()`: [`StringMethods/format`](StringMethods/format/)
 - String `indexOf()` / `lastIndexOf()`: [`StringMethods/indexOf`](StringMethods/indexOf/)
+- String `join()`: [`StringMethods/join`](StringMethods/join/)
 <!-- INDEX:END -->
 
 <br/>
