@@ -9,4 +9,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 9, JEP 213 private interface methods: [`java9/PrivateInterfaceMethods.java`](java9/PrivateInterfaceMethods.java)
 - Java 10, JEP 286 local-variable type inference (`var`): [`java10/LocalVariableTypeInference.java`](java10/LocalVariableTypeInference.java)
 - Java 11, new String methods (`isBlank`, `lines`, `strip`, `repeat`): [`java11/StringMethods.java`](java11/StringMethods.java)
+- Java 11, `Files.readString` / `Files.writeString`: [`java11/FilesReadWriteString.java`](java11/FilesReadWriteString.java)
 <!-- INDEX:END -->
