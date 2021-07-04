@@ -22,6 +22,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - String `format()`: [`StringMethods/format`](StringMethods/format/)
 - String `indexOf()` / `lastIndexOf()`: [`StringMethods/indexOf`](StringMethods/indexOf/)
 - String `join()`: [`StringMethods/join`](StringMethods/join/)
+- String `replace()` / `replaceAll()`: [`StringMethods/replace`](StringMethods/replace/)
 <!-- INDEX:END -->
 
 <br/>
