@@ -11,4 +11,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 11, new String methods (`isBlank`, `lines`, `strip`, `repeat`): [`java11/StringMethods.java`](java11/StringMethods.java)
 - Java 11, `Files.readString` / `Files.writeString`: [`java11/FilesReadWriteString.java`](java11/FilesReadWriteString.java)
 - Java 11, JEP 321 HTTP Client: [`java11/HttpClientExample.java`](java11/HttpClientExample.java)
+- Java 12, `Collectors.teeing`: [`java12/CollectorsTeeing.java`](java12/CollectorsTeeing.java)
 <!-- INDEX:END -->
