@@ -25,6 +25,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - String `replace()` / `replaceAll()`: [`StringMethods/replace`](StringMethods/replace/)
 - String `split()`: [`StringMethods/split`](StringMethods/split/)
 - String `substring()`: [`StringMethods/substring`](StringMethods/substring/)
+- Sleeping a thread: [`Multithreading/SleepingAThread`](Multithreading/SleepingAThread/)
 <!-- INDEX:END -->
 
 <br/>
