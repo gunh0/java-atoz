@@ -16,4 +16,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 5, prefer dependency injection to hardwiring resources: `05_DependencyInjection.java`
 - Item 6, avoid creating unnecessary objects: `06_AvoidUnnecessaryObjects.java`
 - Item 7, eliminate obsolete object references: `07_ObsoleteReferences.java`
+- Item 9, prefer try-with-resources to try-finally: `09_TryWithResources.java`
 <!-- INDEX:END -->
