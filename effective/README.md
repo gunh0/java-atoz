@@ -17,4 +17,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 6, avoid creating unnecessary objects: `06_AvoidUnnecessaryObjects.java`
 - Item 7, eliminate obsolete object references: `07_ObsoleteReferences.java`
 - Item 9, prefer try-with-resources to try-finally: `09_TryWithResources.java`
+- Item 10, obey the general contract when overriding equals: `10_EqualsContract.java`
 <!-- INDEX:END -->
