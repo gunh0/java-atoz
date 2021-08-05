@@ -28,6 +28,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Sleeping a thread: [`Multithreading/SleepingAThread`](Multithreading/SleepingAThread/)
 - Daemon threads: [`Multithreading/DaemonThread`](Multithreading/DaemonThread/)
 - Synchronized method: [`Multithreading/SynchronizedMethod`](Multithreading/SynchronizedMethod/)
+- Synchronized block: [`Multithreading/SynchronizedBlock`](Multithreading/SynchronizedBlock/)
 <!-- INDEX:END -->
 
 <br/>
