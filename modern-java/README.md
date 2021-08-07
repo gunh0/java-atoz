@@ -15,4 +15,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 14, JEP 361 switch expressions: [`java14/SwitchExpressions.java`](java14/SwitchExpressions.java)
 - Java 14, JEP 358 helpful NullPointerExceptions: [`java14/HelpfulNullPointerExceptions.java`](java14/HelpfulNullPointerExceptions.java)
 - Java 15, JEP 378 text blocks: [`java15/TextBlocks.java`](java15/TextBlocks.java)
+- Java 16, JEP 395 records: [`java16/Records.java`](java16/Records.java)
 <!-- INDEX:END -->
