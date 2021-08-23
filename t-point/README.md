@@ -31,6 +31,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Synchronized block: [`Multithreading/SynchronizedBlock`](Multithreading/SynchronizedBlock/)
 - `wait()` / `notifyAll()` producer-consumer: [`Multithreading/WaitNotify`](Multithreading/WaitNotify/)
 - Interrupting a thread: [`Multithreading/Interrupt`](Multithreading/Interrupt/)
+- Thread pool with `ExecutorService`: [`Multithreading/ThreadPool`](Multithreading/ThreadPool/)
 <!-- INDEX:END -->
 
 <br/>
