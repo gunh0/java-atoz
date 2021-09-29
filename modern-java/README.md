@@ -18,4 +18,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 16, JEP 395 records: [`java16/Records.java`](java16/Records.java)
 - Java 16, JEP 394 pattern matching for `instanceof`: [`java16/PatternMatchingInstanceof.java`](java16/PatternMatchingInstanceof.java)
 - Java 16, `Stream.toList()` and `Stream.mapMulti()`: [`java16/StreamToListAndMapMulti.java`](java16/StreamToListAndMapMulti.java)
+- Java 17, JEP 409 sealed classes: [`java17/SealedClasses.java`](java17/SealedClasses.java)
 <!-- INDEX:END -->
