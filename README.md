@@ -41,6 +41,7 @@ java example.java
 | [`this-is`](this-is/) | Establishing from the basics: Maven demo projects |
 | [`one-day`](one-day/) | A Spring MVC / Tomcat project structure in a day |
 | [`modern-java`](modern-java/) | Language and API features by Java release, one JEP per example |
+| [`secure-coding`](secure-coding/) | SEI CERT Oracle Coding Standard for Java rules: noncompliant code next to the compliant fix |
 <!-- SECTIONS:END -->
 
 <br/>
