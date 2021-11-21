@@ -8,4 +8,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 
 <!-- INDEX:START -->
 - MSC02-J, generate strong random numbers: [`MSC/MSC02_SecureRandom.java`](MSC/MSC02_SecureRandom.java)
+- IDS00-J, prevent SQL injection: [`IDS/IDS00_SqlInjection.java`](IDS/IDS00_SqlInjection.java)
 <!-- INDEX:END -->
