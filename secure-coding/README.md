@@ -10,4 +10,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - MSC02-J, generate strong random numbers: [`MSC/MSC02_SecureRandom.java`](MSC/MSC02_SecureRandom.java)
 - IDS00-J, prevent SQL injection: [`IDS/IDS00_SqlInjection.java`](IDS/IDS00_SqlInjection.java)
 - FIO16-J, canonicalize path names before validating them: [`FIO/FIO16_CanonicalizePaths.java`](FIO/FIO16_CanonicalizePaths.java)
+- SER12-J, prevent deserialization of untrusted data: [`SER/SER12_DeserializationFilter.java`](SER/SER12_DeserializationFilter.java)
 <!-- INDEX:END -->
