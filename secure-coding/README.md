@@ -11,4 +11,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - IDS00-J, prevent SQL injection: [`IDS/IDS00_SqlInjection.java`](IDS/IDS00_SqlInjection.java)
 - FIO16-J, canonicalize path names before validating them: [`FIO/FIO16_CanonicalizePaths.java`](FIO/FIO16_CanonicalizePaths.java)
 - SER12-J, prevent deserialization of untrusted data: [`SER/SER12_DeserializationFilter.java`](SER/SER12_DeserializationFilter.java)
+- NUM00-J, detect or prevent integer overflow: [`NUM/NUM00_IntegerOverflow.java`](NUM/NUM00_IntegerOverflow.java)
 <!-- INDEX:END -->
