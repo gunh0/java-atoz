@@ -29,16 +29,17 @@ public class SubstringExample {
         String card = "4111111111111234";
         System.out.println("**** " + card.substring(card.length() - 4));
 
-        // Invalid ranges
+        // Invalid ranges throw StringIndexOutOfBoundsException. Print the type,
+        // not getMessage(): the message wording changes between JDK releases.
         try {
             s.substring(5, 3);
         } catch (StringIndexOutOfBoundsException e) {
-            System.out.println("substring(5, 3): " + e.getMessage());
+            System.out.println("substring(5, 3): " + e.getClass().getSimpleName());
         }
         try {
             s.substring(0, 50);
         } catch (StringIndexOutOfBoundsException e) {
-            System.out.println("substring(0, 50): " + e.getMessage());
+            System.out.println("substring(0, 50): " + e.getClass().getSimpleName());
         }
     }
 }
@@ -53,6 +54,6 @@ lo, Wo has length 6
 local part: user.name
 domain: example.com
 **** 1234
-substring(5, 3): begin 5, end 3, length 12
-substring(0, 50): begin 0, end 50, length 12
+substring(5, 3): StringIndexOutOfBoundsException
+substring(0, 50): StringIndexOutOfBoundsException
 */
