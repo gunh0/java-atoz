@@ -32,6 +32,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - `wait()` / `notifyAll()` producer-consumer: [`Multithreading/WaitNotify`](Multithreading/WaitNotify/)
 - Interrupting a thread: [`Multithreading/Interrupt`](Multithreading/Interrupt/)
 - Thread pool with `ExecutorService`: [`Multithreading/ThreadPool`](Multithreading/ThreadPool/)
+- String `toUpperCase()` / `toLowerCase()`: [`StringMethods/toUpperCase`](StringMethods/toUpperCase/)
 <!-- INDEX:END -->
 
 <br/>
