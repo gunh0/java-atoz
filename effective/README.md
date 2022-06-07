@@ -20,4 +20,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 10, obey the general contract when overriding equals: `10_EqualsContract.java`
 - Item 11, always override hashCode when you override equals: `11_HashCode.java`
 - Item 12, always override toString: `12_ToString.java`
+- Item 13, override clone judiciously: `13_Clone.java`
 <!-- INDEX:END -->
