@@ -42,6 +42,7 @@ java example.java
 | [`one-day`](one-day/) | A Spring MVC / Tomcat project structure in a day |
 | [`modern-java`](modern-java/) | Language and API features by Java release, one JEP per example |
 | [`secure-coding`](secure-coding/) | SEI CERT Oracle Coding Standard for Java rules: noncompliant code next to the compliant fix |
+| [`patterns`](patterns/) | GoF design patterns, one small realistic scenario per pattern |
 <!-- SECTIONS:END -->
 
 <br/>
