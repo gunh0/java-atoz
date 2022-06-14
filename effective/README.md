@@ -21,4 +21,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 11, always override hashCode when you override equals: `11_HashCode.java`
 - Item 12, always override toString: `12_ToString.java`
 - Item 13, override clone judiciously: `13_Clone.java`
+- Item 14, consider implementing Comparable: `14_Comparable.java`
 <!-- INDEX:END -->
