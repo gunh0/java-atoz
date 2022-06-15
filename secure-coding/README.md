@@ -13,4 +13,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - SER12-J, prevent deserialization of untrusted data: [`SER/SER12_DeserializationFilter.java`](SER/SER12_DeserializationFilter.java)
 - NUM00-J, detect or prevent integer overflow: [`NUM/NUM00_IntegerOverflow.java`](NUM/NUM00_IntegerOverflow.java)
 - IDS01-J, normalize strings before validating them: [`IDS/IDS01_NormalizeBeforeValidating.java`](IDS/IDS01_NormalizeBeforeValidating.java)
+- EXP00-J, do not ignore values returned by methods: [`EXP/EXP00_IgnoredReturnValues.java`](EXP/EXP00_IgnoredReturnValues.java)
 <!-- INDEX:END -->
