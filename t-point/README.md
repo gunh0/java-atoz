@@ -34,6 +34,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Thread pool with `ExecutorService`: [`Multithreading/ThreadPool`](Multithreading/ThreadPool/)
 - String `toUpperCase()` / `toLowerCase()`: [`StringMethods/toUpperCase`](StringMethods/toUpperCase/)
 - String `trim()` vs `strip()`: [`StringMethods/trim`](StringMethods/trim/)
+- String `valueOf()`: [`StringMethods/valueOf`](StringMethods/valueOf/)
 <!-- INDEX:END -->
 
 <br/>
