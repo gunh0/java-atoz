@@ -22,4 +22,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 12, always override toString: `12_ToString.java`
 - Item 13, override clone judiciously: `13_Clone.java`
 - Item 14, consider implementing Comparable: `14_Comparable.java`
+- Item 15, minimize the accessibility of classes and members: `15_MinimizeAccessibility.java`
 <!-- INDEX:END -->
