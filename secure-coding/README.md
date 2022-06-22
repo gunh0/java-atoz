@@ -14,4 +14,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - NUM00-J, detect or prevent integer overflow: [`NUM/NUM00_IntegerOverflow.java`](NUM/NUM00_IntegerOverflow.java)
 - IDS01-J, normalize strings before validating them: [`IDS/IDS01_NormalizeBeforeValidating.java`](IDS/IDS01_NormalizeBeforeValidating.java)
 - EXP00-J, do not ignore values returned by methods: [`EXP/EXP00_IgnoredReturnValues.java`](EXP/EXP00_IgnoredReturnValues.java)
+- NUM04-J, do not use floating-point numbers if precise computation is required: [`NUM/NUM04_FloatingPointPrecision.java`](NUM/NUM04_FloatingPointPrecision.java)
 <!-- INDEX:END -->
