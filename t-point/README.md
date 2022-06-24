@@ -36,6 +36,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - String `trim()` vs `strip()`: [`StringMethods/trim`](StringMethods/trim/)
 - String `valueOf()`: [`StringMethods/valueOf`](StringMethods/valueOf/)
 - String `isEmpty()` / `isBlank()`: [`StringMethods/isEmpty`](StringMethods/isEmpty/)
+- `StringBuilder` methods: [`StringBuilder/Methods`](StringBuilder/Methods/)
 <!-- INDEX:END -->
 
 <br/>
