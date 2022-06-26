@@ -37,6 +37,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - String `valueOf()`: [`StringMethods/valueOf`](StringMethods/valueOf/)
 - String `isEmpty()` / `isBlank()`: [`StringMethods/isEmpty`](StringMethods/isEmpty/)
 - `StringBuilder` methods: [`StringBuilder/Methods`](StringBuilder/Methods/)
+- `StringBuilder` vs `StringBuffer`: [`StringBuilder/StringBuffer`](StringBuilder/StringBuffer/)
 <!-- INDEX:END -->
 
 <br/>
