@@ -15,4 +15,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - IDS01-J, normalize strings before validating them: [`IDS/IDS01_NormalizeBeforeValidating.java`](IDS/IDS01_NormalizeBeforeValidating.java)
 - EXP00-J, do not ignore values returned by methods: [`EXP/EXP00_IgnoredReturnValues.java`](EXP/EXP00_IgnoredReturnValues.java)
 - NUM04-J, do not use floating-point numbers if precise computation is required: [`NUM/NUM04_FloatingPointPrecision.java`](NUM/NUM04_FloatingPointPrecision.java)
+- OBJ01-J, limit accessibility of fields: [`OBJ/OBJ01_LimitFieldAccessibility.java`](OBJ/OBJ01_LimitFieldAccessibility.java)
 <!-- INDEX:END -->
