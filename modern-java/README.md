@@ -21,4 +21,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 17, JEP 409 sealed classes: [`java17/SealedClasses.java`](java17/SealedClasses.java)
 - Java 9, JEP 213 try-with-resources on effectively final variables: [`java9/TryWithResourcesEffectivelyFinal.java`](java9/TryWithResourcesEffectivelyFinal.java)
 - Java 9, `Optional.ifPresentOrElse`, `or` and `stream`: [`java9/OptionalImprovements.java`](java9/OptionalImprovements.java)
+- Java 9, `Stream.takeWhile`, `dropWhile`, `iterate` and `ofNullable`: [`java9/StreamTakeWhileDropWhile.java`](java9/StreamTakeWhileDropWhile.java)
 <!-- INDEX:END -->
