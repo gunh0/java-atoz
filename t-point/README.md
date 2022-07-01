@@ -38,6 +38,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - String `isEmpty()` / `isBlank()`: [`StringMethods/isEmpty`](StringMethods/isEmpty/)
 - `StringBuilder` methods: [`StringBuilder/Methods`](StringBuilder/Methods/)
 - `StringBuilder` vs `StringBuffer`: [`StringBuilder/StringBuffer`](StringBuilder/StringBuffer/)
+- Thread priority: [`Multithreading/ThreadPriority`](Multithreading/ThreadPriority/)
 <!-- INDEX:END -->
 
 <br/>
