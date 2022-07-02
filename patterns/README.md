@@ -9,4 +9,5 @@ Files live in one directory per group and are named after the pattern: `<creatio
 <!-- INDEX:START -->
 - Creational, Singleton (eager, synchronized, double-checked, holder, enum): [`creational/Singleton.java`](creational/Singleton.java)
 - Creational, Factory Method: [`creational/FactoryMethod.java`](creational/FactoryMethod.java)
+- Creational, Abstract Factory: [`creational/AbstractFactory.java`](creational/AbstractFactory.java)
 <!-- INDEX:END -->
