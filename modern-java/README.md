@@ -22,4 +22,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 9, JEP 213 try-with-resources on effectively final variables: [`java9/TryWithResourcesEffectivelyFinal.java`](java9/TryWithResourcesEffectivelyFinal.java)
 - Java 9, `Optional.ifPresentOrElse`, `or` and `stream`: [`java9/OptionalImprovements.java`](java9/OptionalImprovements.java)
 - Java 9, `Stream.takeWhile`, `dropWhile`, `iterate` and `ofNullable`: [`java9/StreamTakeWhileDropWhile.java`](java9/StreamTakeWhileDropWhile.java)
+- Java 9, JEP 102 Process API updates (`ProcessHandle`): [`java9/ProcessHandleApi.java`](java9/ProcessHandleApi.java)
 <!-- INDEX:END -->
