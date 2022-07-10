@@ -40,6 +40,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - `StringBuilder` vs `StringBuffer`: [`StringBuilder/StringBuffer`](StringBuilder/StringBuffer/)
 - Thread priority: [`Multithreading/ThreadPriority`](Multithreading/ThreadPriority/)
 - OOP, class and object: [`OOP/ClassAndObject`](OOP/ClassAndObject/)
+- OOP, constructors, overloading and `this(...)` chaining: [`OOP/Constructors`](OOP/Constructors/)
 <!-- INDEX:END -->
 
 <br/>
