@@ -25,4 +25,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 15, minimize the accessibility of classes and members: `15_MinimizeAccessibility.java`
 - Item 16, in public classes, use accessor methods, not public fields: `16_AccessorMethods.java`
 - Item 17, minimize mutability: `17_Immutability.java`
+- Item 18, favor composition over inheritance: `18_CompositionOverInheritance.java`
 <!-- INDEX:END -->
