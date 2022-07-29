@@ -17,4 +17,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - NUM04-J, do not use floating-point numbers if precise computation is required: [`NUM/NUM04_FloatingPointPrecision.java`](NUM/NUM04_FloatingPointPrecision.java)
 - OBJ01-J, limit accessibility of fields: [`OBJ/OBJ01_LimitFieldAccessibility.java`](OBJ/OBJ01_LimitFieldAccessibility.java)
 - IDS03-J, do not log unsanitized user input: [`IDS/IDS03_LogInjection.java`](IDS/IDS03_LogInjection.java)
+- STR02-J, specify an appropriate locale when comparing locale-dependent data: [`STR/STR02_LocaleComparison.java`](STR/STR02_LocaleComparison.java)
 <!-- INDEX:END -->
