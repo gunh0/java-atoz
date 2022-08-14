@@ -23,4 +23,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 9, `Optional.ifPresentOrElse`, `or` and `stream`: [`java9/OptionalImprovements.java`](java9/OptionalImprovements.java)
 - Java 9, `Stream.takeWhile`, `dropWhile`, `iterate` and `ofNullable`: [`java9/StreamTakeWhileDropWhile.java`](java9/StreamTakeWhileDropWhile.java)
 - Java 9, JEP 102 Process API updates (`ProcessHandle`): [`java9/ProcessHandleApi.java`](java9/ProcessHandleApi.java)
+- Java 9, JEP 259 Stack-Walking API: [`java9/StackWalkerApi.java`](java9/StackWalkerApi.java)
 <!-- INDEX:END -->
