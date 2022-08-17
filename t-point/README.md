@@ -43,6 +43,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - OOP, constructors, overloading and `this(...)` chaining: [`OOP/Constructors`](OOP/Constructors/)
 - OOP, method overloading: [`OOP/MethodOverloading`](OOP/MethodOverloading/)
 - OOP, `static` fields, methods and blocks: [`OOP/StaticKeyword`](OOP/StaticKeyword/)
+- OOP, the `this` keyword: [`OOP/ThisKeyword`](OOP/ThisKeyword/)
 <!-- INDEX:END -->
 
 <br/>
