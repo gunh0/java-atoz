@@ -11,4 +11,5 @@ Files live in one directory per group and are named after the pattern: `<creatio
 - Creational, Factory Method: [`creational/FactoryMethod.java`](creational/FactoryMethod.java)
 - Creational, Abstract Factory: [`creational/AbstractFactory.java`](creational/AbstractFactory.java)
 - Creational, Builder (director and two representations): [`creational/Builder.java`](creational/Builder.java)
+- Creational, Prototype: [`creational/Prototype.java`](creational/Prototype.java)
 <!-- INDEX:END -->
