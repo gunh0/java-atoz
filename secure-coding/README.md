@@ -19,4 +19,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - IDS03-J, do not log unsanitized user input: [`IDS/IDS03_LogInjection.java`](IDS/IDS03_LogInjection.java)
 - STR02-J, specify an appropriate locale when comparing locale-dependent data: [`STR/STR02_LocaleComparison.java`](STR/STR02_LocaleComparison.java)
 - ERR01-J, do not allow exceptions to expose sensitive information: [`ERR/ERR01_SensitiveExceptionInfo.java`](ERR/ERR01_SensitiveExceptionInfo.java)
+- NUM09-J, do not use floating-point variables as loop counters: [`NUM/NUM09_FloatingPointLoopCounter.java`](NUM/NUM09_FloatingPointLoopCounter.java)
 <!-- INDEX:END -->
