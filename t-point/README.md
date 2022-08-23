@@ -44,6 +44,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - OOP, method overloading: [`OOP/MethodOverloading`](OOP/MethodOverloading/)
 - OOP, `static` fields, methods and blocks: [`OOP/StaticKeyword`](OOP/StaticKeyword/)
 - OOP, the `this` keyword: [`OOP/ThisKeyword`](OOP/ThisKeyword/)
+- OOP, inheritance: [`OOP/Inheritance`](OOP/Inheritance/)
 <!-- INDEX:END -->
 
 <br/>
