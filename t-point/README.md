@@ -46,6 +46,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - OOP, the `this` keyword: [`OOP/ThisKeyword`](OOP/ThisKeyword/)
 - OOP, inheritance: [`OOP/Inheritance`](OOP/Inheritance/)
 - OOP, the `super` keyword: [`OOP/SuperKeyword`](OOP/SuperKeyword/)
+- OOP, method overriding: [`OOP/MethodOverriding`](OOP/MethodOverriding/)
 <!-- INDEX:END -->
 
 <br/>
