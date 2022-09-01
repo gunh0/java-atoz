@@ -29,4 +29,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 19, design and document for inheritance or else prohibit it: `19_DesignForInheritance.java`
 - Item 20, prefer interfaces to abstract classes: `20_InterfacesOverAbstractClasses.java`
 - Item 21, design interfaces for posterity: `21_InterfacesForPosterity.java`
+- Item 22, use interfaces only to define types: `22_InterfacesForTypesOnly.java`
 <!-- INDEX:END -->
