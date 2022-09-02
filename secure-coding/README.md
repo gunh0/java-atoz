@@ -21,4 +21,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - ERR01-J, do not allow exceptions to expose sensitive information: [`ERR/ERR01_SensitiveExceptionInfo.java`](ERR/ERR01_SensitiveExceptionInfo.java)
 - NUM09-J, do not use floating-point variables as loop counters: [`NUM/NUM09_FloatingPointLoopCounter.java`](NUM/NUM09_FloatingPointLoopCounter.java)
 - OBJ05-J, do not return references to private mutable class members: [`OBJ/OBJ05_MutableClassMembers.java`](OBJ/OBJ05_MutableClassMembers.java)
+- IDS07-J, sanitize untrusted data passed to the `Runtime.exec()` method: [`IDS/IDS07_RuntimeExecInjection.java`](IDS/IDS07_RuntimeExecInjection.java)
 <!-- INDEX:END -->
