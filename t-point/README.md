@@ -48,6 +48,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - OOP, the `super` keyword: [`OOP/SuperKeyword`](OOP/SuperKeyword/)
 - OOP, method overriding: [`OOP/MethodOverriding`](OOP/MethodOverriding/)
 - OOP, runtime polymorphism: [`OOP/Polymorphism`](OOP/Polymorphism/)
+- OOP, the `final` keyword: [`OOP/FinalKeyword`](OOP/FinalKeyword/)
 <!-- INDEX:END -->
 
 <br/>
