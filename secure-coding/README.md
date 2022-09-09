@@ -22,4 +22,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - NUM09-J, do not use floating-point variables as loop counters: [`NUM/NUM09_FloatingPointLoopCounter.java`](NUM/NUM09_FloatingPointLoopCounter.java)
 - OBJ05-J, do not return references to private mutable class members: [`OBJ/OBJ05_MutableClassMembers.java`](OBJ/OBJ05_MutableClassMembers.java)
 - IDS07-J, sanitize untrusted data passed to the `Runtime.exec()` method: [`IDS/IDS07_RuntimeExecInjection.java`](IDS/IDS07_RuntimeExecInjection.java)
+- STR03-J, do not encode noncharacter data as a string: [`STR/STR03_NonCharacterDataAsString.java`](STR/STR03_NonCharacterDataAsString.java)
 <!-- INDEX:END -->
