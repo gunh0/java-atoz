@@ -31,4 +31,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 21, design interfaces for posterity: `21_InterfacesForPosterity.java`
 - Item 22, use interfaces only to define types: `22_InterfacesForTypesOnly.java`
 - Item 23, prefer class hierarchies to tagged classes: `23_TaggedClasses.java`
+- Item 24, favor static member classes over nonstatic: `24_StaticMemberClasses.java`
 <!-- INDEX:END -->
