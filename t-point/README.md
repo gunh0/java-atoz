@@ -50,6 +50,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - OOP, runtime polymorphism: [`OOP/Polymorphism`](OOP/Polymorphism/)
 - OOP, the `final` keyword: [`OOP/FinalKeyword`](OOP/FinalKeyword/)
 - OOP, abstract classes: [`OOP/AbstractClass`](OOP/AbstractClass/)
+- OOP, interfaces with `default` and `static` methods: [`OOP/Interface`](OOP/Interface/)
 <!-- INDEX:END -->
 
 <br/>
