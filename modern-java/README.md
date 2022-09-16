@@ -26,4 +26,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 9, JEP 259 Stack-Walking API: [`java9/StackWalkerApi.java`](java9/StackWalkerApi.java)
 - Java 11, `Predicate.not` and `Optional.isEmpty`: [`java11/PredicateNotOptionalIsEmpty.java`](java11/PredicateNotOptionalIsEmpty.java)
 - Java 12, `String.indent` and `String.transform`: [`java12/StringIndentTransform.java`](java12/StringIndentTransform.java)
+- Java 12, `Files.mismatch`: [`java12/FilesMismatch.java`](java12/FilesMismatch.java)
 <!-- INDEX:END -->
