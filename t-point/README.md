@@ -51,6 +51,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - OOP, the `final` keyword: [`OOP/FinalKeyword`](OOP/FinalKeyword/)
 - OOP, abstract classes: [`OOP/AbstractClass`](OOP/AbstractClass/)
 - OOP, interfaces with `default` and `static` methods: [`OOP/Interface`](OOP/Interface/)
+- OOP, encapsulation and access modifiers: [`OOP/Encapsulation`](OOP/Encapsulation/)
 <!-- INDEX:END -->
 
 <br/>
