@@ -14,4 +14,5 @@ Files live in one directory per group and are named after the pattern: `<creatio
 - Creational, Prototype: [`creational/Prototype.java`](creational/Prototype.java)
 - Structural, Adapter: [`structural/Adapter.java`](structural/Adapter.java)
 - Structural, Bridge: [`structural/Bridge.java`](structural/Bridge.java)
+- Structural, Composite: [`structural/Composite.java`](structural/Composite.java)
 <!-- INDEX:END -->
