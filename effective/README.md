@@ -32,4 +32,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 22, use interfaces only to define types: `22_InterfacesForTypesOnly.java`
 - Item 23, prefer class hierarchies to tagged classes: `23_TaggedClasses.java`
 - Item 24, favor static member classes over nonstatic: `24_StaticMemberClasses.java`
+- Item 25, limit source files to a single top-level class: `25_SingleTopLevelClass.java`
 <!-- INDEX:END -->
