@@ -24,4 +24,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - IDS07-J, sanitize untrusted data passed to the `Runtime.exec()` method: [`IDS/IDS07_RuntimeExecInjection.java`](IDS/IDS07_RuntimeExecInjection.java)
 - STR03-J, do not encode noncharacter data as a string: [`STR/STR03_NonCharacterDataAsString.java`](STR/STR03_NonCharacterDataAsString.java)
 - ERR08-J, do not catch `NullPointerException` or any of its ancestors: [`ERR/ERR08_CatchNullPointerException.java`](ERR/ERR08_CatchNullPointerException.java)
+- OBJ13-J, ensure that references to mutable objects are not exposed: [`OBJ/OBJ13_ExposedMutableReferences.java`](OBJ/OBJ13_ExposedMutableReferences.java)
 <!-- INDEX:END -->
