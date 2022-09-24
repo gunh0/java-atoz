@@ -27,4 +27,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 11, `Predicate.not` and `Optional.isEmpty`: [`java11/PredicateNotOptionalIsEmpty.java`](java11/PredicateNotOptionalIsEmpty.java)
 - Java 12, `String.indent` and `String.transform`: [`java12/StringIndentTransform.java`](java12/StringIndentTransform.java)
 - Java 12, `Files.mismatch`: [`java12/FilesMismatch.java`](java12/FilesMismatch.java)
+- Java 12, `CompactNumberFormat`: [`java12/CompactNumberFormatting.java`](java12/CompactNumberFormatting.java)
 <!-- INDEX:END -->
