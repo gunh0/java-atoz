@@ -53,6 +53,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - OOP, interfaces with `default` and `static` methods: [`OOP/Interface`](OOP/Interface/)
 - OOP, encapsulation and access modifiers: [`OOP/Encapsulation`](OOP/Encapsulation/)
 - OOP, inner and static nested classes: [`OOP/InnerClass`](OOP/InnerClass/)
+- OOP, anonymous and local classes: [`OOP/AnonymousClass`](OOP/AnonymousClass/)
 <!-- INDEX:END -->
 
 <br/>
