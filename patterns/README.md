@@ -15,4 +15,5 @@ Files live in one directory per group and are named after the pattern: `<creatio
 - Structural, Adapter: [`structural/Adapter.java`](structural/Adapter.java)
 - Structural, Bridge: [`structural/Bridge.java`](structural/Bridge.java)
 - Structural, Composite: [`structural/Composite.java`](structural/Composite.java)
+- Structural, Decorator (as in `java.io` streams): [`structural/Decorator.java`](structural/Decorator.java)
 <!-- INDEX:END -->
