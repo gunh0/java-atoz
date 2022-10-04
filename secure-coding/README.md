@@ -26,4 +26,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - ERR08-J, do not catch `NullPointerException` or any of its ancestors: [`ERR/ERR08_CatchNullPointerException.java`](ERR/ERR08_CatchNullPointerException.java)
 - OBJ13-J, ensure that references to mutable objects are not exposed: [`OBJ/OBJ13_ExposedMutableReferences.java`](OBJ/OBJ13_ExposedMutableReferences.java)
 - FIO02-J, detect and handle file-related errors: [`FIO/FIO02_FileErrors.java`](FIO/FIO02_FileErrors.java)
+- IDS16-J, prevent XML injection: [`IDS/IDS16_XmlInjection.java`](IDS/IDS16_XmlInjection.java)
 <!-- INDEX:END -->
