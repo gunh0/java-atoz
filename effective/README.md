@@ -35,4 +35,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 25, limit source files to a single top-level class: `25_SingleTopLevelClass.java`
 - Item 27, eliminate unchecked warnings: `27_UncheckedWarnings.java`
 - Item 28, prefer lists to arrays: `28_ListsOverArrays.java`
+- Item 29, favor generic types: `29_GenericTypes.java`
 <!-- INDEX:END -->
