@@ -27,4 +27,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - OBJ13-J, ensure that references to mutable objects are not exposed: [`OBJ/OBJ13_ExposedMutableReferences.java`](OBJ/OBJ13_ExposedMutableReferences.java)
 - FIO02-J, detect and handle file-related errors: [`FIO/FIO02_FileErrors.java`](FIO/FIO02_FileErrors.java)
 - IDS16-J, prevent XML injection: [`IDS/IDS16_XmlInjection.java`](IDS/IDS16_XmlInjection.java)
+- LCK00-J, use private final lock objects with untrusted code: [`LCK/LCK00_PrivateLockObjects.java`](LCK/LCK00_PrivateLockObjects.java)
 <!-- INDEX:END -->
