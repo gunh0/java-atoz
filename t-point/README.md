@@ -57,6 +57,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - OOP, enums with fields, constructors and methods: [`OOP/Enum`](OOP/Enum/)
 - Collections, `ArrayList`: [`Collections/ArrayList`](Collections/ArrayList/)
 - Collections, `LinkedList`: [`Collections/LinkedList`](Collections/LinkedList/)
+- Collections, `HashSet`: [`Collections/HashSet`](Collections/HashSet/)
 <!-- INDEX:END -->
 
 <br/>
