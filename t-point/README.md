@@ -58,6 +58,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Collections, `ArrayList`: [`Collections/ArrayList`](Collections/ArrayList/)
 - Collections, `LinkedList`: [`Collections/LinkedList`](Collections/LinkedList/)
 - Collections, `HashSet`: [`Collections/HashSet`](Collections/HashSet/)
+- Collections, `LinkedHashSet` and `TreeSet`: [`Collections/TreeSet`](Collections/TreeSet/)
 <!-- INDEX:END -->
 
 <br/>
