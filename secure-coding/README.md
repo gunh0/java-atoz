@@ -28,4 +28,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - FIO02-J, detect and handle file-related errors: [`FIO/FIO02_FileErrors.java`](FIO/FIO02_FileErrors.java)
 - IDS16-J, prevent XML injection: [`IDS/IDS16_XmlInjection.java`](IDS/IDS16_XmlInjection.java)
 - LCK00-J, use private final lock objects with untrusted code: [`LCK/LCK00_PrivateLockObjects.java`](LCK/LCK00_PrivateLockObjects.java)
+- MSC03-J, never hard code sensitive information: [`MSC/MSC03_HardCodedSecrets.java`](MSC/MSC03_HardCodedSecrets.java)
 <!-- INDEX:END -->
