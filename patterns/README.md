@@ -17,4 +17,5 @@ Files live in one directory per group and are named after the pattern: `<creatio
 - Structural, Composite: [`structural/Composite.java`](structural/Composite.java)
 - Structural, Decorator (as in `java.io` streams): [`structural/Decorator.java`](structural/Decorator.java)
 - Structural, Facade: [`structural/Facade.java`](structural/Facade.java)
+- Structural, Flyweight: [`structural/Flyweight.java`](structural/Flyweight.java)
 <!-- INDEX:END -->
