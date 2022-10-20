@@ -37,4 +37,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 28, prefer lists to arrays: `28_ListsOverArrays.java`
 - Item 29, favor generic types: `29_GenericTypes.java`
 - Item 30, favor generic methods: `30_GenericMethods.java`
+- Item 31, use bounded wildcards to increase API flexibility: `31_BoundedWildcards.java`
 <!-- INDEX:END -->
