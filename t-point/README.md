@@ -60,6 +60,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Collections, `HashSet`: [`Collections/HashSet`](Collections/HashSet/)
 - Collections, `LinkedHashSet` and `TreeSet`: [`Collections/TreeSet`](Collections/TreeSet/)
 - Collections, `HashMap`: [`Collections/HashMap`](Collections/HashMap/)
+- Collections, `LinkedHashMap` (insertion and access order, LRU cache): [`Collections/LinkedHashMap`](Collections/LinkedHashMap/)
 <!-- INDEX:END -->
 
 <br/>
