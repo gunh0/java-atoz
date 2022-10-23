@@ -30,4 +30,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 12, `CompactNumberFormat`: [`java12/CompactNumberFormatting.java`](java12/CompactNumberFormatting.java)
 - Java 17, JEP 356 enhanced pseudo-random number generators: [`java17/RandomGenerators.java`](java17/RandomGenerators.java)
 - Java 17, `java.util.HexFormat`: [`java17/HexFormatExample.java`](java17/HexFormatExample.java)
+- Java 18, JEP 400 UTF-8 by default: [`java18/Utf8ByDefault.java`](java18/Utf8ByDefault.java)
 <!-- INDEX:END -->
