@@ -38,4 +38,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 29, favor generic types: `29_GenericTypes.java`
 - Item 30, favor generic methods: `30_GenericMethods.java`
 - Item 31, use bounded wildcards to increase API flexibility: `31_BoundedWildcards.java`
+- Item 32, combine generics and varargs judiciously: `32_GenericsAndVarargs.java`
 <!-- INDEX:END -->
