@@ -30,4 +30,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - LCK00-J, use private final lock objects with untrusted code: [`LCK/LCK00_PrivateLockObjects.java`](LCK/LCK00_PrivateLockObjects.java)
 - MSC03-J, never hard code sensitive information: [`MSC/MSC03_HardCodedSecrets.java`](MSC/MSC03_HardCodedSecrets.java)
 - OBJ11-J, be wary of letting constructors throw exceptions: [`OBJ/OBJ11_ConstructorExceptions.java`](OBJ/OBJ11_ConstructorExceptions.java)
+- FIO05-J, do not expose buffers or their backing arrays to untrusted code: [`FIO/FIO05_ExposeBuffers.java`](FIO/FIO05_ExposeBuffers.java)
 <!-- INDEX:END -->
