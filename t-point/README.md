@@ -62,6 +62,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Collections, `HashMap`: [`Collections/HashMap`](Collections/HashMap/)
 - Collections, `LinkedHashMap` (insertion and access order, LRU cache): [`Collections/LinkedHashMap`](Collections/LinkedHashMap/)
 - Collections, `TreeMap`: [`Collections/TreeMap`](Collections/TreeMap/)
+- Collections, `Iterator` and `ConcurrentModificationException`: [`Collections/Iterator`](Collections/Iterator/)
 <!-- INDEX:END -->
 
 <br/>
