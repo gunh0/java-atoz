@@ -40,4 +40,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 31, use bounded wildcards to increase API flexibility: `31_BoundedWildcards.java`
 - Item 32, combine generics and varargs judiciously: `32_GenericsAndVarargs.java`
 - Item 33, consider typesafe heterogeneous containers: `33_HeterogeneousContainers.java`
+- Item 34, use enums instead of int constants: `34_Enums.java`
 <!-- INDEX:END -->
