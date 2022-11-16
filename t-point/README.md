@@ -66,6 +66,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Collections, `Comparable` natural ordering: [`Collections/Comparable`](Collections/Comparable/)
 - Collections, `Comparator` and its combinators: [`Collections/Comparator`](Collections/Comparator/)
 - Collections, `Collections` utility methods: [`Collections/CollectionsUtility`](Collections/CollectionsUtility/)
+- Collections, `ArrayDeque` as stack and queue: [`Collections/ArrayDeque`](Collections/ArrayDeque/)
 <!-- INDEX:END -->
 
 <br/>
