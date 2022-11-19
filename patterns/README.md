@@ -20,4 +20,5 @@ Files live in one directory per group and are named after the pattern: `<creatio
 - Structural, Flyweight: [`structural/Flyweight.java`](structural/Flyweight.java)
 - Structural, Proxy (static and `java.lang.reflect.Proxy`): [`structural/Proxy.java`](structural/Proxy.java)
 - Behavioral, Chain of Responsibility: [`behavioral/ChainOfResponsibility.java`](behavioral/ChainOfResponsibility.java)
+- Behavioral, Command (with undo): [`behavioral/Command.java`](behavioral/Command.java)
 <!-- INDEX:END -->
