@@ -42,4 +42,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 33, consider typesafe heterogeneous containers: `33_HeterogeneousContainers.java`
 - Item 34, use enums instead of int constants: `34_Enums.java`
 - Item 35, use instance fields instead of ordinals: `35_InstanceFieldsNotOrdinals.java`
+- Item 36, use EnumSet instead of bit fields: `36_EnumSet.java`
 <!-- INDEX:END -->
