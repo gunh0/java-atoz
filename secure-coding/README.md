@@ -34,4 +34,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - IDS17-J, prevent XML external entity attacks: [`IDS/IDS17_XxeAttack.java`](IDS/IDS17_XxeAttack.java)
 - LCK01-J, do not synchronize on objects that may be reused: [`LCK/LCK01_ReusedLockObjects.java`](LCK/LCK01_ReusedLockObjects.java)
 - THI00-J, do not invoke `Thread.run()`: [`THI/THI00_ThreadRun.java`](THI/THI00_ThreadRun.java)
+- SER05-J, do not serialize instances of inner classes: [`SER/SER05_InnerClassSerialization.java`](SER/SER05_InnerClassSerialization.java)
 <!-- INDEX:END -->
