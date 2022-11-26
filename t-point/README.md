@@ -68,6 +68,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Collections, `Collections` utility methods: [`Collections/CollectionsUtility`](Collections/CollectionsUtility/)
 - Collections, `ArrayDeque` as stack and queue: [`Collections/ArrayDeque`](Collections/ArrayDeque/)
 - Collections, `PriorityQueue`: [`Collections/PriorityQueue`](Collections/PriorityQueue/)
+- Generics, generic classes: [`Generics/GenericClass`](Generics/GenericClass/)
 <!-- INDEX:END -->
 
 <br/>
