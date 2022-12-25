@@ -35,4 +35,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - LCK01-J, do not synchronize on objects that may be reused: [`LCK/LCK01_ReusedLockObjects.java`](LCK/LCK01_ReusedLockObjects.java)
 - THI00-J, do not invoke `Thread.run()`: [`THI/THI00_ThreadRun.java`](THI/THI00_ThreadRun.java)
 - SER05-J, do not serialize instances of inner classes: [`SER/SER05_InnerClassSerialization.java`](SER/SER05_InnerClassSerialization.java)
+- SER06-J, make defensive copies of private mutable components during deserialization: [`SER/SER06_DefensiveReadObject.java`](SER/SER06_DefensiveReadObject.java)
 <!-- INDEX:END -->
