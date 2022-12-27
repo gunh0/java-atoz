@@ -70,6 +70,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Collections, `PriorityQueue`: [`Collections/PriorityQueue`](Collections/PriorityQueue/)
 - Generics, generic classes: [`Generics/GenericClass`](Generics/GenericClass/)
 - Generics, generic methods: [`Generics/GenericMethod`](Generics/GenericMethod/)
+- Generics, bounded type parameters: [`Generics/BoundedTypes`](Generics/BoundedTypes/)
 <!-- INDEX:END -->
 
 <br/>
