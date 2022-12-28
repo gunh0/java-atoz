@@ -34,4 +34,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 18, JEP 408 Simple Web Server (`SimpleFileServer`): [`java18/SimpleWebServer.java`](java18/SimpleWebServer.java)
 - Java 19, `Future.state`, `resultNow` and `exceptionNow`: [`java19/FutureStateResultNow.java`](java19/FutureStateResultNow.java)
 - Java 19, `ExecutorService` is `AutoCloseable`: [`java19/ExecutorServiceClose.java`](java19/ExecutorServiceClose.java)
+- Java 19, `HashMap.newHashMap` and sized factories: [`java19/NewHashMapCapacity.java`](java19/NewHashMapCapacity.java)
 <!-- INDEX:END -->
