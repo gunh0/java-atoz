@@ -44,4 +44,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 35, use instance fields instead of ordinals: `35_InstanceFieldsNotOrdinals.java`
 - Item 36, use EnumSet instead of bit fields: `36_EnumSet.java`
 - Item 37, use EnumMap instead of ordinal indexing: `37_EnumMap.java`
+- Item 38, emulate extensible enums with interfaces: `38_ExtensibleEnums.java`
 <!-- INDEX:END -->
