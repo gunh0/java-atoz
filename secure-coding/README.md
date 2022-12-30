@@ -36,4 +36,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - THI00-J, do not invoke `Thread.run()`: [`THI/THI00_ThreadRun.java`](THI/THI00_ThreadRun.java)
 - SER05-J, do not serialize instances of inner classes: [`SER/SER05_InnerClassSerialization.java`](SER/SER05_InnerClassSerialization.java)
 - SER06-J, make defensive copies of private mutable components during deserialization: [`SER/SER06_DefensiveReadObject.java`](SER/SER06_DefensiveReadObject.java)
+- MSC00-J, use `SSLSocket` rather than `Socket` for secure data exchange: [`MSC/MSC00_SslSocket.java`](MSC/MSC00_SslSocket.java)
 <!-- INDEX:END -->
