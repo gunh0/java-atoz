@@ -71,6 +71,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Generics, generic classes: [`Generics/GenericClass`](Generics/GenericClass/)
 - Generics, generic methods: [`Generics/GenericMethod`](Generics/GenericMethod/)
 - Generics, bounded type parameters: [`Generics/BoundedTypes`](Generics/BoundedTypes/)
+- Generics, wildcards (`?`, `extends`, `super`): [`Generics/Wildcards`](Generics/Wildcards/)
 <!-- INDEX:END -->
 
 <br/>
