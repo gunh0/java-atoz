@@ -1,26 +1,7 @@
-
 // import statement  
 import java.io.*;
 
-// The ThreadJoin class is the child class of the class Thread  
-class ThreadJoin extends Thread {
-    // overriding the run method
-    public void run() {
-        for (int j = 0; j < 2; j++) {
-            try {
-                // sleeping the thread for 300 milli seconds
-                Thread.sleep(300);
-                System.out.println("The current thread name is: " + Thread.currentThread().getName());
-            }
-            // catch block for catching the raised exception
-            catch (Exception e) {
-                System.out.println("The exception has been caught: " + e);
-            }
-            System.out.println(j);
-        }
-    }
-}
-
+// `java File.java` runs the first class in the file, so the class with main() comes first.
 public class ThreadJoinExample {
     // main method
     public static void main(String argvs[]) {
@@ -65,3 +46,39 @@ public class ThreadJoinExample {
         th3.start();
     }
 }
+
+// The ThreadJoin class is the child class of the class Thread  
+class ThreadJoin extends Thread {
+    // overriding the run method
+    public void run() {
+        for (int j = 0; j < 2; j++) {
+            try {
+                // sleeping the thread for 300 milli seconds
+                Thread.sleep(300);
+                System.out.println("The current thread name is: " + Thread.currentThread().getName());
+            }
+            // catch block for catching the raised exception
+            catch (Exception e) {
+                System.out.println("The exception has been caught: " + e);
+            }
+            System.out.println(j);
+        }
+    }
+}
+
+/* Output:
+The current thread name is: main
+The current thread name is: Thread-0
+0
+The current thread name is: Thread-0
+1
+The current thread name is: main
+The current thread name is: Thread-1
+0
+The current thread name is: Thread-1
+1
+The current thread name is: Thread-2
+0
+The current thread name is: Thread-2
+1
+*/

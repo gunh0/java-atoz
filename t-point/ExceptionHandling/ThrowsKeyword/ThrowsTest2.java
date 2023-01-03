@@ -1,11 +1,6 @@
 import java.io.*;
 
-class M {
-    void method() throws IOException {
-        throw new IOException("device error");
-    }
-}
-
+// `java File.java` runs the first class in the file, so the class with main() comes first.
 public class ThrowsTest2 {
     public static void main(String args[]) {
         try {
@@ -17,3 +12,14 @@ public class ThrowsTest2 {
         System.out.println("normal flow...");
     }
 }
+
+class M {
+    void method() throws IOException {
+        throw new IOException("device error");
+    }
+}
+
+/* Output:
+exception handled
+normal flow...
+*/

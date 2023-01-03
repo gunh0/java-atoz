@@ -1,12 +1,5 @@
-// class represents user-defined exception  
-class UserDefinedException extends Exception {
-    public UserDefinedException(String str) {
-        // Calling constructor of parent Exception  
-        super(str);
-    }
-}
-
-// Class that uses above MyException  
+// `java File.java` runs the first class in the file, so the class with main() comes first.
+// Class that uses the UserDefinedException below  
 public class ThrowException3 {
     public static void main(String args[]) {
         try {
@@ -19,3 +12,16 @@ public class ThrowException3 {
         }
     }
 }
+
+// class represents user-defined exception  
+class UserDefinedException extends Exception {
+    public UserDefinedException(String str) {
+        // Calling constructor of parent Exception  
+        super(str);
+    }
+}
+
+/* Output:
+Caught the exception
+This is user-defined exception
+*/
