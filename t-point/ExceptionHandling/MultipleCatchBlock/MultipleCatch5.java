@@ -15,3 +15,8 @@ public class MultipleCatch5 {
         System.out.println("rest of the code...");
     }
 }
+
+/* Output:
+task1 is completed
+rest of the code...
+*/

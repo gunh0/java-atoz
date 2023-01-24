@@ -11,3 +11,7 @@ public class ArithmeticException3 {
         }
     }
 }
+
+/* Output:
+java.lang.ArithmeticException: / by zero
+*/

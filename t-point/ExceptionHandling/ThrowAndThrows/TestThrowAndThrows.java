@@ -15,3 +15,8 @@ public class TestThrowAndThrows {
         }
     }
 }
+
+/* Output:
+Inside the method()
+caught in main() method
+*/

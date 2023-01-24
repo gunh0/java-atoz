@@ -12,3 +12,7 @@ public class ArithmeticException5 {
     }
 
 }
+
+/* Output:
+Can't divided by zero
+*/

@@ -22,3 +22,11 @@ public class TryFinally3 {
         System.out.println("rest of the code...");
     }
 }
+
+/* Output:
+Inside try block
+Exception handled
+java.lang.ArithmeticException: / by zero
+finally block is always executed
+rest of the code...
+*/

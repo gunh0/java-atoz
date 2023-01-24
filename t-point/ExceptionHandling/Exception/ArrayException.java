@@ -11,3 +11,8 @@ public class ArrayException {
         System.out.println("rest of the code");
     }
 }
+
+/* Output:
+java.lang.ArrayIndexOutOfBoundsException: Index 10 out of bounds for length 4
+rest of the code
+*/

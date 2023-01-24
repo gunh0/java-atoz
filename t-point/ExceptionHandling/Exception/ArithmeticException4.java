@@ -10,3 +10,8 @@ public class ArithmeticException4 {
         System.out.println("rest of the code");
     }
 }
+
+/* Output:
+java.lang.ArithmeticException: / by zero
+rest of the code
+*/

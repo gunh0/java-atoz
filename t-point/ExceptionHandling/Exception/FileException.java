@@ -17,3 +17,7 @@ public class FileException {
         System.out.println("File saved successfully");
     }
 }
+
+/* Output:
+File saved successfully
+*/

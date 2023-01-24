@@ -13,3 +13,8 @@ public class MultipleCatch4 {
         System.out.println("rest of the code");
     }
 }
+
+/* Output:
+Parent Exception occurs
+rest of the code
+*/

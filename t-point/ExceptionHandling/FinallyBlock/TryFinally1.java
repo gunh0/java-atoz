@@ -16,3 +16,9 @@ public class TryFinally1 {
         System.out.println("rest of phe code...");
     }
 }
+
+/* Output:
+5
+finally block is always executed
+rest of phe code...
+*/

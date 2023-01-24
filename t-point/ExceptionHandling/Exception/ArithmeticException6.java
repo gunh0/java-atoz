@@ -13,3 +13,7 @@ public class ArithmeticException6 {
         }
     }
 }
+
+/* Output:
+25
+*/

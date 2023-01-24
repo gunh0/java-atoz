@@ -13,3 +13,8 @@ public class MultipleCatch2 {
         System.out.println("rest of the code");
     }
 }
+
+/* Output:
+ArrayIndexOutOfBounds Exception occurs
+rest of the code
+*/

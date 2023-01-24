@@ -17,3 +17,9 @@ public class TestThrows {
         System.out.println("Rest of the code..");
     }
 }
+
+/* Output:
+
+Number cannot be divided by 0
+Rest of the code..
+*/

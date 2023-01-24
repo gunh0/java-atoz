@@ -23,3 +23,8 @@ public class ThrowsTest1 {
         System.out.println("normal flow...");
     }
 }
+
+/* Output:
+exception handled
+normal flow...
+*/

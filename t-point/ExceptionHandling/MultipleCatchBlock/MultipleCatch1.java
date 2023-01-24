@@ -13,3 +13,8 @@ public class MultipleCatch1 {
         System.out.println("rest of the code");
     }
 }
+
+/* Output:
+Arithmetic Exception occurs
+rest of the code
+*/

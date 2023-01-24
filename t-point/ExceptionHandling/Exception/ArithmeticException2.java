@@ -10,3 +10,8 @@ public class ArithmeticException2 {
         System.out.println("reset of the code...");
     }
 }
+
+/* Output:
+java.lang.ArithmeticException: / by zero
+reset of the code...
+*/

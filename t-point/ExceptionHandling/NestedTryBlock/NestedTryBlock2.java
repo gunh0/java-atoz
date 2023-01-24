@@ -27,3 +27,7 @@ public class NestedTryBlock2 {
         }
     }
 }
+
+/* Output:
+java.lang.ArrayIndexOutOfBoundsException: Index 10 out of bounds for length 4 outer (main) try block
+*/

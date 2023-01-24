@@ -29,3 +29,11 @@ public class NestedTryBlock1 {
         System.out.println("normal flow..");
     }
 }
+
+/* Output:
+going to divide by 0
+java.lang.ArithmeticException: / by zero
+java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+other statement
+normal flow..
+*/
