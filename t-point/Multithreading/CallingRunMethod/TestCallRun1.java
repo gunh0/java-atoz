@@ -8,3 +8,7 @@ class TestCallRun1 extends Thread {
         t1.run();// fine, but does not start a separate call stack
     }
 }
+
+/* Output:
+running...
+*/

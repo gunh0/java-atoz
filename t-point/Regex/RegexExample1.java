@@ -19,3 +19,7 @@ public class RegexExample1 {
         System.out.println(b + " " + b2 + " " + b3);
     }
 }
+
+/* Output:
+true true true
+*/

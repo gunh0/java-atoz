@@ -18,3 +18,14 @@ class TestCallRun2 extends Thread {
         t2.run();
     }
 }
+
+/* Output:
+1
+2
+3
+4
+1
+2
+3
+4
+*/

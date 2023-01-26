@@ -8,3 +8,8 @@ public class CharAtExample2 {
         System.out.println("Character at last index is: " + str.charAt(strLength - 1));
     }
 }
+
+/* Output:
+Character at 0 index is: W
+Character at last index is: g
+*/

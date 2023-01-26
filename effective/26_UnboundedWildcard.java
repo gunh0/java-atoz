@@ -46,3 +46,10 @@ public class Main {
         System.out.println("Number of common elements: " + numCommonElements);
     }
 }
+
+/* Output:
+Set 1: [banana, apple]
+Set 2: [banana, date, cherry]
+Temporary set: [banana]
+Number of common elements: 1
+*/

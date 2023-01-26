@@ -41,3 +41,7 @@ class InsufficientFundsException extends Exception {
         super(message);
     }
 }
+
+/* Output:
+Insufficient funds. You have only: 100.0
+*/

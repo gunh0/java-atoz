@@ -12,3 +12,9 @@ class RegexExample3 {
         // false (m and a comes more than once)
     }
 }
+
+/* Output:
+false
+true
+false
+*/

@@ -37,3 +37,16 @@ public class FinalizerAttack {
         }
     }
 }
+
+/* Output:
+08_FinalizerAttack.java:29: warning: [removal] finalize() in Object has been deprecated and marked for removal
+        protected void finalize() throws Throwable {
+                       ^
+08_FinalizerAttack.java:36: warning: [removal] finalize() in Object has been deprecated and marked for removal
+            super.finalize();
+                 ^
+2 warnings
+EvilFinalizer's finalize() is executed
+Malicious code executed!
+Finalizer executed: true
+*/

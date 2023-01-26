@@ -30,3 +30,7 @@ public class UserAgeValidator {
         }
     }
 }
+
+/* Output:
+Age must be a positive number.
+*/

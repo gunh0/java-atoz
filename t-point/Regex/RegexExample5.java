@@ -33,3 +33,19 @@ class RegexExample5 {
         // true (non-digit and may come 0 or more times)
     }
 }
+
+/* Output:
+metacharacters d....
+false
+true
+false
+false
+metacharacters D....
+false
+false
+false
+false
+true
+metacharacters D with quantifier....
+true
+*/

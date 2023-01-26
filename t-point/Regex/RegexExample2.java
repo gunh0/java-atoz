@@ -18,3 +18,11 @@ class RegexExample2 {
         // true (3rd char is s)
     }
 }
+
+/* Output:
+true
+false
+false
+false
+true
+*/

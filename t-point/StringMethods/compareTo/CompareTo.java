@@ -11,3 +11,10 @@ public class CompareTo {
         System.out.println(s1.compareTo(s5));// 2 because "h" is 2 times greater than "f"
     }
 }
+
+/* Output:
+0
+-5
+-1
+2
+*/

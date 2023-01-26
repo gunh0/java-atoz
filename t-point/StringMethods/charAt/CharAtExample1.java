@@ -5,3 +5,7 @@ public class CharAtExample1 {
         System.out.println(ch);
     }
 }
+
+/* Output:
+s
+*/

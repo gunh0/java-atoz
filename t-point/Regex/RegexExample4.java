@@ -36,3 +36,19 @@ class RegexExample4 {
         // true (a or m or n may come zero or more times)
     }
 }
+
+/* Output:
+? quantifier ....
+true
+false
+false
+false
+false
++ quantifier ....
+true
+true
+true
+false
+* quantifier ....
+true
+*/
