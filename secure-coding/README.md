@@ -37,4 +37,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - SER05-J, do not serialize instances of inner classes: [`SER/SER05_InnerClassSerialization.java`](SER/SER05_InnerClassSerialization.java)
 - SER06-J, make defensive copies of private mutable components during deserialization: [`SER/SER06_DefensiveReadObject.java`](SER/SER06_DefensiveReadObject.java)
 - MSC00-J, use `SSLSocket` rather than `Socket` for secure data exchange: [`MSC/MSC00_SslSocket.java`](MSC/MSC00_SslSocket.java)
+- EXP02-J, do not use the `Object.equals()` method to compare two arrays: [`EXP/EXP02_ArraysEquals.java`](EXP/EXP02_ArraysEquals.java)
 <!-- INDEX:END -->
