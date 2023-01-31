@@ -73,6 +73,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Generics, bounded type parameters: [`Generics/BoundedTypes`](Generics/BoundedTypes/)
 - Generics, wildcards (`?`, `extends`, `super`): [`Generics/Wildcards`](Generics/Wildcards/)
 - Lambdas, syntax, target typing and variable capture: [`Lambdas/LambdaSyntax`](Lambdas/LambdaSyntax/)
+- Lambdas, custom `@FunctionalInterface` types: [`Lambdas/FunctionalInterface`](Lambdas/FunctionalInterface/)
 <!-- INDEX:END -->
 
 <br/>
