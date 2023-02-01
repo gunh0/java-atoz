@@ -46,4 +46,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 37, use EnumMap instead of ordinal indexing: `37_EnumMap.java`
 - Item 38, emulate extensible enums with interfaces: `38_ExtensibleEnums.java`
 - Item 39, prefer annotations to naming patterns: `39_AnnotationsOverNamingPatterns.java`
+- Item 40, consistently use the Override annotation: `40_OverrideAnnotation.java`
 <!-- INDEX:END -->
