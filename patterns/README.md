@@ -22,4 +22,5 @@ Files live in one directory per group and are named after the pattern: `<creatio
 - Behavioral, Chain of Responsibility: [`behavioral/ChainOfResponsibility.java`](behavioral/ChainOfResponsibility.java)
 - Behavioral, Command (with undo): [`behavioral/Command.java`](behavioral/Command.java)
 - Behavioral, Iterator: [`behavioral/Iterator.java`](behavioral/Iterator.java)
+- Behavioral, Strategy: [`behavioral/Strategy.java`](behavioral/Strategy.java)
 <!-- INDEX:END -->
