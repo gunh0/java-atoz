@@ -75,6 +75,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Lambdas, syntax, target typing and variable capture: [`Lambdas/LambdaSyntax`](Lambdas/LambdaSyntax/)
 - Lambdas, custom `@FunctionalInterface` types: [`Lambdas/FunctionalInterface`](Lambdas/FunctionalInterface/)
 - Lambdas, the `java.util.function` interfaces: [`Lambdas/BuiltInInterfaces`](Lambdas/BuiltInInterfaces/)
+- Lambdas, composing `Function`, `Predicate` and `Comparator`: [`Lambdas/Composition`](Lambdas/Composition/)
 <!-- INDEX:END -->
 
 <br/>
