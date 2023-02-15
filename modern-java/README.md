@@ -36,4 +36,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 19, `ExecutorService` is `AutoCloseable`: [`java19/ExecutorServiceClose.java`](java19/ExecutorServiceClose.java)
 - Java 19, `HashMap.newHashMap` and sized factories: [`java19/NewHashMapCapacity.java`](java19/NewHashMapCapacity.java)
 - Java 9, JEP 266 reactive streams (`Flow`, `SubmissionPublisher`): [`java9/FlowApi.java`](java9/FlowApi.java)
+- Java 9, JEP 193 variable handles (`VarHandle`): [`java9/VarHandles.java`](java9/VarHandles.java)
 <!-- INDEX:END -->
