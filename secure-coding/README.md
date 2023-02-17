@@ -39,4 +39,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - MSC00-J, use `SSLSocket` rather than `Socket` for secure data exchange: [`MSC/MSC00_SslSocket.java`](MSC/MSC00_SslSocket.java)
 - EXP02-J, do not use the `Object.equals()` method to compare two arrays: [`EXP/EXP02_ArraysEquals.java`](EXP/EXP02_ArraysEquals.java)
 - IDS06-J, exclude unsanitized user input from format strings: [`IDS/IDS06_FormatStringInjection.java`](IDS/IDS06_FormatStringInjection.java)
+- NUM02-J, ensure that division and remainder operations do not result in divide-by-zero errors: [`NUM/NUM02_DivideByZero.java`](NUM/NUM02_DivideByZero.java)
 <!-- INDEX:END -->
