@@ -49,4 +49,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 40, consistently use the Override annotation: `40_OverrideAnnotation.java`
 - Item 41, use marker interfaces to define types: `41_MarkerInterfaces.java`
 - Item 42, prefer lambdas to anonymous classes: `42_LambdasOverAnonymousClasses.java`
+- Item 43, prefer method references to lambdas: `43_MethodReferences.java`
 <!-- INDEX:END -->
