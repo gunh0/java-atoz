@@ -40,4 +40,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - EXP02-J, do not use the `Object.equals()` method to compare two arrays: [`EXP/EXP02_ArraysEquals.java`](EXP/EXP02_ArraysEquals.java)
 - IDS06-J, exclude unsanitized user input from format strings: [`IDS/IDS06_FormatStringInjection.java`](IDS/IDS06_FormatStringInjection.java)
 - NUM02-J, ensure that division and remainder operations do not result in divide-by-zero errors: [`NUM/NUM02_DivideByZero.java`](NUM/NUM02_DivideByZero.java)
+- MET09-J, classes that define an `equals()` method must also define a `hashCode()` method: [`MET/MET09_EqualsHashCode.java`](MET/MET09_EqualsHashCode.java)
 <!-- INDEX:END -->
