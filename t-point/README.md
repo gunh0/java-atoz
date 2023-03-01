@@ -78,6 +78,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Lambdas, composing `Function`, `Predicate` and `Comparator`: [`Lambdas/Composition`](Lambdas/Composition/)
 - Lambdas, the four kinds of method reference: [`Lambdas/MethodReferences`](Lambdas/MethodReferences/)
 - `Optional`, creating and unwrapping: [`Optional/Basics`](Optional/Basics/)
+- `Optional`, `map` / `flatMap` / `filter` / `or` chains: [`Optional/Chaining`](Optional/Chaining/)
 <!-- INDEX:END -->
 
 <br/>
