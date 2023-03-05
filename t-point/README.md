@@ -79,6 +79,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Lambdas, the four kinds of method reference: [`Lambdas/MethodReferences`](Lambdas/MethodReferences/)
 - `Optional`, creating and unwrapping: [`Optional/Basics`](Optional/Basics/)
 - `Optional`, `map` / `flatMap` / `filter` / `or` chains: [`Optional/Chaining`](Optional/Chaining/)
+- Streams, creating streams: [`Streams/Creation`](Streams/Creation/)
 <!-- INDEX:END -->
 
 <br/>
