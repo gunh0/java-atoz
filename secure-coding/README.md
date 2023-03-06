@@ -41,4 +41,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - IDS06-J, exclude unsanitized user input from format strings: [`IDS/IDS06_FormatStringInjection.java`](IDS/IDS06_FormatStringInjection.java)
 - NUM02-J, ensure that division and remainder operations do not result in divide-by-zero errors: [`NUM/NUM02_DivideByZero.java`](NUM/NUM02_DivideByZero.java)
 - MET09-J, classes that define an `equals()` method must also define a `hashCode()` method: [`MET/MET09_EqualsHashCode.java`](MET/MET09_EqualsHashCode.java)
+- ERR00-J, do not suppress or ignore checked exceptions: [`ERR/ERR00_SuppressedExceptions.java`](ERR/ERR00_SuppressedExceptions.java)
 <!-- INDEX:END -->
