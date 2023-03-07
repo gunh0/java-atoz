@@ -38,4 +38,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 9, JEP 266 reactive streams (`Flow`, `SubmissionPublisher`): [`java9/FlowApi.java`](java9/FlowApi.java)
 - Java 9, JEP 193 variable handles (`VarHandle`): [`java9/VarHandles.java`](java9/VarHandles.java)
 - Java 9, `CompletableFuture.orTimeout`, `completeOnTimeout` and `delayedExecutor`: [`java9/CompletableFutureTimeouts.java`](java9/CompletableFutureTimeouts.java)
+- Java 9, `Collectors.filtering` and `Collectors.flatMapping`: [`java9/CollectorsFilteringFlatMapping.java`](java9/CollectorsFilteringFlatMapping.java)
 <!-- INDEX:END -->
