@@ -51,4 +51,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 42, prefer lambdas to anonymous classes: `42_LambdasOverAnonymousClasses.java`
 - Item 43, prefer method references to lambdas: `43_MethodReferences.java`
 - Item 44, favor the use of standard functional interfaces: `44_StandardFunctionalInterfaces.java`
+- Item 45, use streams judiciously: `45_StreamsJudiciously.java`
 <!-- INDEX:END -->
