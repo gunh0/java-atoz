@@ -81,6 +81,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - `Optional`, `map` / `flatMap` / `filter` / `or` chains: [`Optional/Chaining`](Optional/Chaining/)
 - Streams, creating streams: [`Streams/Creation`](Streams/Creation/)
 - Streams, `filter` / `map` and lazy evaluation: [`Streams/FilterMap`](Streams/FilterMap/)
+- Streams, `flatMap` and `mapMulti`: [`Streams/FlatMap`](Streams/FlatMap/)
 <!-- INDEX:END -->
 
 <br/>
