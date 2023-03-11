@@ -42,4 +42,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - NUM02-J, ensure that division and remainder operations do not result in divide-by-zero errors: [`NUM/NUM02_DivideByZero.java`](NUM/NUM02_DivideByZero.java)
 - MET09-J, classes that define an `equals()` method must also define a `hashCode()` method: [`MET/MET09_EqualsHashCode.java`](MET/MET09_EqualsHashCode.java)
 - ERR00-J, do not suppress or ignore checked exceptions: [`ERR/ERR00_SuppressedExceptions.java`](ERR/ERR00_SuppressedExceptions.java)
+- STR01-J, do not assume that a Java `char` fully represents a Unicode code point: [`STR/STR01_CodePoints.java`](STR/STR01_CodePoints.java)
 <!-- INDEX:END -->
