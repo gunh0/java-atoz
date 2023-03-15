@@ -82,6 +82,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Streams, creating streams: [`Streams/Creation`](Streams/Creation/)
 - Streams, `filter` / `map` and lazy evaluation: [`Streams/FilterMap`](Streams/FilterMap/)
 - Streams, `flatMap` and `mapMulti`: [`Streams/FlatMap`](Streams/FlatMap/)
+- Streams, `sorted` / `distinct` / `limit` / `skip` / `takeWhile`: [`Streams/Slicing`](Streams/Slicing/)
 <!-- INDEX:END -->
 
 <br/>
