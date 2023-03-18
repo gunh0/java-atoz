@@ -83,6 +83,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Streams, `filter` / `map` and lazy evaluation: [`Streams/FilterMap`](Streams/FilterMap/)
 - Streams, `flatMap` and `mapMulti`: [`Streams/FlatMap`](Streams/FlatMap/)
 - Streams, `sorted` / `distinct` / `limit` / `skip` / `takeWhile`: [`Streams/Slicing`](Streams/Slicing/)
+- Streams, `anyMatch` / `findFirst` / `min` / `max` / `count`: [`Streams/MatchFind`](Streams/MatchFind/)
 <!-- INDEX:END -->
 
 <br/>
