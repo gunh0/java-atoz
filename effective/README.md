@@ -53,4 +53,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 44, favor the use of standard functional interfaces: `44_StandardFunctionalInterfaces.java`
 - Item 45, use streams judiciously: `45_StreamsJudiciously.java`
 - Item 46, prefer side-effect-free functions in streams: `46_SideEffectFreeStreams.java`
+- Item 47, prefer Collection to Stream as a return type: `47_CollectionOverStreamReturn.java`
 <!-- INDEX:END -->
