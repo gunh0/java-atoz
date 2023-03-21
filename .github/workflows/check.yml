@@ -13,6 +13,6 @@ jobs:
       - uses: actions/setup-java@v3
         with:
           distribution: temurin
-          java-version: '19'
+          java-version: '20'
       - name: Compile examples and verify output blocks
         run: scripts/check.sh
