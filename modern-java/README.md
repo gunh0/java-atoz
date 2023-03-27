@@ -40,4 +40,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 9, `CompletableFuture.orTimeout`, `completeOnTimeout` and `delayedExecutor`: [`java9/CompletableFutureTimeouts.java`](java9/CompletableFutureTimeouts.java)
 - Java 9, `Collectors.filtering` and `Collectors.flatMapping`: [`java9/CollectorsFilteringFlatMapping.java`](java9/CollectorsFilteringFlatMapping.java)
 - Java 10, `List.copyOf`, `Collectors.toUnmodifiableList` and `Optional.orElseThrow()`: [`java10/UnmodifiableCopies.java`](java10/UnmodifiableCopies.java)
+- Java 11, JEP 181 nest-based access control: [`java11/NestBasedAccess.java`](java11/NestBasedAccess.java)
 <!-- INDEX:END -->
