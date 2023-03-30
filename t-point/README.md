@@ -85,6 +85,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Streams, `sorted` / `distinct` / `limit` / `skip` / `takeWhile`: [`Streams/Slicing`](Streams/Slicing/)
 - Streams, `anyMatch` / `findFirst` / `min` / `max` / `count`: [`Streams/MatchFind`](Streams/MatchFind/)
 - Streams, `reduce`: [`Streams/Reduce`](Streams/Reduce/)
+- Streams, `toList` / `toSet` / `toCollection` / `joining`: [`Streams/Collectors`](Streams/Collectors/)
 <!-- INDEX:END -->
 
 <br/>
