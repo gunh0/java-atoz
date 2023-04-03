@@ -44,4 +44,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - ERR00-J, do not suppress or ignore checked exceptions: [`ERR/ERR00_SuppressedExceptions.java`](ERR/ERR00_SuppressedExceptions.java)
 - STR01-J, do not assume that a Java `char` fully represents a Unicode code point: [`STR/STR01_CodePoints.java`](STR/STR01_CodePoints.java)
 - OBJ09-J, compare classes and not class names: [`OBJ/OBJ09_CompareClasses.java`](OBJ/OBJ09_CompareClasses.java)
+- EXP03-J, do not use the equality operators when comparing values of boxed primitives: [`EXP/EXP03_BoxedEquality.java`](EXP/EXP03_BoxedEquality.java)
 <!-- INDEX:END -->
