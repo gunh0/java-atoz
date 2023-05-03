@@ -56,4 +56,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 47, prefer Collection to Stream as a return type: `47_CollectionOverStreamReturn.java`
 - Item 48, use caution when making streams parallel: `48_ParallelStreamsCaution.java`
 - Item 49, check parameters for validity: `49_CheckParameters.java`
+- Item 50, make defensive copies when needed: `50_DefensiveCopies.java`
 <!-- INDEX:END -->
