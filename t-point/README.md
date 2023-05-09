@@ -88,6 +88,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Streams, `toList` / `toSet` / `toCollection` / `joining`: [`Streams/Collectors`](Streams/Collectors/)
 - Streams, `Collectors.toMap` and duplicate keys: [`Streams/ToMap`](Streams/ToMap/)
 - Streams, `groupingBy` with downstream collectors: [`Streams/GroupingBy`](Streams/GroupingBy/)
+- Streams, `partitioningBy`: [`Streams/PartitioningBy`](Streams/PartitioningBy/)
 <!-- INDEX:END -->
 
 <br/>
