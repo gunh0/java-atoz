@@ -57,4 +57,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 48, use caution when making streams parallel: `48_ParallelStreamsCaution.java`
 - Item 49, check parameters for validity: `49_CheckParameters.java`
 - Item 50, make defensive copies when needed: `50_DefensiveCopies.java`
+- Item 51, design method signatures carefully: `51_MethodSignatures.java`
 <!-- INDEX:END -->
