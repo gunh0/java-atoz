@@ -58,4 +58,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 49, check parameters for validity: `49_CheckParameters.java`
 - Item 50, make defensive copies when needed: `50_DefensiveCopies.java`
 - Item 51, design method signatures carefully: `51_MethodSignatures.java`
+- Item 52, use overloading judiciously: `52_OverloadingJudiciously.java`
 <!-- INDEX:END -->
