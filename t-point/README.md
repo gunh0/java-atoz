@@ -90,6 +90,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Streams, `groupingBy` with downstream collectors: [`Streams/GroupingBy`](Streams/GroupingBy/)
 - Streams, `partitioningBy`: [`Streams/PartitioningBy`](Streams/PartitioningBy/)
 - Streams, `summarizingInt`, `averaging*` and `teeing`: [`Streams/Summarizing`](Streams/Summarizing/)
+- Streams, `IntStream` / `LongStream` / `DoubleStream`: [`Streams/PrimitiveStreams`](Streams/PrimitiveStreams/)
 <!-- INDEX:END -->
 
 <br/>
