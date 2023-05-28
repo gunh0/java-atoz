@@ -47,4 +47,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - EXP03-J, do not use the equality operators when comparing values of boxed primitives: [`EXP/EXP03_BoxedEquality.java`](EXP/EXP03_BoxedEquality.java)
 - IDS08-J, sanitize untrusted data included in a regular expression: [`IDS/IDS08_RegexInjection.java`](IDS/IDS08_RegexInjection.java)
 - NUM07-J, do not attempt comparisons with NaN: [`NUM/NUM07_NaNComparison.java`](NUM/NUM07_NaNComparison.java)
+- MET08-J, preserve the equality contract when overriding the `equals()` method: [`MET/MET08_EqualsContract.java`](MET/MET08_EqualsContract.java)
 <!-- INDEX:END -->
