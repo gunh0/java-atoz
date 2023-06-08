@@ -43,4 +43,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 11, JEP 181 nest-based access control: [`java11/NestBasedAccess.java`](java11/NestBasedAccess.java)
 - Java 11, JEP 323 `var` for lambda parameters: [`java11/VarLambdaParameters.java`](java11/VarLambdaParameters.java)
 - Java 13, `FileSystems.newFileSystem(Path, Map)` for zip files: [`java13/ZipFileSystemFromPath.java`](java13/ZipFileSystemFromPath.java)
+- Java 14, JEP 349 JFR event streaming (`RecordingStream`): [`java14/JfrEventStreaming.java`](java14/JfrEventStreaming.java)
 <!-- INDEX:END -->
