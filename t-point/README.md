@@ -92,6 +92,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Streams, `summarizingInt`, `averaging*` and `teeing`: [`Streams/Summarizing`](Streams/Summarizing/)
 - Streams, `IntStream` / `LongStream` / `DoubleStream`: [`Streams/PrimitiveStreams`](Streams/PrimitiveStreams/)
 - Streams, writing a `Collector` with `Collector.of`: [`Streams/CustomCollector`](Streams/CustomCollector/)
+- Streams, parallel streams and their pitfalls: [`Streams/Parallel`](Streams/Parallel/)
 <!-- INDEX:END -->
 
 <br/>
