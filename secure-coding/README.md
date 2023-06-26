@@ -49,4 +49,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - NUM07-J, do not attempt comparisons with NaN: [`NUM/NUM07_NaNComparison.java`](NUM/NUM07_NaNComparison.java)
 - MET08-J, preserve the equality contract when overriding the `equals()` method: [`MET/MET08_EqualsContract.java`](MET/MET08_EqualsContract.java)
 - FIO08-J, distinguish between characters or bytes read from a stream and -1: [`FIO/FIO08_ReadReturnValue.java`](FIO/FIO08_ReadReturnValue.java)
+- LCK02-J, do not synchronize on the class object returned by `getClass()`: [`LCK/LCK02_GetClassLock.java`](LCK/LCK02_GetClassLock.java)
 <!-- INDEX:END -->
