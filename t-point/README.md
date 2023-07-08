@@ -94,6 +94,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Streams, writing a `Collector` with `Collector.of`: [`Streams/CustomCollector`](Streams/CustomCollector/)
 - Streams, parallel streams and their pitfalls: [`Streams/Parallel`](Streams/Parallel/)
 - Date/Time, `LocalDate`: [`DateTime/LocalDate`](DateTime/LocalDate/)
+- Date/Time, `LocalTime` and `LocalDateTime`: [`DateTime/LocalTime`](DateTime/LocalTime/)
 <!-- INDEX:END -->
 
 <br/>
