@@ -61,4 +61,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 52, use overloading judiciously: `52_OverloadingJudiciously.java`
 - Item 53, use varargs judiciously: `53_VarargsJudiciously.java`
 - Item 54, return empty collections or arrays, not nulls: `54_EmptyCollectionsNotNull.java`
+- Item 55, return optionals judiciously: `55_OptionalsJudiciously.java`
 <!-- INDEX:END -->
