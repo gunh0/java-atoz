@@ -62,4 +62,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 53, use varargs judiciously: `53_VarargsJudiciously.java`
 - Item 54, return empty collections or arrays, not nulls: `54_EmptyCollectionsNotNull.java`
 - Item 55, return optionals judiciously: `55_OptionalsJudiciously.java`
+- Item 56, write doc comments for all exposed API elements: `56_DocComments.java`
 <!-- INDEX:END -->
