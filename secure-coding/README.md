@@ -50,4 +50,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - MET08-J, preserve the equality contract when overriding the `equals()` method: [`MET/MET08_EqualsContract.java`](MET/MET08_EqualsContract.java)
 - FIO08-J, distinguish between characters or bytes read from a stream and -1: [`FIO/FIO08_ReadReturnValue.java`](FIO/FIO08_ReadReturnValue.java)
 - LCK02-J, do not synchronize on the class object returned by `getClass()`: [`LCK/LCK02_GetClassLock.java`](LCK/LCK02_GetClassLock.java)
+- ERR04-J, do not complete abruptly from a `finally` block: [`ERR/ERR04_FinallyAbrupt.java`](ERR/ERR04_FinallyAbrupt.java)
 <!-- INDEX:END -->
