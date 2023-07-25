@@ -97,6 +97,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Date/Time, `LocalTime` and `LocalDateTime`: [`DateTime/LocalTime`](DateTime/LocalTime/)
 - Date/Time, `ZonedDateTime`, offsets and DST: [`DateTime/ZonedDateTime`](DateTime/ZonedDateTime/)
 - Date/Time, `Instant` and an injectable `Clock`: [`DateTime/Instant`](DateTime/Instant/)
+- Date/Time, `Duration` vs `Period`: [`DateTime/DurationPeriod`](DateTime/DurationPeriod/)
 <!-- INDEX:END -->
 
 <br/>
