@@ -51,4 +51,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - FIO08-J, distinguish between characters or bytes read from a stream and -1: [`FIO/FIO08_ReadReturnValue.java`](FIO/FIO08_ReadReturnValue.java)
 - LCK02-J, do not synchronize on the class object returned by `getClass()`: [`LCK/LCK02_GetClassLock.java`](LCK/LCK02_GetClassLock.java)
 - ERR04-J, do not complete abruptly from a `finally` block: [`ERR/ERR04_FinallyAbrupt.java`](ERR/ERR04_FinallyAbrupt.java)
+- OBJ06-J, defensively copy mutable inputs and mutable internal components: [`OBJ/OBJ06_DefensiveCopies.java`](OBJ/OBJ06_DefensiveCopies.java)
 <!-- INDEX:END -->
