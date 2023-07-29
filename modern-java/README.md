@@ -46,4 +46,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 14, JEP 349 JFR event streaming (`RecordingStream`): [`java14/JfrEventStreaming.java`](java14/JfrEventStreaming.java)
 - Java 15, JEP 371 hidden classes: [`java15/HiddenClasses.java`](java15/HiddenClasses.java)
 - Java 15, JEP 339 Edwards-curve signatures (Ed25519): [`java15/EdDsaSignatures.java`](java15/EdDsaSignatures.java)
+- Java 16, JEP 380 Unix-domain socket channels: [`java16/UnixDomainSockets.java`](java16/UnixDomainSockets.java)
 <!-- INDEX:END -->
