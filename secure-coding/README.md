@@ -52,4 +52,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - LCK02-J, do not synchronize on the class object returned by `getClass()`: [`LCK/LCK02_GetClassLock.java`](LCK/LCK02_GetClassLock.java)
 - ERR04-J, do not complete abruptly from a `finally` block: [`ERR/ERR04_FinallyAbrupt.java`](ERR/ERR04_FinallyAbrupt.java)
 - OBJ06-J, defensively copy mutable inputs and mutable internal components: [`OBJ/OBJ06_DefensiveCopies.java`](OBJ/OBJ06_DefensiveCopies.java)
+- IDS04-J, safely extract files from `ZipInputStream`: [`IDS/IDS04_ZipExtraction.java`](IDS/IDS04_ZipExtraction.java)
 <!-- INDEX:END -->
