@@ -65,4 +65,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 56, write doc comments for all exposed API elements: `56_DocComments.java`
 - Item 57, minimize the scope of local variables: `57_MinimizeLocalScope.java`
 - Item 58, prefer for-each loops to traditional for loops: `58_ForEachLoops.java`
+- Item 59, know and use the libraries: `59_KnowTheLibraries.java`
 <!-- INDEX:END -->
