@@ -53,4 +53,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - ERR04-J, do not complete abruptly from a `finally` block: [`ERR/ERR04_FinallyAbrupt.java`](ERR/ERR04_FinallyAbrupt.java)
 - OBJ06-J, defensively copy mutable inputs and mutable internal components: [`OBJ/OBJ06_DefensiveCopies.java`](OBJ/OBJ06_DefensiveCopies.java)
 - IDS04-J, safely extract files from `ZipInputStream`: [`IDS/IDS04_ZipExtraction.java`](IDS/IDS04_ZipExtraction.java)
+- NUM12-J, ensure conversions of numeric types to narrower types do not result in lost or misinterpreted data: [`NUM/NUM12_NarrowingConversions.java`](NUM/NUM12_NarrowingConversions.java)
 <!-- INDEX:END -->
