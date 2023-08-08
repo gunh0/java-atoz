@@ -101,6 +101,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Date/Time, `DateTimeFormatter` formatting and parsing: [`DateTime/Formatting`](DateTime/Formatting/)
 - Date/Time, `TemporalAdjusters` and `ChronoUnit`: [`DateTime/TemporalAdjusters`](DateTime/TemporalAdjusters/)
 - I/O, byte streams (`InputStream` / `OutputStream`): [`IO/ByteStreams`](IO/ByteStreams/)
+- I/O, character streams and charsets: [`IO/CharacterStreams`](IO/CharacterStreams/)
 <!-- INDEX:END -->
 
 <br/>
