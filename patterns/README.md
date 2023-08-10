@@ -25,4 +25,5 @@ Files live in one directory per group and are named after the pattern: `<creatio
 - Behavioral, Strategy: [`behavioral/Strategy.java`](behavioral/Strategy.java)
 - Behavioral, Template Method: [`behavioral/TemplateMethod.java`](behavioral/TemplateMethod.java)
 - Behavioral, Observer: [`behavioral/Observer.java`](behavioral/Observer.java)
+- Behavioral, State: [`behavioral/State.java`](behavioral/State.java)
 <!-- INDEX:END -->
