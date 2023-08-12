@@ -67,4 +67,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 58, prefer for-each loops to traditional for loops: `58_ForEachLoops.java`
 - Item 59, know and use the libraries: `59_KnowTheLibraries.java`
 - Item 60, avoid float and double if exact answers are required: `60_AvoidFloatForExactAnswers.java`
+- Item 61, prefer primitive types to boxed primitives: `61_PrimitivesOverBoxed.java`
 <!-- INDEX:END -->
