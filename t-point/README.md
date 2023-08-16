@@ -103,6 +103,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - I/O, byte streams (`InputStream` / `OutputStream`): [`IO/ByteStreams`](IO/ByteStreams/)
 - I/O, character streams and charsets: [`IO/CharacterStreams`](IO/CharacterStreams/)
 - I/O, `BufferedReader` / `BufferedWriter`: [`IO/BufferedStreams`](IO/BufferedStreams/)
+- I/O, try-with-resources and suppressed exceptions: [`IO/TryWithResources`](IO/TryWithResources/)
 <!-- INDEX:END -->
 
 <br/>
