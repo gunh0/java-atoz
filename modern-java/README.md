@@ -48,4 +48,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 15, JEP 339 Edwards-curve signatures (Ed25519): [`java15/EdDsaSignatures.java`](java15/EdDsaSignatures.java)
 - Java 16, JEP 380 Unix-domain socket channels: [`java16/UnixDomainSockets.java`](java16/UnixDomainSockets.java)
 - Java 17, JEP 403 strongly encapsulated JDK internals: [`java17/StrongEncapsulation.java`](java17/StrongEncapsulation.java)
+- Java 17, JEP 415 context-specific deserialization filters: [`java17/ContextSpecificDeserializationFilters.java`](java17/ContextSpecificDeserializationFilters.java)
 <!-- INDEX:END -->
