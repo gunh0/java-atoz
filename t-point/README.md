@@ -104,6 +104,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - I/O, character streams and charsets: [`IO/CharacterStreams`](IO/CharacterStreams/)
 - I/O, `BufferedReader` / `BufferedWriter`: [`IO/BufferedStreams`](IO/BufferedStreams/)
 - I/O, try-with-resources and suppressed exceptions: [`IO/TryWithResources`](IO/TryWithResources/)
+- I/O, `Scanner` tokenizing: [`IO/Scanner`](IO/Scanner/)
 <!-- INDEX:END -->
 
 <br/>
