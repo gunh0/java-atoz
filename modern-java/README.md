@@ -49,4 +49,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 16, JEP 380 Unix-domain socket channels: [`java16/UnixDomainSockets.java`](java16/UnixDomainSockets.java)
 - Java 17, JEP 403 strongly encapsulated JDK internals: [`java17/StrongEncapsulation.java`](java17/StrongEncapsulation.java)
 - Java 17, JEP 415 context-specific deserialization filters: [`java17/ContextSpecificDeserializationFilters.java`](java17/ContextSpecificDeserializationFilters.java)
+- Java 19, shortest `Double.toString` output: [`java19/DoubleToStringShortest.java`](java19/DoubleToStringShortest.java)
 <!-- INDEX:END -->
