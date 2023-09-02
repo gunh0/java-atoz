@@ -106,6 +106,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - I/O, try-with-resources and suppressed exceptions: [`IO/TryWithResources`](IO/TryWithResources/)
 - I/O, `Scanner` tokenizing: [`IO/Scanner`](IO/Scanner/)
 - I/O, `DataInputStream` / `DataOutputStream`: [`IO/DataStreams`](IO/DataStreams/)
+- I/O, serialization basics (`transient`, `serialVersionUID`): [`IO/Serialization`](IO/Serialization/)
 <!-- INDEX:END -->
 
 <br/>
