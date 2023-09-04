@@ -56,4 +56,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - NUM12-J, ensure conversions of numeric types to narrower types do not result in lost or misinterpreted data: [`NUM/NUM12_NarrowingConversions.java`](NUM/NUM12_NarrowingConversions.java)
 - MET10-J, follow the general contract when implementing the `compareTo()` method: [`MET/MET10_CompareToContract.java`](MET/MET10_CompareToContract.java)
 - FIO03-J, remove temporary files before termination: [`FIO/FIO03_TempFileRemoval.java`](FIO/FIO03_TempFileRemoval.java)
+- SER00-J, enable serialization compatibility during class evolution: [`SER/SER00_SerialVersionUID.java`](SER/SER00_SerialVersionUID.java)
 <!-- INDEX:END -->
