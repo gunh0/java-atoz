@@ -107,6 +107,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - I/O, `Scanner` tokenizing: [`IO/Scanner`](IO/Scanner/)
 - I/O, `DataInputStream` / `DataOutputStream`: [`IO/DataStreams`](IO/DataStreams/)
 - I/O, serialization basics (`transient`, `serialVersionUID`): [`IO/Serialization`](IO/Serialization/)
+- NIO.2, `Path` resolve / normalize / relativize: [`NIO/Path`](NIO/Path/)
 <!-- INDEX:END -->
 
 <br/>
