@@ -71,4 +71,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 62, avoid strings where other types are more appropriate: `62_AvoidStrings.java`
 - Item 63, beware the performance of string concatenation: `63_StringConcatPerformance.java`
 - Item 64, refer to objects by their interfaces: `64_ReferToInterfaces.java`
+- Item 65, prefer interfaces to reflection: `65_InterfacesOverReflection.java`
 <!-- INDEX:END -->
