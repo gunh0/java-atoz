@@ -108,6 +108,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - I/O, `DataInputStream` / `DataOutputStream`: [`IO/DataStreams`](IO/DataStreams/)
 - I/O, serialization basics (`transient`, `serialVersionUID`): [`IO/Serialization`](IO/Serialization/)
 - NIO.2, `Path` resolve / normalize / relativize: [`NIO/Path`](NIO/Path/)
+- NIO.2, `Files` read, write, copy, move, delete: [`NIO/Files`](NIO/Files/)
 <!-- INDEX:END -->
 
 <br/>
