@@ -50,4 +50,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 17, JEP 403 strongly encapsulated JDK internals: [`java17/StrongEncapsulation.java`](java17/StrongEncapsulation.java)
 - Java 17, JEP 415 context-specific deserialization filters: [`java17/ContextSpecificDeserializationFilters.java`](java17/ContextSpecificDeserializationFilters.java)
 - Java 19, shortest `Double.toString` output: [`java19/DoubleToStringShortest.java`](java19/DoubleToStringShortest.java)
+- Java 20, named groups on `MatchResult` (`group(String)`, `namedGroups`): [`java20/MatchResultNamedGroups.java`](java20/MatchResultNamedGroups.java)
 <!-- INDEX:END -->
