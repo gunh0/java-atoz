@@ -58,4 +58,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - FIO03-J, remove temporary files before termination: [`FIO/FIO03_TempFileRemoval.java`](FIO/FIO03_TempFileRemoval.java)
 - SER00-J, enable serialization compatibility during class evolution: [`SER/SER00_SerialVersionUID.java`](SER/SER00_SerialVersionUID.java)
 - LCK07-J, avoid deadlock by requesting and releasing locks in the same order: [`LCK/LCK07_LockOrdering.java`](LCK/LCK07_LockOrdering.java)
+- THI05-J, do not use `Thread.stop()` to terminate threads: [`THI/THI05_ThreadStop.java`](THI/THI05_ThreadStop.java)
 <!-- INDEX:END -->
