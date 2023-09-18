@@ -73,4 +73,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 64, refer to objects by their interfaces: `64_ReferToInterfaces.java`
 - Item 65, prefer interfaces to reflection: `65_InterfacesOverReflection.java`
 - Item 66, use native methods judiciously: `66_NativeMethods.java`
+- Item 67, optimize judiciously: `67_OptimizeJudiciously.java`
 <!-- INDEX:END -->
