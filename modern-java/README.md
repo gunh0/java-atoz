@@ -51,4 +51,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 17, JEP 415 context-specific deserialization filters: [`java17/ContextSpecificDeserializationFilters.java`](java17/ContextSpecificDeserializationFilters.java)
 - Java 19, shortest `Double.toString` output: [`java19/DoubleToStringShortest.java`](java19/DoubleToStringShortest.java)
 - Java 20, named groups on `MatchResult` (`group(String)`, `namedGroups`): [`java20/MatchResultNamedGroups.java`](java20/MatchResultNamedGroups.java)
+- Java 21, JEP 444 virtual threads: [`java21/VirtualThreads.java`](java21/VirtualThreads.java)
 <!-- INDEX:END -->
