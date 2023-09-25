@@ -112,6 +112,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - NIO.2, `Files.walk` / `Files.find` and glob matching: [`NIO/WalkFind`](NIO/WalkFind/)
 - NIO.2, streaming lines with `Files.lines`: [`NIO/Lines`](NIO/Lines/)
 - NIO.2, file attributes: [`NIO/Attributes`](NIO/Attributes/)
+- Concurrency, `Callable` and `Future`: [`Concurrency/CallableFuture`](Concurrency/CallableFuture/)
 <!-- INDEX:END -->
 
 <br/>
