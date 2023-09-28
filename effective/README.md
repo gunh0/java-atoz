@@ -75,4 +75,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 66, use native methods judiciously: `66_NativeMethods.java`
 - Item 67, optimize judiciously: `67_OptimizeJudiciously.java`
 - Item 68, adhere to generally accepted naming conventions: `68_NamingConventions.java`
+- Item 69, use exceptions only for exceptional conditions: `69_ExceptionsForExceptionalConditions.java`
 <!-- INDEX:END -->
