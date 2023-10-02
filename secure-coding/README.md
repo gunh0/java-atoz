@@ -61,4 +61,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - THI05-J, do not use `Thread.stop()` to terminate threads: [`THI/THI05_ThreadStop.java`](THI/THI05_ThreadStop.java)
 - MET00-J, validate method arguments: [`MET/MET00_ValidateArguments.java`](MET/MET00_ValidateArguments.java)
 - NUM10-J, do not construct `BigDecimal` objects from floating-point literals: [`NUM/NUM10_BigDecimalFromDouble.java`](NUM/NUM10_BigDecimalFromDouble.java)
+- OBJ10-J, do not use public static nonfinal fields: [`OBJ/OBJ10_PublicStaticFields.java`](OBJ/OBJ10_PublicStaticFields.java)
 <!-- INDEX:END -->
