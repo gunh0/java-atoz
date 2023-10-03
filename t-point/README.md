@@ -115,6 +115,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Concurrency, `Callable` and `Future`: [`Concurrency/CallableFuture`](Concurrency/CallableFuture/)
 - Concurrency, `CompletableFuture` basics: [`Concurrency/CompletableFuture`](Concurrency/CompletableFuture/)
 - Concurrency, composing `CompletableFuture`s: [`Concurrency/CompletableFutureComposition`](Concurrency/CompletableFutureComposition/)
+- Concurrency, `CountDownLatch`: [`Concurrency/CountDownLatch`](Concurrency/CountDownLatch/)
 <!-- INDEX:END -->
 
 <br/>
