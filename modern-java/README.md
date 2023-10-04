@@ -53,4 +53,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 20, named groups on `MatchResult` (`group(String)`, `namedGroups`): [`java20/MatchResultNamedGroups.java`](java20/MatchResultNamedGroups.java)
 - Java 21, JEP 444 virtual threads: [`java21/VirtualThreads.java`](java21/VirtualThreads.java)
 - Java 21, JEP 431 sequenced collections: [`java21/SequencedCollections.java`](java21/SequencedCollections.java)
+- Java 21, JEP 440 record patterns: [`java21/RecordPatterns.java`](java21/RecordPatterns.java)
 <!-- INDEX:END -->
