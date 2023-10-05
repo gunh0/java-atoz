@@ -77,4 +77,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 68, adhere to generally accepted naming conventions: `68_NamingConventions.java`
 - Item 69, use exceptions only for exceptional conditions: `69_ExceptionsForExceptionalConditions.java`
 - Item 70, give checked exceptions recovery information, don't subclass Error: `70-3_RecoveryInformation.java`
+- Item 71, avoid unnecessary use of checked exceptions: `71_AvoidUnnecessaryCheckedExceptions.java`
 <!-- INDEX:END -->
