@@ -117,6 +117,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Concurrency, composing `CompletableFuture`s: [`Concurrency/CompletableFutureComposition`](Concurrency/CompletableFutureComposition/)
 - Concurrency, `CountDownLatch`: [`Concurrency/CountDownLatch`](Concurrency/CountDownLatch/)
 - Concurrency, `CyclicBarrier`: [`Concurrency/CyclicBarrier`](Concurrency/CyclicBarrier/)
+- Concurrency, `Semaphore`: [`Concurrency/Semaphore`](Concurrency/Semaphore/)
 <!-- INDEX:END -->
 
 <br/>
