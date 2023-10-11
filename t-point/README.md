@@ -118,6 +118,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Concurrency, `CountDownLatch`: [`Concurrency/CountDownLatch`](Concurrency/CountDownLatch/)
 - Concurrency, `CyclicBarrier`: [`Concurrency/CyclicBarrier`](Concurrency/CyclicBarrier/)
 - Concurrency, `Semaphore`: [`Concurrency/Semaphore`](Concurrency/Semaphore/)
+- Concurrency, `ConcurrentHashMap` atomic updates: [`Concurrency/ConcurrentHashMap`](Concurrency/ConcurrentHashMap/)
 <!-- INDEX:END -->
 
 <br/>
