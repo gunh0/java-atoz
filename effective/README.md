@@ -79,4 +79,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 70, give checked exceptions recovery information, don't subclass Error: `70-3_RecoveryInformation.java`
 - Item 71, avoid unnecessary use of checked exceptions: `71_AvoidUnnecessaryCheckedExceptions.java`
 - Item 72, favor the use of standard exceptions: `72_StandardExceptions.java`
+- Item 73, throw exceptions appropriate to the abstraction: `73_ExceptionTranslation.java`
 <!-- INDEX:END -->
