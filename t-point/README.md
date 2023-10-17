@@ -120,6 +120,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Concurrency, `Semaphore`: [`Concurrency/Semaphore`](Concurrency/Semaphore/)
 - Concurrency, `ConcurrentHashMap` atomic updates: [`Concurrency/ConcurrentHashMap`](Concurrency/ConcurrentHashMap/)
 - Concurrency, atomic variables and `LongAdder`: [`Concurrency/Atomic`](Concurrency/Atomic/)
+- Concurrency, `ReentrantLock` and `Condition`: [`Concurrency/ReentrantLock`](Concurrency/ReentrantLock/)
 <!-- INDEX:END -->
 
 <br/>
