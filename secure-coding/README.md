@@ -64,4 +64,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - OBJ10-J, do not use public static nonfinal fields: [`OBJ/OBJ10_PublicStaticFields.java`](OBJ/OBJ10_PublicStaticFields.java)
 - ERR06-J, do not throw undeclared checked exceptions: [`ERR/ERR06_UndeclaredCheckedExceptions.java`](ERR/ERR06_UndeclaredCheckedExceptions.java)
 - IDS11-J, perform any string modifications before validation: [`IDS/IDS11_ModifyBeforeValidation.java`](IDS/IDS11_ModifyBeforeValidation.java)
+- TSM01-J, do not let the `this` reference escape during object construction: [`TSM/TSM01_ThisEscape.java`](TSM/TSM01_ThisEscape.java)
 <!-- INDEX:END -->
