@@ -81,4 +81,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 72, favor the use of standard exceptions: `72_StandardExceptions.java`
 - Item 73, throw exceptions appropriate to the abstraction: `73_ExceptionTranslation.java`
 - Item 74, document all exceptions thrown by each method: `74_DocumentExceptions.java`
+- Item 75, include failure-capture information in detail messages: `75_FailureCaptureInformation.java`
 <!-- INDEX:END -->
