@@ -122,6 +122,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Concurrency, atomic variables and `LongAdder`: [`Concurrency/Atomic`](Concurrency/Atomic/)
 - Concurrency, `ReentrantLock` and `Condition`: [`Concurrency/ReentrantLock`](Concurrency/ReentrantLock/)
 - Concurrency, `ReentrantReadWriteLock`: [`Concurrency/ReadWriteLock`](Concurrency/ReadWriteLock/)
+- Concurrency, `BlockingQueue` producer-consumer: [`Concurrency/BlockingQueue`](Concurrency/BlockingQueue/)
 <!-- INDEX:END -->
 
 <br/>
