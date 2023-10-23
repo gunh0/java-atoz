@@ -65,4 +65,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - ERR06-J, do not throw undeclared checked exceptions: [`ERR/ERR06_UndeclaredCheckedExceptions.java`](ERR/ERR06_UndeclaredCheckedExceptions.java)
 - IDS11-J, perform any string modifications before validation: [`IDS/IDS11_ModifyBeforeValidation.java`](IDS/IDS11_ModifyBeforeValidation.java)
 - TSM01-J, do not let the `this` reference escape during object construction: [`TSM/TSM01_ThisEscape.java`](TSM/TSM01_ThisEscape.java)
+- MET06-J, do not invoke overridable methods in `clone()`: [`MET/MET06_CloneOverridableMethods.java`](MET/MET06_CloneOverridableMethods.java)
 <!-- INDEX:END -->
