@@ -82,4 +82,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 73, throw exceptions appropriate to the abstraction: `73_ExceptionTranslation.java`
 - Item 74, document all exceptions thrown by each method: `74_DocumentExceptions.java`
 - Item 75, include failure-capture information in detail messages: `75_FailureCaptureInformation.java`
+- Item 76, strive for failure atomicity: `76_FailureAtomicity.java`
 <!-- INDEX:END -->
