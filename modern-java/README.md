@@ -57,4 +57,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 21, JEP 441 pattern matching for `switch`: [`java21/PatternMatchingForSwitch.java`](java21/PatternMatchingForSwitch.java)
 - Java 21, JEP 431 sequenced maps (`SequencedMap`): [`java21/SequencedMaps.java`](java21/SequencedMaps.java)
 - Java 21, JEP 444 `Executors.newVirtualThreadPerTaskExecutor`: [`java21/VirtualThreadPerTaskExecutor.java`](java21/VirtualThreadPerTaskExecutor.java)
+- Java 21, `String.indexOf` with a range and `StringBuilder.repeat`: [`java21/StringIndexOfRangeAndRepeat.java`](java21/StringIndexOfRangeAndRepeat.java)
 <!-- INDEX:END -->
