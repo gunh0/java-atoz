@@ -67,4 +67,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - TSM01-J, do not let the `this` reference escape during object construction: [`TSM/TSM01_ThisEscape.java`](TSM/TSM01_ThisEscape.java)
 - MET06-J, do not invoke overridable methods in `clone()`: [`MET/MET06_CloneOverridableMethods.java`](MET/MET06_CloneOverridableMethods.java)
 - NUM13-J, avoid loss of precision when converting primitive integers to floating-point: [`NUM/NUM13_IntToFloatPrecision.java`](NUM/NUM13_IntToFloatPrecision.java)
+- FIO04-J, release resources when they are no longer needed: [`FIO/FIO04_ReleaseResources.java`](FIO/FIO04_ReleaseResources.java)
 <!-- INDEX:END -->
