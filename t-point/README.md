@@ -126,6 +126,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Concurrency, fork/join with `RecursiveTask`: [`Concurrency/ForkJoin`](Concurrency/ForkJoin/)
 - Reflection, the `Class` object: [`Reflection/ClassObject`](Reflection/ClassObject/)
 - Reflection, fields: [`Reflection/Fields`](Reflection/Fields/)
+- Reflection, methods and `invoke`: [`Reflection/Methods`](Reflection/Methods/)
 <!-- INDEX:END -->
 
 <br/>
