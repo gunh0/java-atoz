@@ -85,4 +85,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 76, strive for failure atomicity: `76_FailureAtomicity.java`
 - Item 77, don't ignore exceptions: `77_DontIgnoreExceptions.java`
 - Item 78, synchronize access to shared mutable data: `78_SynchronizeSharedMutableData.java`
+- Item 79, avoid excessive synchronization: `79_AvoidExcessiveSynchronization.java`
 <!-- INDEX:END -->
