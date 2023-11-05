@@ -127,6 +127,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Reflection, the `Class` object: [`Reflection/ClassObject`](Reflection/ClassObject/)
 - Reflection, fields: [`Reflection/Fields`](Reflection/Fields/)
 - Reflection, methods and `invoke`: [`Reflection/Methods`](Reflection/Methods/)
+- Reflection, constructors and `newInstance`: [`Reflection/Constructors`](Reflection/Constructors/)
 <!-- INDEX:END -->
 
 <br/>
