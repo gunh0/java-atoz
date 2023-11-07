@@ -68,4 +68,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - MET06-J, do not invoke overridable methods in `clone()`: [`MET/MET06_CloneOverridableMethods.java`](MET/MET06_CloneOverridableMethods.java)
 - NUM13-J, avoid loss of precision when converting primitive integers to floating-point: [`NUM/NUM13_IntToFloatPrecision.java`](NUM/NUM13_IntToFloatPrecision.java)
 - FIO04-J, release resources when they are no longer needed: [`FIO/FIO04_ReleaseResources.java`](FIO/FIO04_ReleaseResources.java)
+- SER03-J, do not serialize unencrypted sensitive data: [`SER/SER03_SensitiveSerializedData.java`](SER/SER03_SensitiveSerializedData.java)
 <!-- INDEX:END -->
