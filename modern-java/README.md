@@ -59,4 +59,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 21, JEP 444 `Executors.newVirtualThreadPerTaskExecutor`: [`java21/VirtualThreadPerTaskExecutor.java`](java21/VirtualThreadPerTaskExecutor.java)
 - Java 21, `String.indexOf` with a range and `StringBuilder.repeat`: [`java21/StringIndexOfRangeAndRepeat.java`](java21/StringIndexOfRangeAndRepeat.java)
 - Java 21, `Math.clamp`: [`java21/MathClamp.java`](java21/MathClamp.java)
+- Java 21, `Character.isEmoji` and the emoji properties: [`java21/CharacterEmoji.java`](java21/CharacterEmoji.java)
 <!-- INDEX:END -->
