@@ -130,6 +130,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Reflection, constructors and `newInstance`: [`Reflection/Constructors`](Reflection/Constructors/)
 - Annotations, a custom runtime annotation processed by reflection: [`Annotations/CustomAnnotation`](Annotations/CustomAnnotation/)
 - Annotations, meta-annotations and `@Repeatable`: [`Annotations/Repeatable`](Annotations/Repeatable/)
+- Enums, `EnumSet`: [`Enums/EnumSet`](Enums/EnumSet/)
 <!-- INDEX:END -->
 
 <br/>
