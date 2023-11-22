@@ -132,6 +132,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Annotations, meta-annotations and `@Repeatable`: [`Annotations/Repeatable`](Annotations/Repeatable/)
 - Enums, `EnumSet`: [`Enums/EnumSet`](Enums/EnumSet/)
 - Enums, `EnumMap`: [`Enums/EnumMap`](Enums/EnumMap/)
+- Internals, `equals` / `hashCode` and `HashMap`: [`Internals/EqualsHashCode`](Internals/EqualsHashCode/)
 <!-- INDEX:END -->
 
 <br/>
