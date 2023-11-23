@@ -89,4 +89,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 80, prefer executors, tasks, and streams to threads: `80_ExecutorsTasksStreams.java`
 - Item 81, prefer concurrency utilities to wait and notify: `81_ConcurrencyUtilitiesOverWaitNotify.java`
 - Item 82, document thread safety: `82_DocumentThreadSafety.java`
+- Item 83, use lazy initialization judiciously: `83_LazyInitialization.java`
 <!-- INDEX:END -->
