@@ -71,4 +71,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - SER03-J, do not serialize unencrypted sensitive data: [`SER/SER03_SensitiveSerializedData.java`](SER/SER03_SensitiveSerializedData.java)
 - EXP01-J, do not use a null in a case where an object is required: [`EXP/EXP01_NullWhereObjectRequired.java`](EXP/EXP01_NullWhereObjectRequired.java)
 - OBJ07-J, sensitive classes must not let themselves be copied: [`OBJ/OBJ07_SensitiveClassCopy.java`](OBJ/OBJ07_SensitiveClassCopy.java)
+- LCK03-J, do not synchronize on the intrinsic locks of high-level concurrency objects: [`LCK/LCK03_HighLevelLockObjects.java`](LCK/LCK03_HighLevelLockObjects.java)
 <!-- INDEX:END -->
