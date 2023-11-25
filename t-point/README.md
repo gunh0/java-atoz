@@ -133,6 +133,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Enums, `EnumSet`: [`Enums/EnumSet`](Enums/EnumSet/)
 - Enums, `EnumMap`: [`Enums/EnumMap`](Enums/EnumMap/)
 - Internals, `equals` / `hashCode` and `HashMap`: [`Internals/EqualsHashCode`](Internals/EqualsHashCode/)
+- Internals, the string pool and `intern()`: [`Internals/StringPool`](Internals/StringPool/)
 <!-- INDEX:END -->
 
 <br/>
