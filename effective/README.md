@@ -90,4 +90,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 81, prefer concurrency utilities to wait and notify: `81_ConcurrencyUtilitiesOverWaitNotify.java`
 - Item 82, document thread safety: `82_DocumentThreadSafety.java`
 - Item 83, use lazy initialization judiciously: `83_LazyInitialization.java`
+- Item 84, don't depend on the thread scheduler: `84_DontDependOnScheduler.java`
 <!-- INDEX:END -->
