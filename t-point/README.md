@@ -134,6 +134,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Enums, `EnumMap`: [`Enums/EnumMap`](Enums/EnumMap/)
 - Internals, `equals` / `hashCode` and `HashMap`: [`Internals/EqualsHashCode`](Internals/EqualsHashCode/)
 - Internals, the string pool and `intern()`: [`Internals/StringPool`](Internals/StringPool/)
+- Internals, wrapper caching (`Integer.valueOf`): [`Internals/WrapperCache`](Internals/WrapperCache/)
 <!-- INDEX:END -->
 
 <br/>
