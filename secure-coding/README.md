@@ -73,4 +73,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - OBJ07-J, sensitive classes must not let themselves be copied: [`OBJ/OBJ07_SensitiveClassCopy.java`](OBJ/OBJ07_SensitiveClassCopy.java)
 - LCK03-J, do not synchronize on the intrinsic locks of high-level concurrency objects: [`LCK/LCK03_HighLevelLockObjects.java`](LCK/LCK03_HighLevelLockObjects.java)
 - MSC05-J, do not exhaust heap space: [`MSC/MSC05_HeapExhaustion.java`](MSC/MSC05_HeapExhaustion.java)
+- SEC05-J, do not use reflection to increase accessibility of classes, methods, or fields: [`SEC/SEC05_ReflectionAccessibility.java`](SEC/SEC05_ReflectionAccessibility.java)
 <!-- INDEX:END -->
