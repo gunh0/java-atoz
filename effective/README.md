@@ -92,4 +92,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 83, use lazy initialization judiciously: `83_LazyInitialization.java`
 - Item 84, don't depend on the thread scheduler: `84_DontDependOnScheduler.java`
 - Item 85, prefer alternatives to Java serialization: `85_AlternativesToSerialization.java`
+- Item 86, implement Serializable with great caution: `86_ImplementSerializableWithCaution.java`
 <!-- INDEX:END -->
