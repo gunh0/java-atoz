@@ -62,4 +62,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 21, `Character.isEmoji` and the emoji properties: [`java21/CharacterEmoji.java`](java21/CharacterEmoji.java)
 - Java 21, `String.splitWithDelimiters`: [`java21/SplitWithDelimiters.java`](java21/SplitWithDelimiters.java)
 - Java 21, JEP 452 Key Encapsulation Mechanism API (`javax.crypto.KEM`): [`java21/KeyEncapsulationMechanism.java`](java21/KeyEncapsulationMechanism.java)
+- Java 21, `HttpClient` is `AutoCloseable`: [`java21/HttpClientClose.java`](java21/HttpClientClose.java)
 <!-- INDEX:END -->
