@@ -137,6 +137,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Internals, wrapper caching (`Integer.valueOf`): [`Internals/WrapperCache`](Internals/WrapperCache/)
 - Internals, autoboxing pitfalls: [`Internals/Autoboxing`](Internals/Autoboxing/)
 - Numbers, `BigDecimal`: [`Numbers/BigDecimal`](Numbers/BigDecimal/)
+- Numbers, `BigInteger`: [`Numbers/BigInteger`](Numbers/BigInteger/)
 <!-- INDEX:END -->
 
 <br/>
