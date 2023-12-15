@@ -138,6 +138,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Internals, autoboxing pitfalls: [`Internals/Autoboxing`](Internals/Autoboxing/)
 - Numbers, `BigDecimal`: [`Numbers/BigDecimal`](Numbers/BigDecimal/)
 - Numbers, `BigInteger`: [`Numbers/BigInteger`](Numbers/BigInteger/)
+- Networking, `ServerSocket` / `Socket` echo on loopback: [`Networking/EchoServer`](Networking/EchoServer/)
 <!-- INDEX:END -->
 
 <br/>
