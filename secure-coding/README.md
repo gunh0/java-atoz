@@ -74,4 +74,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - LCK03-J, do not synchronize on the intrinsic locks of high-level concurrency objects: [`LCK/LCK03_HighLevelLockObjects.java`](LCK/LCK03_HighLevelLockObjects.java)
 - MSC05-J, do not exhaust heap space: [`MSC/MSC05_HeapExhaustion.java`](MSC/MSC05_HeapExhaustion.java)
 - SEC05-J, do not use reflection to increase accessibility of classes, methods, or fields: [`SEC/SEC05_ReflectionAccessibility.java`](SEC/SEC05_ReflectionAccessibility.java)
+- STR00-J, don't form strings containing partial characters from variable-width encodings: [`STR/STR00_PartialCharacters.java`](STR/STR00_PartialCharacters.java)
 <!-- INDEX:END -->
