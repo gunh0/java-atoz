@@ -139,6 +139,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Numbers, `BigDecimal`: [`Numbers/BigDecimal`](Numbers/BigDecimal/)
 - Numbers, `BigInteger`: [`Numbers/BigInteger`](Numbers/BigInteger/)
 - Networking, `ServerSocket` / `Socket` echo on loopback: [`Networking/EchoServer`](Networking/EchoServer/)
+- Networking, `URI` / `URL` parsing: [`Networking/URI`](Networking/URI/)
 <!-- INDEX:END -->
 
 <br/>
