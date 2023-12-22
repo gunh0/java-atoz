@@ -94,4 +94,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 85, prefer alternatives to Java serialization: `85_AlternativesToSerialization.java`
 - Item 86, implement Serializable with great caution: `86_ImplementSerializableWithCaution.java`
 - Item 87, consider using a custom serialized form: `87_CustomSerializedForm.java`
+- Item 88, write readObject methods defensively: `88_DefensiveReadObject.java`
 <!-- INDEX:END -->
