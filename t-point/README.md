@@ -140,6 +140,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Numbers, `BigInteger`: [`Numbers/BigInteger`](Numbers/BigInteger/)
 - Networking, `ServerSocket` / `Socket` echo on loopback: [`Networking/EchoServer`](Networking/EchoServer/)
 - Networking, `URI` / `URL` parsing: [`Networking/URI`](Networking/URI/)
+- Logging, `java.util.logging` basics: [`Logging/JavaUtilLogging`](Logging/JavaUtilLogging/)
 <!-- INDEX:END -->
 
 <br/>
