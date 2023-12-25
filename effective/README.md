@@ -95,4 +95,5 @@ Notes and runnable examples for the items of *Effective Java, 3rd Edition* (Josh
 - Item 86, implement Serializable with great caution: `86_ImplementSerializableWithCaution.java`
 - Item 87, consider using a custom serialized form: `87_CustomSerializedForm.java`
 - Item 88, write readObject methods defensively: `88_DefensiveReadObject.java`
+- Item 89, for instance control, prefer enum types to readResolve: `89_EnumOverReadResolve.java`
 <!-- INDEX:END -->
