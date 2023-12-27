@@ -64,4 +64,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 21, JEP 452 Key Encapsulation Mechanism API (`javax.crypto.KEM`): [`java21/KeyEncapsulationMechanism.java`](java21/KeyEncapsulationMechanism.java)
 - Java 21, `HttpClient` is `AutoCloseable`: [`java21/HttpClientClose.java`](java21/HttpClientClose.java)
 - Java 21, `Collections.shuffle` with a `RandomGenerator`: [`java21/ShuffleWithRandomGenerator.java`](java21/ShuffleWithRandomGenerator.java)
+- Java 21, JEP 439 generational ZGC: [`java21/GenerationalZgc.java`](java21/GenerationalZgc.java)
 <!-- INDEX:END -->
