@@ -76,4 +76,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - SEC05-J, do not use reflection to increase accessibility of classes, methods, or fields: [`SEC/SEC05_ReflectionAccessibility.java`](SEC/SEC05_ReflectionAccessibility.java)
 - STR00-J, don't form strings containing partial characters from variable-width encodings: [`STR/STR00_PartialCharacters.java`](STR/STR00_PartialCharacters.java)
 - SER02-J, sign then seal objects before sending them across a trust boundary: [`SER/SER02_SignThenSeal.java`](SER/SER02_SignThenSeal.java)
+- MSC04-J, do not leak memory: [`MSC/MSC04_MemoryLeak.java`](MSC/MSC04_MemoryLeak.java)
 <!-- INDEX:END -->
