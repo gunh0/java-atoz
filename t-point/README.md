@@ -142,6 +142,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Networking, `URI` / `URL` parsing: [`Networking/URI`](Networking/URI/)
 - Logging, `java.util.logging` basics: [`Logging/JavaUtilLogging`](Logging/JavaUtilLogging/)
 - Config, `Properties`: [`Config/Properties`](Config/Properties/)
+- Config, `ResourceBundle` and locale fallback: [`Config/ResourceBundle`](Config/ResourceBundle/)
 <!-- INDEX:END -->
 
 <br/>
