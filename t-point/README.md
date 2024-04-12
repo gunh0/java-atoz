@@ -143,6 +143,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Logging, `java.util.logging` basics: [`Logging/JavaUtilLogging`](Logging/JavaUtilLogging/)
 - Config, `Properties`: [`Config/Properties`](Config/Properties/)
 - Config, `ResourceBundle` and locale fallback: [`Config/ResourceBundle`](Config/ResourceBundle/)
+- Text, `NumberFormat` for numbers, currency, percentages and compact forms: [`Text/NumberFormat`](Text/NumberFormat/)
 <!-- INDEX:END -->
 
 <br/>
