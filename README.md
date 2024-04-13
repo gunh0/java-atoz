@@ -43,6 +43,7 @@ java example.java
 | [`modern-java`](modern-java/) | Language and API features by Java release, one JEP per example |
 | [`secure-coding`](secure-coding/) | SEI CERT Oracle Coding Standard for Java rules: noncompliant code next to the compliant fix |
 | [`patterns`](patterns/) | GoF design patterns, one small realistic scenario per pattern |
+| [`crypto`](crypto/) | Java Cryptography Architecture from a security engineer's view: correct use next to classic misuse |
 <!-- SECTIONS:END -->
 
 <br/>
