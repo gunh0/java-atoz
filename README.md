@@ -44,6 +44,7 @@ java example.java
 | [`secure-coding`](secure-coding/) | SEI CERT Oracle Coding Standard for Java rules: noncompliant code next to the compliant fix |
 | [`patterns`](patterns/) | GoF design patterns, one small realistic scenario per pattern |
 | [`crypto`](crypto/) | Java Cryptography Architecture from a security engineer's view: correct use next to classic misuse |
+| [`jvm`](jvm/) | How the JVM works, observed from Java: class loading, bytecode, memory model, references, JFR |
 <!-- SECTIONS:END -->
 
 <br/>
