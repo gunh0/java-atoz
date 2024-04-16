@@ -45,6 +45,7 @@ java example.java
 | [`patterns`](patterns/) | GoF design patterns, one small realistic scenario per pattern |
 | [`crypto`](crypto/) | Java Cryptography Architecture from a security engineer's view: correct use next to classic misuse |
 | [`jvm`](jvm/) | How the JVM works, observed from Java: class loading, bytecode, memory model, references, JFR |
+| [`dsa`](dsa/) | Data structures and algorithms implemented from scratch, each checked against `java.util` |
 <!-- SECTIONS:END -->
 
 <br/>
