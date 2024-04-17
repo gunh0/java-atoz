@@ -144,6 +144,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Config, `Properties`: [`Config/Properties`](Config/Properties/)
 - Config, `ResourceBundle` and locale fallback: [`Config/ResourceBundle`](Config/ResourceBundle/)
 - Text, `NumberFormat` for numbers, currency, percentages and compact forms: [`Text/NumberFormat`](Text/NumberFormat/)
+- Text, `DecimalFormat` patterns and `DecimalFormatSymbols`: [`Text/DecimalFormat`](Text/DecimalFormat/)
 <!-- INDEX:END -->
 
 <br/>
