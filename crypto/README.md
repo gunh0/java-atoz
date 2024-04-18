@@ -10,4 +10,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 
 <!-- INDEX:START -->
 - Providers, JCA providers and how `getInstance` picks one: [`Providers/ProviderArchitecture.java`](Providers/ProviderArchitecture.java)
+- Providers, listing supported algorithms with `Security.getAlgorithms`: [`Providers/AlgorithmListing.java`](Providers/AlgorithmListing.java)
 <!-- INDEX:END -->
