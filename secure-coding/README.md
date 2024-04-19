@@ -78,4 +78,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - SER02-J, sign then seal objects before sending them across a trust boundary: [`SER/SER02_SignThenSeal.java`](SER/SER02_SignThenSeal.java)
 - MSC04-J, do not leak memory: [`MSC/MSC04_MemoryLeak.java`](MSC/MSC04_MemoryLeak.java)
 - IDS05-J, use a subset of ASCII for file and path names: [`IDS/IDS05_AsciiFileNames.java`](IDS/IDS05_AsciiFileNames.java)
+- IDS14-J, do not trust the contents of hidden form fields: [`IDS/IDS14_HiddenFormFields.java`](IDS/IDS14_HiddenFormFields.java)
 <!-- INDEX:END -->
