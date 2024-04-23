@@ -11,4 +11,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 <!-- INDEX:START -->
 - Providers, JCA providers and how `getInstance` picks one: [`Providers/ProviderArchitecture.java`](Providers/ProviderArchitecture.java)
 - Providers, listing supported algorithms with `Security.getAlgorithms`: [`Providers/AlgorithmListing.java`](Providers/AlgorithmListing.java)
+- Digest, `MessageDigest` and SHA-2, FIPS 180 known-answer tests: [`Digest/Sha2KnownAnswer.java`](Digest/Sha2KnownAnswer.java)
 <!-- INDEX:END -->
