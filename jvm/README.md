@@ -10,4 +10,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 
 <!-- INDEX:START -->
 - ClassLoading, class loader hierarchy and parent-first delegation: [`ClassLoading/ClassLoaderHierarchy.java`](ClassLoading/ClassLoaderHierarchy.java)
+- ClassLoading, loading vs initialization: when static initializers run: [`ClassLoading/ClassInitialization.java`](ClassLoading/ClassInitialization.java)
 <!-- INDEX:END -->
