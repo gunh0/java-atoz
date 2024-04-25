@@ -8,4 +8,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 
 <!-- INDEX:START -->
 - Arrays, dynamic array with amortized O(1) append by doubling: [`Arrays/DynamicArray.java`](Arrays/DynamicArray.java)
+- Linked lists, singly linked list (head/tail, remove, in-place reversal, middle node): [`LinkedLists/SinglyLinkedList.java`](LinkedLists/SinglyLinkedList.java)
 <!-- INDEX:END -->
