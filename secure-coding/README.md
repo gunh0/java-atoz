@@ -79,4 +79,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - MSC04-J, do not leak memory: [`MSC/MSC04_MemoryLeak.java`](MSC/MSC04_MemoryLeak.java)
 - IDS05-J, use a subset of ASCII for file and path names: [`IDS/IDS05_AsciiFileNames.java`](IDS/IDS05_AsciiFileNames.java)
 - IDS14-J, do not trust the contents of hidden form fields: [`IDS/IDS14_HiddenFormFields.java`](IDS/IDS14_HiddenFormFields.java)
+- EXP04-J, do not pass arguments to certain Java Collections Framework methods that are a different type than the collection parameter type: [`EXP/EXP04_CollectionArgumentTypes.java`](EXP/EXP04_CollectionArgumentTypes.java)
 <!-- INDEX:END -->
