@@ -146,6 +146,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Text, `NumberFormat` for numbers, currency, percentages and compact forms: [`Text/NumberFormat`](Text/NumberFormat/)
 - Text, `DecimalFormat` patterns and `DecimalFormatSymbols`: [`Text/DecimalFormat`](Text/DecimalFormat/)
 - Text, `MessageFormat` placeholders, sub-formats and quoting: [`Text/MessageFormat`](Text/MessageFormat/)
+- Text, `ChoiceFormat` ranges and plurals: [`Text/ChoiceFormat`](Text/ChoiceFormat/)
 <!-- INDEX:END -->
 
 <br/>
