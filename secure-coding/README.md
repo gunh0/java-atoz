@@ -80,4 +80,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - IDS05-J, use a subset of ASCII for file and path names: [`IDS/IDS05_AsciiFileNames.java`](IDS/IDS05_AsciiFileNames.java)
 - IDS14-J, do not trust the contents of hidden form fields: [`IDS/IDS14_HiddenFormFields.java`](IDS/IDS14_HiddenFormFields.java)
 - EXP04-J, do not pass arguments to certain Java Collections Framework methods that are a different type than the collection parameter type: [`EXP/EXP04_CollectionArgumentTypes.java`](EXP/EXP04_CollectionArgumentTypes.java)
+- NUM01-J, do not perform bitwise and arithmetic operations on the same data: [`NUM/NUM01_BitwiseAndArithmetic.java`](NUM/NUM01_BitwiseAndArithmetic.java)
 <!-- INDEX:END -->
