@@ -148,6 +148,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Text, `MessageFormat` placeholders, sub-formats and quoting: [`Text/MessageFormat`](Text/MessageFormat/)
 - Text, `ChoiceFormat` ranges and plurals: [`Text/ChoiceFormat`](Text/ChoiceFormat/)
 - Text, `Collator` locale-aware comparison and strength: [`Text/Collator`](Text/Collator/)
+- Text, `BreakIterator` characters, words and sentences: [`Text/BreakIterator`](Text/BreakIterator/)
 <!-- INDEX:END -->
 
 <br/>
