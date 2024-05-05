@@ -81,4 +81,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - IDS14-J, do not trust the contents of hidden form fields: [`IDS/IDS14_HiddenFormFields.java`](IDS/IDS14_HiddenFormFields.java)
 - EXP04-J, do not pass arguments to certain Java Collections Framework methods that are a different type than the collection parameter type: [`EXP/EXP04_CollectionArgumentTypes.java`](EXP/EXP04_CollectionArgumentTypes.java)
 - NUM01-J, do not perform bitwise and arithmetic operations on the same data: [`NUM/NUM01_BitwiseAndArithmetic.java`](NUM/NUM01_BitwiseAndArithmetic.java)
+- MET01-J, never use assertions to validate method arguments: [`MET/MET01_AssertionsForArguments.java`](MET/MET01_AssertionsForArguments.java)
 <!-- INDEX:END -->
