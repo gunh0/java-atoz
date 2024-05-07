@@ -14,4 +14,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Digest, `MessageDigest` and SHA-2, FIPS 180 known-answer tests: [`Digest/Sha2KnownAnswer.java`](Digest/Sha2KnownAnswer.java)
 - Digest, why MD5 and SHA-1 are broken: a real MD5 collision: [`Digest/Md5Collision.java`](Digest/Md5Collision.java)
 - Digest, length extension: why SHA-256(secret || message) is not a MAC: [`Digest/LengthExtension.java`](Digest/LengthExtension.java)
+- Digest, SHA-3 (sponge construction), FIPS 202 known-answer tests: [`Digest/Sha3KnownAnswer.java`](Digest/Sha3KnownAnswer.java)
 <!-- INDEX:END -->
