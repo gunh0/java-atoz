@@ -82,4 +82,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - EXP04-J, do not pass arguments to certain Java Collections Framework methods that are a different type than the collection parameter type: [`EXP/EXP04_CollectionArgumentTypes.java`](EXP/EXP04_CollectionArgumentTypes.java)
 - NUM01-J, do not perform bitwise and arithmetic operations on the same data: [`NUM/NUM01_BitwiseAndArithmetic.java`](NUM/NUM01_BitwiseAndArithmetic.java)
 - MET01-J, never use assertions to validate method arguments: [`MET/MET01_AssertionsForArguments.java`](MET/MET01_AssertionsForArguments.java)
+- FIO01-J, create files with appropriate access permissions: [`FIO/FIO01_FilePermissions.java`](FIO/FIO01_FilePermissions.java)
 <!-- INDEX:END -->
