@@ -12,4 +12,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - ClassLoading, class loader hierarchy and parent-first delegation: [`ClassLoading/ClassLoaderHierarchy.java`](ClassLoading/ClassLoaderHierarchy.java)
 - ClassLoading, loading vs initialization: when static initializers run: [`ClassLoading/ClassInitialization.java`](ClassLoading/ClassInitialization.java)
 - ClassLoading, a custom `ClassLoader` for classes compiled in memory: [`ClassLoading/InMemoryClassLoader.java`](ClassLoading/InMemoryClassLoader.java)
+- ClassLoading, class identity: name plus defining loader: [`ClassLoading/ClassIdentity.java`](ClassLoading/ClassIdentity.java)
 <!-- INDEX:END -->
