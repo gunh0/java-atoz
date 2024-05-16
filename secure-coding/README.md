@@ -83,4 +83,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - NUM01-J, do not perform bitwise and arithmetic operations on the same data: [`NUM/NUM01_BitwiseAndArithmetic.java`](NUM/NUM01_BitwiseAndArithmetic.java)
 - MET01-J, never use assertions to validate method arguments: [`MET/MET01_AssertionsForArguments.java`](MET/MET01_AssertionsForArguments.java)
 - FIO01-J, create files with appropriate access permissions: [`FIO/FIO01_FilePermissions.java`](FIO/FIO01_FilePermissions.java)
+- OBJ00-J, limit extensibility of classes and methods with invariants to trusted subclasses only: [`OBJ/OBJ00_LimitExtensibility.java`](OBJ/OBJ00_LimitExtensibility.java)
 <!-- INDEX:END -->
