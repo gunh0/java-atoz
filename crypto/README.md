@@ -16,4 +16,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Digest, length extension: why SHA-256(secret || message) is not a MAC: [`Digest/LengthExtension.java`](Digest/LengthExtension.java)
 - Digest, SHA-3 (sponge construction), FIPS 202 known-answer tests: [`Digest/Sha3KnownAnswer.java`](Digest/Sha3KnownAnswer.java)
 - Mac, HMAC with RFC 4231 vectors and constant-time verification: [`Mac/HmacKnownAnswer.java`](Mac/HmacKnownAnswer.java)
+- Kdf, PBKDF2 parameters and RFC 6070 vectors: [`Kdf/Pbkdf2KnownAnswer.java`](Kdf/Pbkdf2KnownAnswer.java)
 <!-- INDEX:END -->
