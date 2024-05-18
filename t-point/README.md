@@ -151,6 +151,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Text, `BreakIterator` characters, words and sentences: [`Text/BreakIterator`](Text/BreakIterator/)
 - Text, Unicode normalization with `Normalizer` (NFC, NFD, NFKC, NFKD): [`Text/Normalizer`](Text/Normalizer/)
 - Regex, named groups, `\k<name>` and `${name}`: [`Regex/NamedGroups`](Regex/NamedGroups/)
+- Regex, lookahead and lookbehind: [`Regex/Lookaround`](Regex/Lookaround/)
 <!-- INDEX:END -->
 
 <br/>
