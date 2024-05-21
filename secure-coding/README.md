@@ -84,4 +84,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - MET01-J, never use assertions to validate method arguments: [`MET/MET01_AssertionsForArguments.java`](MET/MET01_AssertionsForArguments.java)
 - FIO01-J, create files with appropriate access permissions: [`FIO/FIO01_FilePermissions.java`](FIO/FIO01_FilePermissions.java)
 - OBJ00-J, limit extensibility of classes and methods with invariants to trusted subclasses only: [`OBJ/OBJ00_LimitExtensibility.java`](OBJ/OBJ00_LimitExtensibility.java)
+- SER01-J, do not deviate from the proper signatures of serialization methods: [`SER/SER01_SerializationMethodSignatures.java`](SER/SER01_SerializationMethodSignatures.java)
 <!-- INDEX:END -->
