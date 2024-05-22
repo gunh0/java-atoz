@@ -17,4 +17,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Digest, SHA-3 (sponge construction), FIPS 202 known-answer tests: [`Digest/Sha3KnownAnswer.java`](Digest/Sha3KnownAnswer.java)
 - Mac, HMAC with RFC 4231 vectors and constant-time verification: [`Mac/HmacKnownAnswer.java`](Mac/HmacKnownAnswer.java)
 - Kdf, PBKDF2 parameters and RFC 6070 vectors: [`Kdf/Pbkdf2KnownAnswer.java`](Kdf/Pbkdf2KnownAnswer.java)
+- Kdf, storing password hashes: salt, cost and rehash on login: [`Kdf/PasswordStorage.java`](Kdf/PasswordStorage.java)
 <!-- INDEX:END -->
