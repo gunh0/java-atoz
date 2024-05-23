@@ -152,6 +152,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Text, Unicode normalization with `Normalizer` (NFC, NFD, NFKC, NFKD): [`Text/Normalizer`](Text/Normalizer/)
 - Regex, named groups, `\k<name>` and `${name}`: [`Regex/NamedGroups`](Regex/NamedGroups/)
 - Regex, lookahead and lookbehind: [`Regex/Lookaround`](Regex/Lookaround/)
+- Regex, pattern flags and embedded flags: [`Regex/Flags`](Regex/Flags/)
 <!-- INDEX:END -->
 
 <br/>
