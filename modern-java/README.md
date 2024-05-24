@@ -67,4 +67,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 21, JEP 439 generational ZGC: [`java21/GenerationalZgc.java`](java21/GenerationalZgc.java)
 - Java 22, JEP 456 unnamed variables (`_`): [`java22/UnnamedVariables.java`](java22/UnnamedVariables.java)
 - Java 22, JEP 456 unnamed patterns in `switch` and record patterns: [`java22/UnnamedPatterns.java`](java22/UnnamedPatterns.java)
+- Java 22, JEP 454 Foreign Function & Memory API: `Arena` and `MemorySegment`: [`java22/ForeignMemoryArena.java`](java22/ForeignMemoryArena.java)
 <!-- INDEX:END -->
