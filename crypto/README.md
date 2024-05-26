@@ -18,4 +18,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Mac, HMAC with RFC 4231 vectors and constant-time verification: [`Mac/HmacKnownAnswer.java`](Mac/HmacKnownAnswer.java)
 - Kdf, PBKDF2 parameters and RFC 6070 vectors: [`Kdf/Pbkdf2KnownAnswer.java`](Kdf/Pbkdf2KnownAnswer.java)
 - Kdf, storing password hashes: salt, cost and rehash on login: [`Kdf/PasswordStorage.java`](Kdf/PasswordStorage.java)
+- Kdf, HKDF implemented over `Mac`, RFC 5869 vectors: [`Kdf/Hkdf.java`](Kdf/Hkdf.java)
 <!-- INDEX:END -->
