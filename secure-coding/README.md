@@ -85,4 +85,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - FIO01-J, create files with appropriate access permissions: [`FIO/FIO01_FilePermissions.java`](FIO/FIO01_FilePermissions.java)
 - OBJ00-J, limit extensibility of classes and methods with invariants to trusted subclasses only: [`OBJ/OBJ00_LimitExtensibility.java`](OBJ/OBJ00_LimitExtensibility.java)
 - SER01-J, do not deviate from the proper signatures of serialization methods: [`SER/SER01_SerializationMethodSignatures.java`](SER/SER01_SerializationMethodSignatures.java)
+- STR04-J, use compatible character encodings when communicating string data between JVMs: [`STR/STR04_CompatibleEncodings.java`](STR/STR04_CompatibleEncodings.java)
 <!-- INDEX:END -->
