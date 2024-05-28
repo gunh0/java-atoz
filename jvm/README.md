@@ -14,4 +14,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - ClassLoading, a custom `ClassLoader` for classes compiled in memory: [`ClassLoading/InMemoryClassLoader.java`](ClassLoading/InMemoryClassLoader.java)
 - ClassLoading, class identity: name plus defining loader: [`ClassLoading/ClassIdentity.java`](ClassLoading/ClassIdentity.java)
 - ClassLoading, parent-first vs child-first loading, protected `java.*`: [`ClassLoading/ChildFirstLoader.java`](ClassLoading/ChildFirstLoader.java)
+- ClassFile, inside a class file: a small hand-written parser: [`ClassFile/ClassFileHeader.java`](ClassFile/ClassFileHeader.java)
 <!-- INDEX:END -->
