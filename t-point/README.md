@@ -154,6 +154,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Regex, lookahead and lookbehind: [`Regex/Lookaround`](Regex/Lookaround/)
 - Regex, pattern flags and embedded flags: [`Regex/Flags`](Regex/Flags/)
 - Regex, `replaceAll(Function)`, `appendReplacement` and quoting: [`Regex/ReplaceFunction`](Regex/ReplaceFunction/)
+- Regex, `splitAsStream`, `asMatchPredicate` and `Matcher.results`: [`Regex/StreamApi`](Regex/StreamApi/)
 <!-- INDEX:END -->
 
 <br/>
