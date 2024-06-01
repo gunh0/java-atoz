@@ -86,4 +86,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - OBJ00-J, limit extensibility of classes and methods with invariants to trusted subclasses only: [`OBJ/OBJ00_LimitExtensibility.java`](OBJ/OBJ00_LimitExtensibility.java)
 - SER01-J, do not deviate from the proper signatures of serialization methods: [`SER/SER01_SerializationMethodSignatures.java`](SER/SER01_SerializationMethodSignatures.java)
 - STR04-J, use compatible character encodings when communicating string data between JVMs: [`STR/STR04_CompatibleEncodings.java`](STR/STR04_CompatibleEncodings.java)
+- ERR02-J, prevent exceptions while logging data: [`ERR/ERR02_ExceptionsWhileLogging.java`](ERR/ERR02_ExceptionsWhileLogging.java)
 <!-- INDEX:END -->
