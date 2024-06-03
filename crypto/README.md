@@ -20,4 +20,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Kdf, storing password hashes: salt, cost and rehash on login: [`Kdf/PasswordStorage.java`](Kdf/PasswordStorage.java)
 - Kdf, HKDF implemented over `Mac`, RFC 5869 vectors: [`Kdf/Hkdf.java`](Kdf/Hkdf.java)
 - Keys, `KeyGenerator`, `SecretKeySpec` and `SecretKeyFactory`: [`Keys/SecretKeys.java`](Keys/SecretKeys.java)
+- Symmetric, AES as a block cipher, FIPS 197 known-answer tests: [`Symmetric/AesKnownAnswer.java`](Symmetric/AesKnownAnswer.java)
 <!-- INDEX:END -->
