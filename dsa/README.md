@@ -13,4 +13,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 - Stacks and queues, array-backed stack (balanced brackets, RPN evaluation): [`StacksQueues/ArrayStack.java`](StacksQueues/ArrayStack.java)
 - Stacks and queues, ring buffer queue with wrap-around and growth: [`StacksQueues/RingBufferQueue.java`](StacksQueues/RingBufferQueue.java)
 - Hashing, open addressing hash map (linear probing, tombstones, resize): [`Hashing/OpenAddressingHashMap.java`](Hashing/OpenAddressingHashMap.java)
+- Searching, binary search, lower/upper bound and binary search on the answer: [`Searching/BinarySearchBounds.java`](Searching/BinarySearchBounds.java)
 <!-- INDEX:END -->
