@@ -156,6 +156,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Regex, `replaceAll(Function)`, `appendReplacement` and quoting: [`Regex/ReplaceFunction`](Regex/ReplaceFunction/)
 - Regex, `splitAsStream`, `asMatchPredicate` and `Matcher.results`: [`Regex/StreamApi`](Regex/StreamApi/)
 - Formatting, `java.util.Formatter` specifiers and `Formattable`: [`Formatting/Formatter`](Formatting/Formatter/)
+- String `formatted()` vs `String.format()`: [`StringMethods/formatted`](StringMethods/formatted/)
 <!-- INDEX:END -->
 
 <br/>
