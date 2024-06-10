@@ -21,4 +21,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Kdf, HKDF implemented over `Mac`, RFC 5869 vectors: [`Kdf/Hkdf.java`](Kdf/Hkdf.java)
 - Keys, `KeyGenerator`, `SecretKeySpec` and `SecretKeyFactory`: [`Keys/SecretKeys.java`](Keys/SecretKeys.java)
 - Symmetric, AES as a block cipher, FIPS 197 known-answer tests: [`Symmetric/AesKnownAnswer.java`](Symmetric/AesKnownAnswer.java)
+- Symmetric, the ECB penguin: repeated blocks survive encryption: [`Symmetric/EcbPenguin.java`](Symmetric/EcbPenguin.java)
 <!-- INDEX:END -->
