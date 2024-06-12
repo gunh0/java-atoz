@@ -88,4 +88,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - STR04-J, use compatible character encodings when communicating string data between JVMs: [`STR/STR04_CompatibleEncodings.java`](STR/STR04_CompatibleEncodings.java)
 - ERR02-J, prevent exceptions while logging data: [`ERR/ERR02_ExceptionsWhileLogging.java`](ERR/ERR02_ExceptionsWhileLogging.java)
 - NUM03-J, use integer types that can fully represent the possible range of unsigned data: [`NUM/NUM03_UnsignedData.java`](NUM/NUM03_UnsignedData.java)
+- MET03-J, methods that perform a security check must be declared private or final: [`MET/MET03_SecurityCheckFinal.java`](MET/MET03_SecurityCheckFinal.java)
 <!-- INDEX:END -->
