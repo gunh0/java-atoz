@@ -157,6 +157,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Regex, `splitAsStream`, `asMatchPredicate` and `Matcher.results`: [`Regex/StreamApi`](Regex/StreamApi/)
 - Formatting, `java.util.Formatter` specifiers and `Formattable`: [`Formatting/Formatter`](Formatting/Formatter/)
 - String `formatted()` vs `String.format()`: [`StringMethods/formatted`](StringMethods/formatted/)
+- Text blocks, indentation, `\s` and line joining: [`TextBlocks/Usage`](TextBlocks/Usage/)
 <!-- INDEX:END -->
 
 <br/>
