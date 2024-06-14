@@ -16,4 +16,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - ClassLoading, parent-first vs child-first loading, protected `java.*`: [`ClassLoading/ChildFirstLoader.java`](ClassLoading/ChildFirstLoader.java)
 - ClassFile, inside a class file: a small hand-written parser: [`ClassFile/ClassFileHeader.java`](ClassFile/ClassFileHeader.java)
 - ClassFile, reading bytecode with `javap` through `ToolProvider`: [`ClassFile/JavapBytecode.java`](ClassFile/JavapBytecode.java)
+- Invoke, method handles: lookup, `invokeExact`, composition: [`Invoke/MethodHandlesBasics.java`](Invoke/MethodHandlesBasics.java)
 <!-- INDEX:END -->
