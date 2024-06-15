@@ -22,4 +22,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Keys, `KeyGenerator`, `SecretKeySpec` and `SecretKeyFactory`: [`Keys/SecretKeys.java`](Keys/SecretKeys.java)
 - Symmetric, AES as a block cipher, FIPS 197 known-answer tests: [`Symmetric/AesKnownAnswer.java`](Symmetric/AesKnownAnswer.java)
 - Symmetric, the ECB penguin: repeated blocks survive encryption: [`Symmetric/EcbPenguin.java`](Symmetric/EcbPenguin.java)
+- Symmetric, AES-CBC: random IVs, PKCS#7 padding, bit flipping: [`Symmetric/CbcPadding.java`](Symmetric/CbcPadding.java)
 <!-- INDEX:END -->
