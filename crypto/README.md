@@ -23,4 +23,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Symmetric, AES as a block cipher, FIPS 197 known-answer tests: [`Symmetric/AesKnownAnswer.java`](Symmetric/AesKnownAnswer.java)
 - Symmetric, the ECB penguin: repeated blocks survive encryption: [`Symmetric/EcbPenguin.java`](Symmetric/EcbPenguin.java)
 - Symmetric, AES-CBC: random IVs, PKCS#7 padding, bit flipping: [`Symmetric/CbcPadding.java`](Symmetric/CbcPadding.java)
+- Symmetric, the padding oracle concept, and why AEAD fixes it: [`Symmetric/PaddingOracleConcept.java`](Symmetric/PaddingOracleConcept.java)
 <!-- INDEX:END -->
