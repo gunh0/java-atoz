@@ -159,6 +159,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - String `formatted()` vs `String.format()`: [`StringMethods/formatted`](StringMethods/formatted/)
 - Text blocks, indentation, `\s` and line joining: [`TextBlocks/Usage`](TextBlocks/Usage/)
 - Records, compact constructors for validation and defensive copies: [`Records/CompactConstructor`](Records/CompactConstructor/)
+- Records, factories, methods, custom accessors and local records: [`Records/Members`](Records/Members/)
 <!-- INDEX:END -->
 
 <br/>
