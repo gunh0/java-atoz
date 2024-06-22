@@ -90,4 +90,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - NUM03-J, use integer types that can fully represent the possible range of unsigned data: [`NUM/NUM03_UnsignedData.java`](NUM/NUM03_UnsignedData.java)
 - MET03-J, methods that perform a security check must be declared private or final: [`MET/MET03_SecurityCheckFinal.java`](MET/MET03_SecurityCheckFinal.java)
 - FIO10-J, ensure the array is filled when using `read()` to fill an array: [`FIO/FIO10_FillTheArray.java`](FIO/FIO10_FillTheArray.java)
+- DCL00-J, prevent class initialization cycles: [`DCL/DCL00_ClassInitializationCycles.java`](DCL/DCL00_ClassInitializationCycles.java)
 <!-- INDEX:END -->
