@@ -17,4 +17,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - ClassFile, inside a class file: a small hand-written parser: [`ClassFile/ClassFileHeader.java`](ClassFile/ClassFileHeader.java)
 - ClassFile, reading bytecode with `javap` through `ToolProvider`: [`ClassFile/JavapBytecode.java`](ClassFile/JavapBytecode.java)
 - Invoke, method handles: lookup, `invokeExact`, composition: [`Invoke/MethodHandlesBasics.java`](Invoke/MethodHandlesBasics.java)
+- Invoke, lambdas, `invokedynamic` and `LambdaMetafactory`: [`Invoke/LambdaMetafactoryDemo.java`](Invoke/LambdaMetafactoryDemo.java)
 <!-- INDEX:END -->
