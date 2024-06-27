@@ -160,6 +160,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Text blocks, indentation, `\s` and line joining: [`TextBlocks/Usage`](TextBlocks/Usage/)
 - Records, compact constructors for validation and defensive copies: [`Records/CompactConstructor`](Records/CompactConstructor/)
 - Records, factories, methods, custom accessors and local records: [`Records/Members`](Records/Members/)
+- Records, nested record patterns in `instanceof` and `switch`: [`Records/RecordPatterns`](Records/RecordPatterns/)
 <!-- INDEX:END -->
 
 <br/>
