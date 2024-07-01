@@ -69,4 +69,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 22, JEP 456 unnamed patterns in `switch` and record patterns: [`java22/UnnamedPatterns.java`](java22/UnnamedPatterns.java)
 - Java 22, JEP 454 Foreign Function & Memory API: `Arena` and `MemorySegment`: [`java22/ForeignMemoryArena.java`](java22/ForeignMemoryArena.java)
 - Java 22, JEP 454 Foreign Function & Memory API: memory layouts: [`java22/ForeignMemoryLayouts.java`](java22/ForeignMemoryLayouts.java)
+- Java 22, JEP 454 Foreign Function & Memory API: downcalls and upcalls: [`java22/ForeignFunctionCalls.java`](java22/ForeignFunctionCalls.java)
 <!-- INDEX:END -->
