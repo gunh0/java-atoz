@@ -16,4 +16,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 - Searching, binary search, lower/upper bound and binary search on the answer: [`Searching/BinarySearchBounds.java`](Searching/BinarySearchBounds.java)
 - Sorting, merge sort (top-down, bottom-up, stability, inversion count): [`Sorting/MergeSort.java`](Sorting/MergeSort.java)
 - Sorting, quicksort with random pivot and 3-way partition: [`Sorting/QuickSort.java`](Sorting/QuickSort.java)
+- Sorting, counting sort and LSD radix sort (with negative ints): [`Sorting/CountingRadixSort.java`](Sorting/CountingRadixSort.java)
 <!-- INDEX:END -->
