@@ -26,4 +26,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Symmetric, the padding oracle concept, and why AEAD fixes it: [`Symmetric/PaddingOracleConcept.java`](Symmetric/PaddingOracleConcept.java)
 - Symmetric, AES-CTR malleability: encryption is not integrity: [`Symmetric/CtrMalleability.java`](Symmetric/CtrMalleability.java)
 - Symmetric, AES-GCM with AAD and tamper detection: [`Symmetric/AesGcm.java`](Symmetric/AesGcm.java)
+- Symmetric, nonce reuse: XOR of keystreams leaks plaintext: [`Symmetric/NonceReuse.java`](Symmetric/NonceReuse.java)
 <!-- INDEX:END -->
