@@ -163,6 +163,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Records, nested record patterns in `instanceof` and `switch`: [`Records/RecordPatterns`](Records/RecordPatterns/)
 - Sealed types, `permits`, `non-sealed` and exhaustive `switch`: [`Sealed/SealedHierarchy`](Sealed/SealedHierarchy/)
 - Switch, type patterns, guards, `case null` and unnamed `_`: [`Switch/PatternSwitch`](Switch/PatternSwitch/)
+- OOP, interface private methods and default-method conflicts: [`OOP/InterfacePrivateMethods`](OOP/InterfacePrivateMethods/)
 <!-- INDEX:END -->
 
 <br/>
