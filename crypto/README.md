@@ -27,4 +27,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Symmetric, AES-CTR malleability: encryption is not integrity: [`Symmetric/CtrMalleability.java`](Symmetric/CtrMalleability.java)
 - Symmetric, AES-GCM with AAD and tamper detection: [`Symmetric/AesGcm.java`](Symmetric/AesGcm.java)
 - Symmetric, nonce reuse: XOR of keystreams leaks plaintext: [`Symmetric/NonceReuse.java`](Symmetric/NonceReuse.java)
+- Symmetric, ChaCha20-Poly1305 with the RFC 8439 vector: [`Symmetric/ChaCha20Poly1305.java`](Symmetric/ChaCha20Poly1305.java)
 <!-- INDEX:END -->
