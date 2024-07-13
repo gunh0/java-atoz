@@ -93,4 +93,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - DCL00-J, prevent class initialization cycles: [`DCL/DCL00_ClassInitializationCycles.java`](DCL/DCL00_ClassInitializationCycles.java)
 - SER07-J, do not use the default serialized form for classes with implementation-defined invariants: [`SER/SER07_CustomSerializedForm.java`](SER/SER07_CustomSerializedForm.java)
 - EXP06-J, expressions used in assertions must not produce side effects: [`EXP/EXP06_AssertionSideEffects.java`](EXP/EXP06_AssertionSideEffects.java)
+- MET04-J, do not increase the accessibility of overridden or hidden methods: [`MET/MET04_IncreasedAccessibility.java`](MET/MET04_IncreasedAccessibility.java)
 <!-- INDEX:END -->
