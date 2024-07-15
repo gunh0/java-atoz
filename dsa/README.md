@@ -17,4 +17,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 - Sorting, merge sort (top-down, bottom-up, stability, inversion count): [`Sorting/MergeSort.java`](Sorting/MergeSort.java)
 - Sorting, quicksort with random pivot and 3-way partition: [`Sorting/QuickSort.java`](Sorting/QuickSort.java)
 - Sorting, counting sort and LSD radix sort (with negative ints): [`Sorting/CountingRadixSort.java`](Sorting/CountingRadixSort.java)
+- Trees, binary search tree (insert, search, three-case delete, height): [`Trees/BinarySearchTree.java`](Trees/BinarySearchTree.java)
 <!-- INDEX:END -->
