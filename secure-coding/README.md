@@ -94,4 +94,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - SER07-J, do not use the default serialized form for classes with implementation-defined invariants: [`SER/SER07_CustomSerializedForm.java`](SER/SER07_CustomSerializedForm.java)
 - EXP06-J, expressions used in assertions must not produce side effects: [`EXP/EXP06_AssertionSideEffects.java`](EXP/EXP06_AssertionSideEffects.java)
 - MET04-J, do not increase the accessibility of overridden or hidden methods: [`MET/MET04_IncreasedAccessibility.java`](MET/MET04_IncreasedAccessibility.java)
+- ERR03-J, restore prior object state on method failure: [`ERR/ERR03_RestoreStateOnFailure.java`](ERR/ERR03_RestoreStateOnFailure.java)
 <!-- INDEX:END -->
