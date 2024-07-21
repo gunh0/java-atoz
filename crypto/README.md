@@ -29,4 +29,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Symmetric, nonce reuse: XOR of keystreams leaks plaintext: [`Symmetric/NonceReuse.java`](Symmetric/NonceReuse.java)
 - Symmetric, ChaCha20-Poly1305 with the RFC 8439 vector: [`Symmetric/ChaCha20Poly1305.java`](Symmetric/ChaCha20Poly1305.java)
 - Symmetric, encrypt-then-MAC with AES-CBC and HMAC: [`Symmetric/EncryptThenMac.java`](Symmetric/EncryptThenMac.java)
+- Symmetric, AES Key Wrap (`AESWrap`) and envelope encryption: [`Symmetric/AesKeyWrap.java`](Symmetric/AesKeyWrap.java)
 <!-- INDEX:END -->
