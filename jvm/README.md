@@ -20,4 +20,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - Invoke, lambdas, `invokedynamic` and `LambdaMetafactory`: [`Invoke/LambdaMetafactoryDemo.java`](Invoke/LambdaMetafactoryDemo.java)
 - Jmm, JMM: visibility and publication with `volatile`: [`Jmm/VolatileVisibility.java`](Jmm/VolatileVisibility.java)
 - Jmm, JMM: happens-before edges: [`Jmm/HappensBefore.java`](Jmm/HappensBefore.java)
+- Jmm, JMM: final field semantics and their limits: [`Jmm/FinalFieldSemantics.java`](Jmm/FinalFieldSemantics.java)
 <!-- INDEX:END -->
