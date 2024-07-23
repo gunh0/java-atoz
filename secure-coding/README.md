@@ -95,4 +95,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - EXP06-J, expressions used in assertions must not produce side effects: [`EXP/EXP06_AssertionSideEffects.java`](EXP/EXP06_AssertionSideEffects.java)
 - MET04-J, do not increase the accessibility of overridden or hidden methods: [`MET/MET04_IncreasedAccessibility.java`](MET/MET04_IncreasedAccessibility.java)
 - ERR03-J, restore prior object state on method failure: [`ERR/ERR03_RestoreStateOnFailure.java`](ERR/ERR03_RestoreStateOnFailure.java)
+- NUM08-J, check floating-point inputs for exceptional values: [`NUM/NUM08_FloatingPointInputs.java`](NUM/NUM08_FloatingPointInputs.java)
 <!-- INDEX:END -->
