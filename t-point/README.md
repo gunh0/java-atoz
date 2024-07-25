@@ -166,6 +166,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - OOP, interface private methods and default-method conflicts: [`OOP/InterfacePrivateMethods`](OOP/InterfacePrivateMethods/)
 - OOP, static and instance initialization order: [`OOP/InitializationOrder`](OOP/InitializationOrder/)
 - OOP, `java.lang.Object` methods and `Objects` helpers: [`OOP/ObjectMethods`](OOP/ObjectMethods/)
+- OOP, immutable classes and defensive copies: [`OOP/Immutability`](OOP/Immutability/)
 <!-- INDEX:END -->
 
 <br/>
