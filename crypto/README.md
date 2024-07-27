@@ -30,4 +30,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Symmetric, ChaCha20-Poly1305 with the RFC 8439 vector: [`Symmetric/ChaCha20Poly1305.java`](Symmetric/ChaCha20Poly1305.java)
 - Symmetric, encrypt-then-MAC with AES-CBC and HMAC: [`Symmetric/EncryptThenMac.java`](Symmetric/EncryptThenMac.java)
 - Symmetric, AES Key Wrap (`AESWrap`) and envelope encryption: [`Symmetric/AesKeyWrap.java`](Symmetric/AesKeyWrap.java)
+- Asymmetric, RSA key generation, key sizes and key structure: [`Asymmetric/RsaKeyGeneration.java`](Asymmetric/RsaKeyGeneration.java)
 <!-- INDEX:END -->
