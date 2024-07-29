@@ -167,6 +167,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - OOP, static and instance initialization order: [`OOP/InitializationOrder`](OOP/InitializationOrder/)
 - OOP, `java.lang.Object` methods and `Objects` helpers: [`OOP/ObjectMethods`](OOP/ObjectMethods/)
 - OOP, immutable classes and defensive copies: [`OOP/Immutability`](OOP/Immutability/)
+- OOP, varargs, overloading and `@SafeVarargs`: [`OOP/Varargs`](OOP/Varargs/)
 <!-- INDEX:END -->
 
 <br/>
