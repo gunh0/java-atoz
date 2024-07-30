@@ -21,4 +21,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - Jmm, JMM: visibility and publication with `volatile`: [`Jmm/VolatileVisibility.java`](Jmm/VolatileVisibility.java)
 - Jmm, JMM: happens-before edges: [`Jmm/HappensBefore.java`](Jmm/HappensBefore.java)
 - Jmm, JMM: final field semantics and their limits: [`Jmm/FinalFieldSemantics.java`](Jmm/FinalFieldSemantics.java)
+- Jmm, atomicity: lost updates, CAS, `LongAdder`, locks: [`Jmm/AtomicityAndRaces.java`](Jmm/AtomicityAndRaces.java)
 <!-- INDEX:END -->
