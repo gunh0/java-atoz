@@ -31,4 +31,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Symmetric, encrypt-then-MAC with AES-CBC and HMAC: [`Symmetric/EncryptThenMac.java`](Symmetric/EncryptThenMac.java)
 - Symmetric, AES Key Wrap (`AESWrap`) and envelope encryption: [`Symmetric/AesKeyWrap.java`](Symmetric/AesKeyWrap.java)
 - Asymmetric, RSA key generation, key sizes and key structure: [`Asymmetric/RsaKeyGeneration.java`](Asymmetric/RsaKeyGeneration.java)
+- Asymmetric, textbook RSA: deterministic and malleable: [`Asymmetric/TextbookRsa.java`](Asymmetric/TextbookRsa.java)
 <!-- INDEX:END -->
