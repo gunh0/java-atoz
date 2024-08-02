@@ -168,6 +168,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - OOP, `java.lang.Object` methods and `Objects` helpers: [`OOP/ObjectMethods`](OOP/ObjectMethods/)
 - OOP, immutable classes and defensive copies: [`OOP/Immutability`](OOP/Immutability/)
 - OOP, varargs, overloading and `@SafeVarargs`: [`OOP/Varargs`](OOP/Varargs/)
+- Exceptions, custom exception hierarchies with error codes: [`ExceptionHandling/CustomHierarchy`](ExceptionHandling/CustomHierarchy/)
 <!-- INDEX:END -->
 
 <br/>
