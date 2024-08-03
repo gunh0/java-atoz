@@ -97,4 +97,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - ERR03-J, restore prior object state on method failure: [`ERR/ERR03_RestoreStateOnFailure.java`](ERR/ERR03_RestoreStateOnFailure.java)
 - NUM08-J, check floating-point inputs for exceptional values: [`NUM/NUM08_FloatingPointInputs.java`](NUM/NUM08_FloatingPointInputs.java)
 - SER09-J, do not invoke overridable methods from the `readObject()` method: [`SER/SER09_OverridableInReadObject.java`](SER/SER09_OverridableInReadObject.java)
+- MET05-J, ensure that constructors do not call overridable methods: [`MET/MET05_ConstructorOverridableCalls.java`](MET/MET05_ConstructorOverridableCalls.java)
 <!-- INDEX:END -->
