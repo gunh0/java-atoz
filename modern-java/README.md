@@ -71,4 +71,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 22, JEP 454 Foreign Function & Memory API: memory layouts: [`java22/ForeignMemoryLayouts.java`](java22/ForeignMemoryLayouts.java)
 - Java 22, JEP 454 Foreign Function & Memory API: downcalls and upcalls: [`java22/ForeignFunctionCalls.java`](java22/ForeignFunctionCalls.java)
 - Java 22, JEP 458 launching multi-file source-code programs: [`java22/MultiFileSourcePrograms.java`](java22/MultiFileSourcePrograms.java)
+- Java 22, `java.text.ListFormat`: [`java22/ListFormatExample.java`](java22/ListFormatExample.java)
 <!-- INDEX:END -->
