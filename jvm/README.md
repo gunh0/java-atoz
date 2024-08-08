@@ -22,4 +22,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - Jmm, JMM: happens-before edges: [`Jmm/HappensBefore.java`](Jmm/HappensBefore.java)
 - Jmm, JMM: final field semantics and their limits: [`Jmm/FinalFieldSemantics.java`](Jmm/FinalFieldSemantics.java)
 - Jmm, atomicity: lost updates, CAS, `LongAdder`, locks: [`Jmm/AtomicityAndRaces.java`](Jmm/AtomicityAndRaces.java)
+- References, soft, weak and phantom references with `ReferenceQueue`: [`References/ReferenceKinds.java`](References/ReferenceKinds.java)
 <!-- INDEX:END -->
