@@ -20,4 +20,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 - Trees, binary search tree (insert, search, three-case delete, height): [`Trees/BinarySearchTree.java`](Trees/BinarySearchTree.java)
 - Trees, AVL tree (four rotation cases, balanced on sorted input): [`Trees/AvlTree.java`](Trees/AvlTree.java)
 - Heaps, binary min-heap priority queue (sift up/down, O(n) heapify): [`Heaps/BinaryHeap.java`](Heaps/BinaryHeap.java)
+- Sorting, in-place heap sort (bottom-up heapify, sift down): [`Sorting/HeapSort.java`](Sorting/HeapSort.java)
 <!-- INDEX:END -->
