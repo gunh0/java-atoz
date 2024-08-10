@@ -33,4 +33,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Asymmetric, RSA key generation, key sizes and key structure: [`Asymmetric/RsaKeyGeneration.java`](Asymmetric/RsaKeyGeneration.java)
 - Asymmetric, textbook RSA: deterministic and malleable: [`Asymmetric/TextbookRsa.java`](Asymmetric/TextbookRsa.java)
 - Asymmetric, RSA-OAEP vs PKCS#1 v1.5, and the OAEP parameter trap: [`Asymmetric/RsaOaep.java`](Asymmetric/RsaOaep.java)
+- Asymmetric, RSA signatures: RSASSA-PSS vs PKCS#1 v1.5: [`Asymmetric/RsaPss.java`](Asymmetric/RsaPss.java)
 <!-- INDEX:END -->
