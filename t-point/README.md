@@ -170,6 +170,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - OOP, varargs, overloading and `@SafeVarargs`: [`OOP/Varargs`](OOP/Varargs/)
 - Exceptions, custom exception hierarchies with error codes: [`ExceptionHandling/CustomHierarchy`](ExceptionHandling/CustomHierarchy/)
 - Exceptions, chaining causes and finding the root cause: [`ExceptionHandling/Chaining`](ExceptionHandling/Chaining/)
+- Exceptions, multi-catch, precise rethrow and `addSuppressed`: [`ExceptionHandling/MultiCatchRethrow`](ExceptionHandling/MultiCatchRethrow/)
 <!-- INDEX:END -->
 
 <br/>
