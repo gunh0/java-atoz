@@ -172,6 +172,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Exceptions, chaining causes and finding the root cause: [`ExceptionHandling/Chaining`](ExceptionHandling/Chaining/)
 - Exceptions, multi-catch, precise rethrow and `addSuppressed`: [`ExceptionHandling/MultiCatchRethrow`](ExceptionHandling/MultiCatchRethrow/)
 - Arrays, `Arrays.sort` and `binarySearch` insertion points: [`Arrays/SortSearch`](Arrays/SortSearch/)
+- Arrays, `fill` / `setAll` / `copyOf` and the `asList` view: [`Arrays/FillCopy`](Arrays/FillCopy/)
 <!-- INDEX:END -->
 
 <br/>
