@@ -36,4 +36,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Asymmetric, RSA signatures: RSASSA-PSS vs PKCS#1 v1.5: [`Asymmetric/RsaPss.java`](Asymmetric/RsaPss.java)
 - Asymmetric, ECDSA on P-256: DER vs IEEE P1363 signature encoding: [`Asymmetric/EcdsaSignatureEncoding.java`](Asymmetric/EcdsaSignatureEncoding.java)
 - Asymmetric, ECDSA malleability and the low-s rule: [`Asymmetric/EcdsaMalleability.java`](Asymmetric/EcdsaMalleability.java)
+- Asymmetric, ECDH key agreement on P-256 followed by HKDF: [`Asymmetric/EcdhKeyAgreement.java`](Asymmetric/EcdhKeyAgreement.java)
 <!-- INDEX:END -->
