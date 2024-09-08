@@ -101,4 +101,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - FIO07-J, do not let external processes block on IO buffers: [`FIO/FIO07_ProcessIoBuffers.java`](FIO/FIO07_ProcessIoBuffers.java)
 - NUM14-J, use shift operators correctly: [`NUM/NUM14_ShiftOperators.java`](NUM/NUM14_ShiftOperators.java)
 - OBJ03-J, prevent heap pollution: [`OBJ/OBJ03_HeapPollution.java`](OBJ/OBJ03_HeapPollution.java)
+- FIO13-J, do not log sensitive information outside a trust boundary: [`FIO/FIO13_SensitiveInfoInLogs.java`](FIO/FIO13_SensitiveInfoInLogs.java)
 <!-- INDEX:END -->
