@@ -24,4 +24,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - Jmm, atomicity: lost updates, CAS, `LongAdder`, locks: [`Jmm/AtomicityAndRaces.java`](Jmm/AtomicityAndRaces.java)
 - References, soft, weak and phantom references with `ReferenceQueue`: [`References/ReferenceKinds.java`](References/ReferenceKinds.java)
 - References, `WeakHashMap` and two ways it still leaks: [`References/WeakHashMapPitfalls.java`](References/WeakHashMapPitfalls.java)
+- References, `Cleaner` as a safety net, not a destructor: [`References/CleanerResource.java`](References/CleanerResource.java)
 <!-- INDEX:END -->
