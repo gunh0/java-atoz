@@ -22,4 +22,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 - Heaps, binary min-heap priority queue (sift up/down, O(n) heapify): [`Heaps/BinaryHeap.java`](Heaps/BinaryHeap.java)
 - Sorting, in-place heap sort (bottom-up heapify, sift down): [`Sorting/HeapSort.java`](Sorting/HeapSort.java)
 - Trees, trie with prefix search, autocomplete and pruning delete: [`Trees/Trie.java`](Trees/Trie.java)
+- Graphs, union-find with path compression and union by rank, Kruskal's MST: [`Graphs/UnionFind.java`](Graphs/UnionFind.java)
 <!-- INDEX:END -->
