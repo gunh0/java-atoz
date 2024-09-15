@@ -102,4 +102,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - NUM14-J, use shift operators correctly: [`NUM/NUM14_ShiftOperators.java`](NUM/NUM14_ShiftOperators.java)
 - OBJ03-J, prevent heap pollution: [`OBJ/OBJ03_HeapPollution.java`](OBJ/OBJ03_HeapPollution.java)
 - FIO13-J, do not log sensitive information outside a trust boundary: [`FIO/FIO13_SensitiveInfoInLogs.java`](FIO/FIO13_SensitiveInfoInLogs.java)
+- SER11-J, prevent overwriting of externalizable objects: [`SER/SER11_ExternalizableOverwrite.java`](SER/SER11_ExternalizableOverwrite.java)
 <!-- INDEX:END -->
