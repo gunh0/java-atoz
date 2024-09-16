@@ -175,6 +175,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Arrays, `fill` / `setAll` / `copyOf` and the `asList` view: [`Arrays/FillCopy`](Arrays/FillCopy/)
 - Arrays, `equals` / `deepEquals` / `compare` / `mismatch`: [`Arrays/CompareMismatch`](Arrays/CompareMismatch/)
 - Utilities, `BitSet` set algebra and a prime sieve: [`Utilities/BitSet`](Utilities/BitSet/)
+- Utilities, `UUID` random (v4) and name-based (v3) ids: [`Utilities/UUID`](Utilities/UUID/)
 <!-- INDEX:END -->
 
 <br/>
