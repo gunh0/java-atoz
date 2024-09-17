@@ -1,3 +1,4 @@
+// output-jdk: 21 (GC modes and their flags change between releases)
 // JEP 439 — Generational ZGC (Java 21)
 //
 // ZGC (production-ready since Java 15) keeps pause times well under a

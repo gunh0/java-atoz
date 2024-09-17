@@ -7,6 +7,7 @@
 #
 # JAVA_RELEASE pins `javac --release` (defaults to the running JDK).
 # JOBS sets how many files are checked in parallel (defaults to the CPU count).
+# A file with "// output-jdk: N" only has its output compared on JDK N.
 set -u
 
 cd "$(dirname "$0")/.."
@@ -36,6 +37,15 @@ check_one() {
 	if ! grep -q '^/\* Output:' "$f"; then
 		echo "ok" >"$work/status"
 		echo "ok            $f"
+		return
+	fi
+
+	# Output that documents one JDK's behaviour (GC modes, deprecation warnings)
+	# carries "// output-jdk: N" and is only compared on that release.
+	pin=$(sed -n 's#^// output-jdk: *\([0-9][0-9]*\).*#\1#p' "$f" | head -1)
+	if [ -n "$pin" ] && [ "$pin" != "$release" ]; then
+		echo "ok" >"$work/status"
+		echo "ok   (output pinned to $pin)  $f"
 		return
 	fi
 

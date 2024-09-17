@@ -1,4 +1,4 @@
-JDK ?= 22
+JDK ?= 23
 
 .PHONY: check check-docker
 
