@@ -38,4 +38,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Asymmetric, ECDSA malleability and the low-s rule: [`Asymmetric/EcdsaMalleability.java`](Asymmetric/EcdsaMalleability.java)
 - Asymmetric, ECDH key agreement on P-256 followed by HKDF: [`Asymmetric/EcdhKeyAgreement.java`](Asymmetric/EcdhKeyAgreement.java)
 - Asymmetric, X25519 (XDH) key agreement, RFC 7748 vector: [`Asymmetric/X25519KnownAnswer.java`](Asymmetric/X25519KnownAnswer.java)
+- Asymmetric, hybrid encryption: X25519 + HKDF + AES-GCM: [`Asymmetric/HybridEncryption.java`](Asymmetric/HybridEncryption.java)
 <!-- INDEX:END -->
