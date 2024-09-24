@@ -39,4 +39,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Asymmetric, ECDH key agreement on P-256 followed by HKDF: [`Asymmetric/EcdhKeyAgreement.java`](Asymmetric/EcdhKeyAgreement.java)
 - Asymmetric, X25519 (XDH) key agreement, RFC 7748 vector: [`Asymmetric/X25519KnownAnswer.java`](Asymmetric/X25519KnownAnswer.java)
 - Asymmetric, hybrid encryption: X25519 + HKDF + AES-GCM: [`Asymmetric/HybridEncryption.java`](Asymmetric/HybridEncryption.java)
+- Keys, key encodings: X.509, PKCS#8 and PEM via `KeyFactory`: [`Keys/PemEncodings.java`](Keys/PemEncodings.java)
 <!-- INDEX:END -->
