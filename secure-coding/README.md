@@ -104,4 +104,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - FIO13-J, do not log sensitive information outside a trust boundary: [`FIO/FIO13_SensitiveInfoInLogs.java`](FIO/FIO13_SensitiveInfoInLogs.java)
 - SER11-J, prevent overwriting of externalizable objects: [`SER/SER11_ExternalizableOverwrite.java`](SER/SER11_ExternalizableOverwrite.java)
 - ERR07-J, do not throw `RuntimeException`, `Exception`, or `Throwable`: [`ERR/ERR07_GenericExceptions.java`](ERR/ERR07_GenericExceptions.java)
+- TPS03-J, ensure that tasks executing in a thread pool do not fail silently: [`TPS/TPS03_SilentTaskFailures.java`](TPS/TPS03_SilentTaskFailures.java)
 <!-- INDEX:END -->
