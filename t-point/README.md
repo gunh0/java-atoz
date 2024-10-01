@@ -178,6 +178,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Utilities, `UUID` random (v4) and name-based (v3) ids: [`Utilities/UUID`](Utilities/UUID/)
 - Utilities, `Base64` basic, URL-safe and MIME encoders: [`Utilities/Base64`](Utilities/Base64/)
 - Utilities, `HexFormat` byte to hex conversion: [`Utilities/HexFormat`](Utilities/HexFormat/)
+- Compression, in-memory gzip streams and a size limit: [`Compression/GZip`](Compression/GZip/)
 <!-- INDEX:END -->
 
 <br/>
