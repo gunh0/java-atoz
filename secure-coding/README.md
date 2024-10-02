@@ -6,6 +6,8 @@ Runnable notes on the [SEI CERT Oracle Coding Standard for Java](https://wiki.se
 
 Files live in one directory per category and are named after the rule: `<CATEGORY>/<RULEID>_<ShortName>.java`, e.g. `IDS/IDS00_SqlInjection.java`. Each file is a single-file program that puts the **noncompliant** code and the **compliant** fix side by side and demonstrates the difference in-process: no network, no real attacks, and any files are created in a temporary directory and deleted afterwards. Run one with `java <File>.java` from its directory.
 
+The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10 (2021)](https://owasp.org/Top10/) that the CERT rules don't cover directly, named after their category, e.g. `A03_Injection_LdapFilter.java`.
+
 <!-- INDEX:START -->
 - MSC02-J, generate strong random numbers: [`MSC/MSC02_SecureRandom.java`](MSC/MSC02_SecureRandom.java)
 - IDS00-J, prevent SQL injection: [`IDS/IDS00_SqlInjection.java`](IDS/IDS00_SqlInjection.java)
@@ -105,4 +107,5 @@ Files live in one directory per category and are named after the rule: `<CATEGOR
 - SER11-J, prevent overwriting of externalizable objects: [`SER/SER11_ExternalizableOverwrite.java`](SER/SER11_ExternalizableOverwrite.java)
 - ERR07-J, do not throw `RuntimeException`, `Exception`, or `Throwable`: [`ERR/ERR07_GenericExceptions.java`](ERR/ERR07_GenericExceptions.java)
 - TPS03-J, ensure that tasks executing in a thread pool do not fail silently: [`TPS/TPS03_SilentTaskFailures.java`](TPS/TPS03_SilentTaskFailures.java)
+- OWASP A03:2021 Injection, LDAP filter injection and escaping: [`OWASP/A03_Injection_LdapFilter.java`](OWASP/A03_Injection_LdapFilter.java)
 <!-- INDEX:END -->
