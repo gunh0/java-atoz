@@ -73,4 +73,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 22, JEP 458 launching multi-file source-code programs: [`java22/MultiFileSourcePrograms.java`](java22/MultiFileSourcePrograms.java)
 - Java 22, `java.text.ListFormat`: [`java22/ListFormatExample.java`](java22/ListFormatExample.java)
 - Java 22, `InetAddress.ofLiteral` and friends: [`java22/InetAddressOfLiteral.java`](java22/InetAddressOfLiteral.java)
+- Java 23, JEP 467 Markdown documentation comments: [`java23/MarkdownDocComments.java`](java23/MarkdownDocComments.java)
 <!-- INDEX:END -->
