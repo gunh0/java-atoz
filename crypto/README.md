@@ -41,4 +41,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Asymmetric, hybrid encryption: X25519 + HKDF + AES-GCM: [`Asymmetric/HybridEncryption.java`](Asymmetric/HybridEncryption.java)
 - Keys, key encodings: X.509, PKCS#8 and PEM via `KeyFactory`: [`Keys/PemEncodings.java`](Keys/PemEncodings.java)
 - Keys, `KeyStore` PKCS#12: key, secret and trusted entries: [`Keys/Pkcs12KeyStore.java`](Keys/Pkcs12KeyStore.java)
+- Certificates, reading an X.509 certificate: fields, validity, fingerprint: [`Certificates/ParseX509.java`](Certificates/ParseX509.java)
 <!-- INDEX:END -->
