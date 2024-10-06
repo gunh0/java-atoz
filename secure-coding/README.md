@@ -108,4 +108,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - ERR07-J, do not throw `RuntimeException`, `Exception`, or `Throwable`: [`ERR/ERR07_GenericExceptions.java`](ERR/ERR07_GenericExceptions.java)
 - TPS03-J, ensure that tasks executing in a thread pool do not fail silently: [`TPS/TPS03_SilentTaskFailures.java`](TPS/TPS03_SilentTaskFailures.java)
 - OWASP A03:2021 Injection, LDAP filter injection and escaping: [`OWASP/A03_Injection_LdapFilter.java`](OWASP/A03_Injection_LdapFilter.java)
+- OWASP A03:2021 Injection, JNDI lookup injection (the Log4Shell bug class): [`OWASP/A03_Injection_JndiLookup.java`](OWASP/A03_Injection_JndiLookup.java)
 <!-- INDEX:END -->
