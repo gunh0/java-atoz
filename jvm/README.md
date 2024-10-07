@@ -27,4 +27,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - References, `Cleaner` as a safety net, not a destructor: [`References/CleanerResource.java`](References/CleanerResource.java)
 - ClassLoading, class unloading and class loader leaks: [`ClassLoading/ClassUnloading.java`](ClassLoading/ClassUnloading.java)
 - Memory, memory and GC through `Runtime` and management beans: [`Memory/MemoryMxBeans.java`](Memory/MemoryMxBeans.java)
+- Strings, compact strings: Latin-1 vs UTF-16 storage, measured: [`Strings/CompactStrings.java`](Strings/CompactStrings.java)
 <!-- INDEX:END -->
