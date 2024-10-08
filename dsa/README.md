@@ -25,4 +25,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 - Graphs, union-find with path compression and union by rank, Kruskal's MST: [`Graphs/UnionFind.java`](Graphs/UnionFind.java)
 - Graphs, BFS shortest paths, recursive and iterative DFS, cycle detection: [`Graphs/BfsDfs.java`](Graphs/BfsDfs.java)
 - Graphs, Dijkstra with a priority queue and lazy deletion, path reconstruction: [`Graphs/Dijkstra.java`](Graphs/Dijkstra.java)
+- Graphs, topological sort with Kahn's algorithm and cycle detection: [`Graphs/TopologicalSort.java`](Graphs/TopologicalSort.java)
 <!-- INDEX:END -->
