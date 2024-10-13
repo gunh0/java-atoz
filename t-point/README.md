@@ -181,6 +181,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Compression, in-memory gzip streams and a size limit: [`Compression/GZip`](Compression/GZip/)
 - Compression, in-memory zip archives, STORED vs DEFLATED: [`Compression/Zip`](Compression/Zip/)
 - Compression, `Deflater` / `Inflater` and `CRC32` / `CRC32C` / `Adler32`: [`Compression/Checksums`](Compression/Checksums/)
+- XML, DOM parsing, navigation and edits with a hardened factory: [`XML/DOM`](XML/DOM/)
 <!-- INDEX:END -->
 
 <br/>
