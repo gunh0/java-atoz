@@ -110,4 +110,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - OWASP A03:2021 Injection, LDAP filter injection and escaping: [`OWASP/A03_Injection_LdapFilter.java`](OWASP/A03_Injection_LdapFilter.java)
 - OWASP A03:2021 Injection, JNDI lookup injection (the Log4Shell bug class): [`OWASP/A03_Injection_JndiLookup.java`](OWASP/A03_Injection_JndiLookup.java)
 - OWASP A08:2021 Software and Data Integrity Failures, mass assignment: [`OWASP/A08_IntegrityFailures_MassAssignment.java`](OWASP/A08_IntegrityFailures_MassAssignment.java)
+- OWASP A08:2021 Software and Data Integrity Failures, insecure deserialization and records: [`OWASP/A08_IntegrityFailures_RecordDeserialization.java`](OWASP/A08_IntegrityFailures_RecordDeserialization.java)
 <!-- INDEX:END -->
