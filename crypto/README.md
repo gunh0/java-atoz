@@ -44,4 +44,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Certificates, reading an X.509 certificate: fields, validity, fingerprint: [`Certificates/ParseX509.java`](Certificates/ParseX509.java)
 - Certificates, PKIX chain validation with `CertPathValidator`: [`Certificates/CertPathValidation.java`](Certificates/CertPathValidation.java)
 - Tls, TLS with in-memory key and trust stores over loopback: [`Tls/LoopbackHandshake.java`](Tls/LoopbackHandshake.java)
+- Tls, hostname verification (endpoint identification): [`Tls/HostnameVerification.java`](Tls/HostnameVerification.java)
 <!-- INDEX:END -->
