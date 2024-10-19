@@ -182,6 +182,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Compression, in-memory zip archives, STORED vs DEFLATED: [`Compression/Zip`](Compression/Zip/)
 - Compression, `Deflater` / `Inflater` and `CRC32` / `CRC32C` / `Adler32`: [`Compression/Checksums`](Compression/Checksums/)
 - XML, DOM parsing, navigation and edits with a hardened factory: [`XML/DOM`](XML/DOM/)
+- XML, SAX push parsing with a `DefaultHandler`: [`XML/SAX`](XML/SAX/)
 <!-- INDEX:END -->
 
 <br/>
