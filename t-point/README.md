@@ -183,6 +183,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Compression, `Deflater` / `Inflater` and `CRC32` / `CRC32C` / `Adler32`: [`Compression/Checksums`](Compression/Checksums/)
 - XML, DOM parsing, navigation and edits with a hardened factory: [`XML/DOM`](XML/DOM/)
 - XML, SAX push parsing with a `DefaultHandler`: [`XML/SAX`](XML/SAX/)
+- XML, StAX pull parsing and `XMLStreamWriter`: [`XML/StAX`](XML/StAX/)
 <!-- INDEX:END -->
 
 <br/>
