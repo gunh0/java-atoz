@@ -27,4 +27,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 - Graphs, Dijkstra with a priority queue and lazy deletion, path reconstruction: [`Graphs/Dijkstra.java`](Graphs/Dijkstra.java)
 - Graphs, topological sort with Kahn's algorithm and cycle detection: [`Graphs/TopologicalSort.java`](Graphs/TopologicalSort.java)
 - Trees, Fenwick tree (binary indexed tree) for prefix and range sums: [`Trees/FenwickTree.java`](Trees/FenwickTree.java)
+- Strings, Knuth-Morris-Pratt search and the failure function: [`Strings/Kmp.java`](Strings/Kmp.java)
 <!-- INDEX:END -->
