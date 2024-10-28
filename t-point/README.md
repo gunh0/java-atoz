@@ -184,6 +184,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - XML, DOM parsing, navigation and edits with a hardened factory: [`XML/DOM`](XML/DOM/)
 - XML, SAX push parsing with a `DefaultHandler`: [`XML/SAX`](XML/SAX/)
 - XML, StAX pull parsing and `XMLStreamWriter`: [`XML/StAX`](XML/StAX/)
+- XML, XPath queries and `$variables` instead of string concatenation: [`XML/XPath`](XML/XPath/)
 <!-- INDEX:END -->
 
 <br/>
