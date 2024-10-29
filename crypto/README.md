@@ -46,4 +46,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Tls, TLS with in-memory key and trust stores over loopback: [`Tls/LoopbackHandshake.java`](Tls/LoopbackHandshake.java)
 - Tls, hostname verification (endpoint identification): [`Tls/HostnameVerification.java`](Tls/HostnameVerification.java)
 - Tls, TLS protocol versions: enabled, negotiated, refused: [`Tls/ProtocolVersions.java`](Tls/ProtocolVersions.java)
+- Tls, certificate pinning by SPKI hash: [`Tls/SpkiPinning.java`](Tls/SpkiPinning.java)
 <!-- INDEX:END -->
