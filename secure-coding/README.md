@@ -112,4 +112,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - OWASP A08:2021 Software and Data Integrity Failures, mass assignment: [`OWASP/A08_IntegrityFailures_MassAssignment.java`](OWASP/A08_IntegrityFailures_MassAssignment.java)
 - OWASP A08:2021 Software and Data Integrity Failures, insecure deserialization and records: [`OWASP/A08_IntegrityFailures_RecordDeserialization.java`](OWASP/A08_IntegrityFailures_RecordDeserialization.java)
 - OWASP A01:2021 Broken Access Control, open redirect validation: [`OWASP/A01_BrokenAccessControl_OpenRedirect.java`](OWASP/A01_BrokenAccessControl_OpenRedirect.java)
+- OWASP A01:2021 Broken Access Control, CSRF token checks: [`OWASP/A01_BrokenAccessControl_CsrfToken.java`](OWASP/A01_BrokenAccessControl_CsrfToken.java)
 <!-- INDEX:END -->
