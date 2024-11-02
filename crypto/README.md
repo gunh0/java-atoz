@@ -47,4 +47,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Tls, hostname verification (endpoint identification): [`Tls/HostnameVerification.java`](Tls/HostnameVerification.java)
 - Tls, TLS protocol versions: enabled, negotiated, refused: [`Tls/ProtocolVersions.java`](Tls/ProtocolVersions.java)
 - Tls, certificate pinning by SPKI hash: [`Tls/SpkiPinning.java`](Tls/SpkiPinning.java)
+- Randomness, `SecureRandom` DRBG configuration and seeding pitfalls: [`Randomness/DrbgConfiguration.java`](Randomness/DrbgConfiguration.java)
 <!-- INDEX:END -->
