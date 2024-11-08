@@ -28,4 +28,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 - Graphs, topological sort with Kahn's algorithm and cycle detection: [`Graphs/TopologicalSort.java`](Graphs/TopologicalSort.java)
 - Trees, Fenwick tree (binary indexed tree) for prefix and range sums: [`Trees/FenwickTree.java`](Trees/FenwickTree.java)
 - Strings, Knuth-Morris-Pratt search and the failure function: [`Strings/Kmp.java`](Strings/Kmp.java)
+- Strings, Rabin-Karp rolling hash search, single and multi-pattern: [`Strings/RabinKarp.java`](Strings/RabinKarp.java)
 <!-- INDEX:END -->
