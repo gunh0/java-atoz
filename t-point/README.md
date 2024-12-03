@@ -186,6 +186,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - XML, StAX pull parsing and `XMLStreamWriter`: [`XML/StAX`](XML/StAX/)
 - XML, XPath queries and `$variables` instead of string concatenation: [`XML/XPath`](XML/XPath/)
 - XML, `javax.xml.transform` serialization and XSLT: [`XML/Transform`](XML/Transform/)
+- Concurrency, `java.util.Timer` vs `ScheduledExecutorService`: [`Concurrency/TimerVsScheduled`](Concurrency/TimerVsScheduled/)
 <!-- INDEX:END -->
 
 <br/>
