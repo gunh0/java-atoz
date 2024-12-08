@@ -31,4 +31,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - Runtime, `System.identityHashCode` semantics: [`Runtime/IdentityHashCode.java`](Runtime/IdentityHashCode.java)
 - Runtime, stack frames: hidden and reflection frames, overflow: [`Runtime/StackFrames.java`](Runtime/StackFrames.java)
 - Runtime, exception cost: stack trace capture: [`Runtime/ExceptionCost.java`](Runtime/ExceptionCost.java)
+- Jit, escape analysis and scalar replacement, observed: [`Jit/EscapeAnalysis.java`](Jit/EscapeAnalysis.java)
 <!-- INDEX:END -->
