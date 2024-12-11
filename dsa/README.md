@@ -29,4 +29,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 - Trees, Fenwick tree (binary indexed tree) for prefix and range sums: [`Trees/FenwickTree.java`](Trees/FenwickTree.java)
 - Strings, Knuth-Morris-Pratt search and the failure function: [`Strings/Kmp.java`](Strings/Kmp.java)
 - Strings, Rabin-Karp rolling hash search, single and multi-pattern: [`Strings/RabinKarp.java`](Strings/RabinKarp.java)
+- Caches, LRU cache with a hash map and a doubly linked list: [`Caches/LruCache.java`](Caches/LruCache.java)
 <!-- INDEX:END -->
