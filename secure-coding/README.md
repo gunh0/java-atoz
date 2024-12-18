@@ -116,4 +116,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - OWASP A02:2021 Cryptographic Failures, password storage with PBKDF2: [`OWASP/A02_CryptographicFailures_PasswordStorage.java`](OWASP/A02_CryptographicFailures_PasswordStorage.java)
 - OWASP A05:2021 Security Misconfiguration, session cookie attributes: [`OWASP/A05_SecurityMisconfiguration_CookieFlags.java`](OWASP/A05_SecurityMisconfiguration_CookieFlags.java)
 - OWASP A04:2021 Insecure Design, regular expression denial of service (ReDoS): [`OWASP/A04_InsecureDesign_ReDoS.java`](OWASP/A04_InsecureDesign_ReDoS.java)
+- OWASP A08:2021 Software and Data Integrity Failures, XML signature wrapping: [`OWASP/A08_IntegrityFailures_XmlSignatureWrapping.java`](OWASP/A08_IntegrityFailures_XmlSignatureWrapping.java)
 <!-- INDEX:END -->
