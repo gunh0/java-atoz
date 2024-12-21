@@ -51,4 +51,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Misuse, `Cipher.getInstance("AES")` means ECB: [`Misuse/DefaultEcbTransformation.java`](Misuse/DefaultEcbTransformation.java)
 - Misuse, a static IV: [`Misuse/StaticIv.java`](Misuse/StaticIv.java)
 - Misuse, one hard-coded key for every installation: [`Misuse/HardcodedKey.java`](Misuse/HardcodedKey.java)
+- Misuse, passwords in `String` instead of `char[]`: [`Misuse/PasswordsAsStrings.java`](Misuse/PasswordsAsStrings.java)
 <!-- INDEX:END -->
