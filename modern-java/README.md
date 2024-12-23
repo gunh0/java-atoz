@@ -76,4 +76,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 23, JEP 467 Markdown documentation comments: [`java23/MarkdownDocComments.java`](java23/MarkdownDocComments.java)
 - Java 23, JEP 474 ZGC generational mode by default: [`java23/ZgcGenerationalByDefault.java`](java23/ZgcGenerationalByDefault.java)
 - Java 23, `NumberFormat.setStrict` strict parsing: [`java23/NumberFormatStrictParsing.java`](java23/NumberFormatStrictParsing.java)
+- Java 23, `Inet4Address.ofPosixLiteral`: [`java23/Inet4AddressPosixLiteral.java`](java23/Inet4AddressPosixLiteral.java)
 <!-- INDEX:END -->
