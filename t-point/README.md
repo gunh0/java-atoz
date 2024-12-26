@@ -191,6 +191,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Process, `ProcessBuilder` arguments, environment, exit codes and pipelines: [`Process/ProcessBuilder`](Process/ProcessBuilder/)
 - Config, system properties and environment variables, read safely: [`Config/SystemProperties`](Config/SystemProperties/)
 - Networking, `HttpServer` + `HttpClient` REST round trip on loopback: [`Networking/HttpServerClient`](Networking/HttpServerClient/)
+- Random, `java.util.random` generators, seeds and `split()`: [`Random/RandomGenerators`](Random/RandomGenerators/)
 <!-- INDEX:END -->
 
 <br/>
