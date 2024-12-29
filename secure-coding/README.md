@@ -118,4 +118,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - OWASP A04:2021 Insecure Design, regular expression denial of service (ReDoS): [`OWASP/A04_InsecureDesign_ReDoS.java`](OWASP/A04_InsecureDesign_ReDoS.java)
 - OWASP A08:2021 Software and Data Integrity Failures, XML signature wrapping: [`OWASP/A08_IntegrityFailures_XmlSignatureWrapping.java`](OWASP/A08_IntegrityFailures_XmlSignatureWrapping.java)
 - OWASP A07:2021 Identification and Authentication Failures, HMAC token validation: [`OWASP/A07_AuthenticationFailures_HmacToken.java`](OWASP/A07_AuthenticationFailures_HmacToken.java)
+- OWASP A10:2021 Server-Side Request Forgery, SSRF URL validation: [`OWASP/A10_Ssrf_UrlValidation.java`](OWASP/A10_Ssrf_UrlValidation.java)
 <!-- INDEX:END -->
