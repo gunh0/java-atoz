@@ -53,4 +53,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Misuse, one hard-coded key for every installation: [`Misuse/HardcodedKey.java`](Misuse/HardcodedKey.java)
 - Misuse, passwords in `String` instead of `char[]`: [`Misuse/PasswordsAsStrings.java`](Misuse/PasswordsAsStrings.java)
 - Misuse, comparing MACs with `equals` or `startsWith`: [`Misuse/MacComparison.java`](Misuse/MacComparison.java)
+- Misuse, the trust-all `TrustManager`: [`Misuse/TrustAllCertificates.java`](Misuse/TrustAllCertificates.java)
 <!-- INDEX:END -->
