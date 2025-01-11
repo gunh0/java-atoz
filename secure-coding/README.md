@@ -2,7 +2,7 @@
 
 > Writing Java that holds up against hostile input.
 
-Runnable notes on the [SEI CERT Oracle Coding Standard for Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java), the rule set maintained by Carnegie Mellon's Software Engineering Institute. Each rule has an ID made of a category and a number with a `-J` suffix, for example `IDS00-J` (Input Validation and Data Sanitization, rule 0). The categories used here include IDS (input validation), SER (serialization), FIO (file I/O), NUM (numeric types), STR (strings), OBJ (object orientation), ERR (exceptions), LCK (locking), MSC (miscellaneous) and SEC (platform security).
+Runnable notes on the [SEI CERT Oracle Coding Standard for Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java), the rule set maintained by Carnegie Mellon's Software Engineering Institute. Each rule has an ID made of a category and a number with a `-J` suffix, for example `IDS00-J` (Input Validation and Data Sanitization, rule 0). The categories used here are DCL (declarations), EXP (expressions), NUM (numeric types), STR (strings), OBJ (object orientation), MET (methods), ERR (exceptions), VNA (visibility and atomicity), LCK (locking), TPS (thread pools), THI (thread APIs), TSM (thread-safety miscellaneous), FIO (file I/O), SER (serialization), IDS (input validation), SEC (platform security) and MSC (miscellaneous).
 
 Files live in one directory per category and are named after the rule: `<CATEGORY>/<RULEID>_<ShortName>.java`, e.g. `IDS/IDS00_SqlInjection.java`. Each file is a single-file program that puts the **noncompliant** code and the **compliant** fix side by side and demonstrates the difference in-process: no network, no real attacks, and any files are created in a temporary directory and deleted afterwards. Run one with `java <File>.java` from its directory.
 
@@ -119,4 +119,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - OWASP A08:2021 Software and Data Integrity Failures, XML signature wrapping: [`OWASP/A08_IntegrityFailures_XmlSignatureWrapping.java`](OWASP/A08_IntegrityFailures_XmlSignatureWrapping.java)
 - OWASP A07:2021 Identification and Authentication Failures, HMAC token validation: [`OWASP/A07_AuthenticationFailures_HmacToken.java`](OWASP/A07_AuthenticationFailures_HmacToken.java)
 - OWASP A10:2021 Server-Side Request Forgery, SSRF URL validation: [`OWASP/A10_Ssrf_UrlValidation.java`](OWASP/A10_Ssrf_UrlValidation.java)
+- VNA02-J, ensure that compound operations on shared variables are atomic: [`VNA/VNA02_CompoundOperations.java`](VNA/VNA02_CompoundOperations.java)
 <!-- INDEX:END -->
