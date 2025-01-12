@@ -54,4 +54,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Misuse, passwords in `String` instead of `char[]`: [`Misuse/PasswordsAsStrings.java`](Misuse/PasswordsAsStrings.java)
 - Misuse, comparing MACs with `equals` or `startsWith`: [`Misuse/MacComparison.java`](Misuse/MacComparison.java)
 - Misuse, the trust-all `TrustManager`: [`Misuse/TrustAllCertificates.java`](Misuse/TrustAllCertificates.java)
+- Mac, HOTP from scratch: dynamic truncation, look-ahead window, RFC 4226 vectors: [`Mac/Hotp.java`](Mac/Hotp.java)
 <!-- INDEX:END -->
