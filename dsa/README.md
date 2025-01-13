@@ -32,4 +32,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 - Caches, LRU cache with a hash map and a doubly linked list: [`Caches/LruCache.java`](Caches/LruCache.java)
 - Dynamic programming, LCS, 0/1 knapsack and edit distance: [`DynamicProgramming/DpClassics.java`](DynamicProgramming/DpClassics.java)
 - Bits, bit manipulation tricks (lowest set bit, popcount, subsets, XOR): [`Bits/BitTricks.java`](Bits/BitTricks.java)
+- Hashing, Bloom filter (double hashing, sizing m and k, measured vs expected false positives): [`Hashing/BloomFilter.java`](Hashing/BloomFilter.java)
 <!-- INDEX:END -->
