@@ -34,4 +34,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - Jit, escape analysis and scalar replacement, observed: [`Jit/EscapeAnalysis.java`](Jit/EscapeAnalysis.java)
 - Threads, deadlock detection with `ThreadMXBean`: [`Threads/DeadlockDetection.java`](Threads/DeadlockDetection.java)
 - Jfr, JFR: recording custom events and reading them back: [`Jfr/CustomEventRecording.java`](Jfr/CustomEventRecording.java)
+- Bytecode, string concatenation: `StringBuilder` chains vs `invokedynamic`: [`Bytecode/StringConcatIndy.java`](Bytecode/StringConcatIndy.java)
 <!-- INDEX:END -->
