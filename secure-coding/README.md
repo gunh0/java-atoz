@@ -120,4 +120,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - OWASP A07:2021 Identification and Authentication Failures, HMAC token validation: [`OWASP/A07_AuthenticationFailures_HmacToken.java`](OWASP/A07_AuthenticationFailures_HmacToken.java)
 - OWASP A10:2021 Server-Side Request Forgery, SSRF URL validation: [`OWASP/A10_Ssrf_UrlValidation.java`](OWASP/A10_Ssrf_UrlValidation.java)
 - VNA02-J, ensure that compound operations on shared variables are atomic: [`VNA/VNA02_CompoundOperations.java`](VNA/VNA02_CompoundOperations.java)
+- OWASP A01:2021 Broken Access Control, path normalization bypasses and IDOR: [`OWASP/A01_BrokenAccessControl_PathAndObjectLevel.java`](OWASP/A01_BrokenAccessControl_PathAndObjectLevel.java)
 <!-- INDEX:END -->
