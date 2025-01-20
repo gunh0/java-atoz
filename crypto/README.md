@@ -55,4 +55,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Misuse, comparing MACs with `equals` or `startsWith`: [`Misuse/MacComparison.java`](Misuse/MacComparison.java)
 - Misuse, the trust-all `TrustManager`: [`Misuse/TrustAllCertificates.java`](Misuse/TrustAllCertificates.java)
 - Mac, HOTP from scratch: dynamic truncation, look-ahead window, RFC 4226 vectors: [`Mac/Hotp.java`](Mac/Hotp.java)
+- Mac, TOTP from scratch: time steps, clock skew, replay protection, RFC 6238 vectors: [`Mac/Totp.java`](Mac/Totp.java)
 <!-- INDEX:END -->
