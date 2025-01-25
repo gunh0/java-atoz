@@ -35,4 +35,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - Threads, deadlock detection with `ThreadMXBean`: [`Threads/DeadlockDetection.java`](Threads/DeadlockDetection.java)
 - Jfr, JFR: recording custom events and reading them back: [`Jfr/CustomEventRecording.java`](Jfr/CustomEventRecording.java)
 - Bytecode, string concatenation: `StringBuilder` chains vs `invokedynamic`: [`Bytecode/StringConcatIndy.java`](Bytecode/StringConcatIndy.java)
+- Bytecode, the five invoke instructions and how javac chooses: [`Bytecode/InvokeInstructions.java`](Bytecode/InvokeInstructions.java)
 <!-- INDEX:END -->
