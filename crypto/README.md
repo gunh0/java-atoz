@@ -56,4 +56,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Misuse, the trust-all `TrustManager`: [`Misuse/TrustAllCertificates.java`](Misuse/TrustAllCertificates.java)
 - Mac, HOTP from scratch: dynamic truncation, look-ahead window, RFC 4226 vectors: [`Mac/Hotp.java`](Mac/Hotp.java)
 - Mac, TOTP from scratch: time steps, clock skew, replay protection, RFC 6238 vectors: [`Mac/Totp.java`](Mac/Totp.java)
+- Mac, constant-time comparison: how `MessageDigest.isEqual` got there: [`Mac/ConstantTimeComparison.java`](Mac/ConstantTimeComparison.java)
 <!-- INDEX:END -->
