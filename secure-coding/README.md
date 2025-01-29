@@ -123,4 +123,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - OWASP A01:2021 Broken Access Control, path normalization bypasses and IDOR: [`OWASP/A01_BrokenAccessControl_PathAndObjectLevel.java`](OWASP/A01_BrokenAccessControl_PathAndObjectLevel.java)
 - LCK08-J, ensure actively held locks are released on exceptional conditions: [`LCK/LCK08_ReleaseLocksOnException.java`](LCK/LCK08_ReleaseLocksOnException.java)
 - OWASP A02:2021 Cryptographic Failures, auditing weak TLS settings in `SSLParameters`: [`OWASP/A02_CryptographicFailures_WeakTlsConfig.java`](OWASP/A02_CryptographicFailures_WeakTlsConfig.java)
+- ERR05-J, do not let checked exceptions escape from a `finally` block: [`ERR/ERR05_CheckedExceptionsFromFinally.java`](ERR/ERR05_CheckedExceptionsFromFinally.java)
 <!-- INDEX:END -->
