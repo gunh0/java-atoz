@@ -195,6 +195,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Patterns, unnamed variables and patterns (`_`): [`Patterns/UnnamedVariables`](Patterns/UnnamedVariables/)
 - Collections, immutable lists: `List.of`, `copyOf`, unmodifiable views and `toList`: [`Collections/ImmutableCollections`](Collections/ImmutableCollections/)
 - Collections, a custom `Iterable` / `Iterator` for for-each loops: [`Collections/CustomIterable`](Collections/CustomIterable/)
+- Concurrency, `Phaser` with dynamic parties and `onAdvance`: [`Concurrency/Phaser`](Concurrency/Phaser/)
 <!-- INDEX:END -->
 
 <br/>
