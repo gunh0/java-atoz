@@ -36,4 +36,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - Jfr, JFR: recording custom events and reading them back: [`Jfr/CustomEventRecording.java`](Jfr/CustomEventRecording.java)
 - Bytecode, string concatenation: `StringBuilder` chains vs `invokedynamic`: [`Bytecode/StringConcatIndy.java`](Bytecode/StringConcatIndy.java)
 - Bytecode, the five invoke instructions and how javac chooses: [`Bytecode/InvokeInstructions.java`](Bytecode/InvokeInstructions.java)
+- Bytecode, switch lowering: `tableswitch`, `lookupswitch`, strings and enums: [`Bytecode/SwitchLowering.java`](Bytecode/SwitchLowering.java)
 <!-- INDEX:END -->
