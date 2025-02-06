@@ -35,4 +35,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 - Hashing, Bloom filter (double hashing, sizing m and k, measured vs expected false positives): [`Hashing/BloomFilter.java`](Hashing/BloomFilter.java)
 - Hashing, consistent hashing ring with virtual nodes vs mod-N: [`Hashing/ConsistentHashRing.java`](Hashing/ConsistentHashRing.java)
 - Linked lists, skip list with random levels (search, insert, delete, ceiling): [`LinkedLists/SkipList.java`](LinkedLists/SkipList.java)
+- Trees, left-leaning red-black tree (insert, delete, invariant checks): [`Trees/RedBlackTree.java`](Trees/RedBlackTree.java)
 <!-- INDEX:END -->
