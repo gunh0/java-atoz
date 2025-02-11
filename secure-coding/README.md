@@ -125,4 +125,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - OWASP A02:2021 Cryptographic Failures, auditing weak TLS settings in `SSLParameters`: [`OWASP/A02_CryptographicFailures_WeakTlsConfig.java`](OWASP/A02_CryptographicFailures_WeakTlsConfig.java)
 - ERR05-J, do not let checked exceptions escape from a `finally` block: [`ERR/ERR05_CheckedExceptionsFromFinally.java`](ERR/ERR05_CheckedExceptionsFromFinally.java)
 - OWASP A03:2021 Injection, OS command argument (option) injection with `ProcessBuilder`: [`OWASP/A03_Injection_OsCommandArguments.java`](OWASP/A03_Injection_OsCommandArguments.java)
+- MET11-J, ensure that keys used in comparison operations are immutable: [`MET/MET11_ImmutableKeys.java`](MET/MET11_ImmutableKeys.java)
 <!-- INDEX:END -->
