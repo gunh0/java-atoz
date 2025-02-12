@@ -59,4 +59,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Mac, constant-time comparison: how `MessageDigest.isEqual` got there: [`Mac/ConstantTimeComparison.java`](Mac/ConstantTimeComparison.java)
 - Kdf, no Argon2 or scrypt in the JDK: tuning PBKDF2 instead: [`Kdf/Pbkdf2Tuning.java`](Kdf/Pbkdf2Tuning.java)
 - Tokens, JWS compact serialization (HS256, ES256) from scratch, `alg` allowlist: [`Tokens/JwsCompact.java`](Tokens/JwsCompact.java)
+- Tokens, a minimal JWE-style envelope: AES-256-GCM with the header as AAD: [`Tokens/JweLikeEnvelope.java`](Tokens/JweLikeEnvelope.java)
 <!-- INDEX:END -->
