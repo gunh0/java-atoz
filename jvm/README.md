@@ -37,4 +37,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - Bytecode, string concatenation: `StringBuilder` chains vs `invokedynamic`: [`Bytecode/StringConcatIndy.java`](Bytecode/StringConcatIndy.java)
 - Bytecode, the five invoke instructions and how javac chooses: [`Bytecode/InvokeInstructions.java`](Bytecode/InvokeInstructions.java)
 - Bytecode, switch lowering: `tableswitch`, `lookupswitch`, strings and enums: [`Bytecode/SwitchLowering.java`](Bytecode/SwitchLowering.java)
+- Bytecode, nestmates: from `access$000` bridges to `NestHost`/`NestMembers`: [`Bytecode/NestmatesBytecode.java`](Bytecode/NestmatesBytecode.java)
 <!-- INDEX:END -->
