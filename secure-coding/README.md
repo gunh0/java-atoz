@@ -126,4 +126,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - ERR05-J, do not let checked exceptions escape from a `finally` block: [`ERR/ERR05_CheckedExceptionsFromFinally.java`](ERR/ERR05_CheckedExceptionsFromFinally.java)
 - OWASP A03:2021 Injection, OS command argument (option) injection with `ProcessBuilder`: [`OWASP/A03_Injection_OsCommandArguments.java`](OWASP/A03_Injection_OsCommandArguments.java)
 - MET11-J, ensure that keys used in comparison operations are immutable: [`MET/MET11_ImmutableKeys.java`](MET/MET11_ImmutableKeys.java)
+- OWASP A03:2021 Injection, XPath injection and blind extraction vs. variables: [`OWASP/A03_Injection_XPath.java`](OWASP/A03_Injection_XPath.java)
 <!-- INDEX:END -->
