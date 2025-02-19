@@ -198,6 +198,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Concurrency, `Phaser` with dynamic parties and `onAdvance`: [`Concurrency/Phaser`](Concurrency/Phaser/)
 - I/O, `CharsetDecoder` / `CharsetEncoder` and `CodingErrorAction`: [`IO/CharsetDecoder`](IO/CharsetDecoder/)
 - NIO, `ByteBuffer` (flip, compact, byte order) and `FileChannel`: [`NIO/Channels`](NIO/Channels/)
+- Streams, writing a custom `Spliterator`: [`Streams/Spliterator`](Streams/Spliterator/)
 <!-- INDEX:END -->
 
 <br/>
