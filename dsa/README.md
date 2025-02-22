@@ -37,4 +37,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 - Linked lists, skip list with random levels (search, insert, delete, ceiling): [`LinkedLists/SkipList.java`](LinkedLists/SkipList.java)
 - Trees, left-leaning red-black tree (insert, delete, invariant checks): [`Trees/RedBlackTree.java`](Trees/RedBlackTree.java)
 - Trees, B-tree (search, single-pass insert with node splits): [`Trees/BTree.java`](Trees/BTree.java)
+- Range queries, sparse table for O(1) range minimum and gcd: [`RangeQueries/SparseTable.java`](RangeQueries/SparseTable.java)
 <!-- INDEX:END -->
