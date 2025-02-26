@@ -61,4 +61,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Tokens, JWS compact serialization (HS256, ES256) from scratch, `alg` allowlist: [`Tokens/JwsCompact.java`](Tokens/JwsCompact.java)
 - Tokens, a minimal JWE-style envelope: AES-256-GCM with the header as AAD: [`Tokens/JweLikeEnvelope.java`](Tokens/JweLikeEnvelope.java)
 - Keys, envelope encryption: a KEK in the KMS, a fresh DEK per object: [`Keys/EnvelopeEncryption.java`](Keys/EnvelopeEncryption.java)
+- Keys, key rotation with versioned ciphertexts and a keyring: [`Keys/KeyRotation.java`](Keys/KeyRotation.java)
 <!-- INDEX:END -->
