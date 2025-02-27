@@ -38,4 +38,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 - Trees, left-leaning red-black tree (insert, delete, invariant checks): [`Trees/RedBlackTree.java`](Trees/RedBlackTree.java)
 - Trees, B-tree (search, single-pass insert with node splits): [`Trees/BTree.java`](Trees/BTree.java)
 - Range queries, sparse table for O(1) range minimum and gcd: [`RangeQueries/SparseTable.java`](RangeQueries/SparseTable.java)
+- Range queries, segment tree with lazy propagation (range add, range sum and min): [`RangeQueries/LazySegmentTree.java`](RangeQueries/LazySegmentTree.java)
 <!-- INDEX:END -->
