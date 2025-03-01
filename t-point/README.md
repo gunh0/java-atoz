@@ -199,6 +199,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - I/O, `CharsetDecoder` / `CharsetEncoder` and `CodingErrorAction`: [`IO/CharsetDecoder`](IO/CharsetDecoder/)
 - NIO, `ByteBuffer` (flip, compact, byte order) and `FileChannel`: [`NIO/Channels`](NIO/Channels/)
 - Streams, writing a custom `Spliterator`: [`Streams/Spliterator`](Streams/Spliterator/)
+- Concurrency, `Exchanger` double buffering: [`Concurrency/Exchanger`](Concurrency/Exchanger/)
 <!-- INDEX:END -->
 
 <br/>
