@@ -128,4 +128,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - MET11-J, ensure that keys used in comparison operations are immutable: [`MET/MET11_ImmutableKeys.java`](MET/MET11_ImmutableKeys.java)
 - OWASP A03:2021 Injection, XPath injection and blind extraction vs. variables: [`OWASP/A03_Injection_XPath.java`](OWASP/A03_Injection_XPath.java)
 - OBJ08-J, do not expose private members of an outer class from within a nested class: [`OBJ/OBJ08_NestedClassExposure.java`](OBJ/OBJ08_NestedClassExposure.java)
+- OWASP A03:2021 Injection, template / expression language injection: [`OWASP/A03_Injection_TemplateExpression.java`](OWASP/A03_Injection_TemplateExpression.java)
 <!-- INDEX:END -->
