@@ -62,4 +62,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Tokens, a minimal JWE-style envelope: AES-256-GCM with the header as AAD: [`Tokens/JweLikeEnvelope.java`](Tokens/JweLikeEnvelope.java)
 - Keys, envelope encryption: a KEK in the KMS, a fresh DEK per object: [`Keys/EnvelopeEncryption.java`](Keys/EnvelopeEncryption.java)
 - Keys, key rotation with versioned ciphertexts and a keyring: [`Keys/KeyRotation.java`](Keys/KeyRotation.java)
+- Symmetric, deterministic encryption: what it leaks, AES-SIV and the JDK gap: [`Symmetric/DeterministicAead.java`](Symmetric/DeterministicAead.java)
 <!-- INDEX:END -->
