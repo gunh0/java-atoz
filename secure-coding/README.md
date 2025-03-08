@@ -129,4 +129,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - OWASP A03:2021 Injection, XPath injection and blind extraction vs. variables: [`OWASP/A03_Injection_XPath.java`](OWASP/A03_Injection_XPath.java)
 - OBJ08-J, do not expose private members of an outer class from within a nested class: [`OBJ/OBJ08_NestedClassExposure.java`](OBJ/OBJ08_NestedClassExposure.java)
 - OWASP A03:2021 Injection, template / expression language injection: [`OWASP/A03_Injection_TemplateExpression.java`](OWASP/A03_Injection_TemplateExpression.java)
+- FIO00-J, do not operate on files in shared directories: [`FIO/FIO00_SharedDirectories.java`](FIO/FIO00_SharedDirectories.java)
 <!-- INDEX:END -->
