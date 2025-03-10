@@ -39,4 +39,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 - Trees, B-tree (search, single-pass insert with node splits): [`Trees/BTree.java`](Trees/BTree.java)
 - Range queries, sparse table for O(1) range minimum and gcd: [`RangeQueries/SparseTable.java`](RangeQueries/SparseTable.java)
 - Range queries, segment tree with lazy propagation (range add, range sum and min): [`RangeQueries/LazySegmentTree.java`](RangeQueries/LazySegmentTree.java)
+- Graphs, Prim's minimum spanning tree and forest with a priority queue: [`Graphs/PrimMst.java`](Graphs/PrimMst.java)
 <!-- INDEX:END -->
