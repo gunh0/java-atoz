@@ -40,4 +40,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - Bytecode, nestmates: from `access$000` bridges to `NestHost`/`NestMembers`: [`Bytecode/NestmatesBytecode.java`](Bytecode/NestmatesBytecode.java)
 - Invoke, capturing vs non-capturing lambdas: descriptors, instances, allocation: [`Invoke/LambdaCapture.java`](Invoke/LambdaCapture.java)
 - Bytecode, exception tables: try/catch/finally, try-with-resources, `synchronized`: [`Bytecode/ExceptionTable.java`](Bytecode/ExceptionTable.java)
+- Runtime, safepoints, handshakes, and why biased locking was removed: [`Runtime/SafepointsAndBiasedLocking.java`](Runtime/SafepointsAndBiasedLocking.java)
 <!-- INDEX:END -->
