@@ -63,4 +63,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Keys, envelope encryption: a KEK in the KMS, a fresh DEK per object: [`Keys/EnvelopeEncryption.java`](Keys/EnvelopeEncryption.java)
 - Keys, key rotation with versioned ciphertexts and a keyring: [`Keys/KeyRotation.java`](Keys/KeyRotation.java)
 - Symmetric, deterministic encryption: what it leaks, AES-SIV and the JDK gap: [`Symmetric/DeterministicAead.java`](Symmetric/DeterministicAead.java)
+- Keys, encrypted PKCS#8 private keys: `EncryptedPrivateKeyInfo` and PBES2: [`Keys/EncryptedPrivateKeys.java`](Keys/EncryptedPrivateKeys.java)
 <!-- INDEX:END -->
