@@ -1,3 +1,4 @@
+// output-jdk: 23 (JDK 24 changed how strict parsing treats "12.5" with setParseIntegerOnly)
 // NumberFormat.setStrict: strict number parsing (Java 23)
 //
 // NumberFormat.parse has always been lenient: it reads the longest prefix
