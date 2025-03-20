@@ -130,4 +130,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - OBJ08-J, do not expose private members of an outer class from within a nested class: [`OBJ/OBJ08_NestedClassExposure.java`](OBJ/OBJ08_NestedClassExposure.java)
 - OWASP A03:2021 Injection, template / expression language injection: [`OWASP/A03_Injection_TemplateExpression.java`](OWASP/A03_Injection_TemplateExpression.java)
 - FIO00-J, do not operate on files in shared directories: [`FIO/FIO00_SharedDirectories.java`](FIO/FIO00_SharedDirectories.java)
+- OWASP A04:2021 Insecure Design, double-spend race (check-then-act) and idempotency keys: [`OWASP/A04_InsecureDesign_DoubleSpendRace.java`](OWASP/A04_InsecureDesign_DoubleSpendRace.java)
 <!-- INDEX:END -->
