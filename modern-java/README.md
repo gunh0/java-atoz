@@ -77,4 +77,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 23, JEP 474 ZGC generational mode by default: [`java23/ZgcGenerationalByDefault.java`](java23/ZgcGenerationalByDefault.java)
 - Java 23, `NumberFormat.setStrict` strict parsing: [`java23/NumberFormatStrictParsing.java`](java23/NumberFormatStrictParsing.java)
 - Java 23, `Inet4Address.ofPosixLiteral`: [`java23/Inet4AddressPosixLiteral.java`](java23/Inet4AddressPosixLiteral.java)
+- Java 24, JEP 485 stream gatherers (`Gatherers` built-ins): [`java24/StreamGatherers.java`](java24/StreamGatherers.java)
 <!-- INDEX:END -->
