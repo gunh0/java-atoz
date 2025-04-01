@@ -41,4 +41,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 - Range queries, segment tree with lazy propagation (range add, range sum and min): [`RangeQueries/LazySegmentTree.java`](RangeQueries/LazySegmentTree.java)
 - Graphs, Prim's minimum spanning tree and forest with a priority queue: [`Graphs/PrimMst.java`](Graphs/PrimMst.java)
 - Graphs, Bellman-Ford with negative edges and negative-cycle reporting: [`Graphs/BellmanFord.java`](Graphs/BellmanFord.java)
+- Graphs, Floyd-Warshall all-pairs shortest paths and transitive closure: [`Graphs/FloydWarshall.java`](Graphs/FloydWarshall.java)
 <!-- INDEX:END -->
