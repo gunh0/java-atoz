@@ -202,6 +202,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Concurrency, `Exchanger` double buffering: [`Concurrency/Exchanger`](Concurrency/Exchanger/)
 - NIO.2, glob syntax with `PathMatcher` and `DirectoryStream.Filter`: [`NIO/Glob`](NIO/Glob/)
 - Date/Time, localized formats with `FormatStyle`, `ofLocalizedPattern` and `WeekFields`: [`DateTime/LocalizedFormatting`](DateTime/LocalizedFormatting/)
+- NIO, memory-mapped files (`MappedByteBuffer`, map modes, `Arena` unmapping): [`NIO/MemoryMappedFile`](NIO/MemoryMappedFile/)
 <!-- INDEX:END -->
 
 <br/>
