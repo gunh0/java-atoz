@@ -132,4 +132,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - FIO00-J, do not operate on files in shared directories: [`FIO/FIO00_SharedDirectories.java`](FIO/FIO00_SharedDirectories.java)
 - OWASP A04:2021 Insecure Design, double-spend race (check-then-act) and idempotency keys: [`OWASP/A04_InsecureDesign_DoubleSpendRace.java`](OWASP/A04_InsecureDesign_DoubleSpendRace.java)
 - SER10-J, avoid memory and resource leaks during serialization: [`SER/SER10_SerializationLeaks.java`](SER/SER10_SerializationLeaks.java)
+- OWASP A05:2021 Security Misconfiguration, XXE defaults audit across the five JAXP factories: [`OWASP/A05_SecurityMisconfiguration_XmlFactoryAudit.java`](OWASP/A05_SecurityMisconfiguration_XmlFactoryAudit.java)
 <!-- INDEX:END -->
