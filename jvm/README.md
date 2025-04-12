@@ -42,4 +42,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - Bytecode, exception tables: try/catch/finally, try-with-resources, `synchronized`: [`Bytecode/ExceptionTable.java`](Bytecode/ExceptionTable.java)
 - Runtime, safepoints, handshakes, and why biased locking was removed: [`Runtime/SafepointsAndBiasedLocking.java`](Runtime/SafepointsAndBiasedLocking.java)
 - Bytecode, records and sealed types in the class file: [`Bytecode/RecordsAndSealedBytecode.java`](Bytecode/RecordsAndSealedBytecode.java)
+- Threads, virtual threads from the inside: carriers, mounting, parked continuations: [`Threads/VirtualThreadInternals.java`](Threads/VirtualThreadInternals.java)
 <!-- INDEX:END -->
