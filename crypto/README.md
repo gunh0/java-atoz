@@ -65,4 +65,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Symmetric, deterministic encryption: what it leaks, AES-SIV and the JDK gap: [`Symmetric/DeterministicAead.java`](Symmetric/DeterministicAead.java)
 - Keys, encrypted PKCS#8 private keys: `EncryptedPrivateKeyInfo` and PBES2: [`Keys/EncryptedPrivateKeys.java`](Keys/EncryptedPrivateKeys.java)
 - Pqc, ML-KEM (FIPS 203) through the KEM API: sizes, implicit rejection, use: [`Pqc/MlKemEncapsulation.java`](Pqc/MlKemEncapsulation.java)
+- Tls, `SSLEngine`: a TLS handshake between two engines in memory: [`Tls/SslEngineInMemory.java`](Tls/SslEngineInMemory.java)
 <!-- INDEX:END -->
