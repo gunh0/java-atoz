@@ -133,4 +133,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - OWASP A04:2021 Insecure Design, double-spend race (check-then-act) and idempotency keys: [`OWASP/A04_InsecureDesign_DoubleSpendRace.java`](OWASP/A04_InsecureDesign_DoubleSpendRace.java)
 - SER10-J, avoid memory and resource leaks during serialization: [`SER/SER10_SerializationLeaks.java`](SER/SER10_SerializationLeaks.java)
 - OWASP A05:2021 Security Misconfiguration, XXE defaults audit across the five JAXP factories: [`OWASP/A05_SecurityMisconfiguration_XmlFactoryAudit.java`](OWASP/A05_SecurityMisconfiguration_XmlFactoryAudit.java)
+- TPS01-J, do not execute interdependent tasks in a bounded thread pool: [`TPS/TPS01_InterdependentTasks.java`](TPS/TPS01_InterdependentTasks.java)
 <!-- INDEX:END -->
