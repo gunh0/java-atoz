@@ -66,4 +66,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Keys, encrypted PKCS#8 private keys: `EncryptedPrivateKeyInfo` and PBES2: [`Keys/EncryptedPrivateKeys.java`](Keys/EncryptedPrivateKeys.java)
 - Pqc, ML-KEM (FIPS 203) through the KEM API: sizes, implicit rejection, use: [`Pqc/MlKemEncapsulation.java`](Pqc/MlKemEncapsulation.java)
 - Tls, `SSLEngine`: a TLS handshake between two engines in memory: [`Tls/SslEngineInMemory.java`](Tls/SslEngineInMemory.java)
+- Pqc, ML-DSA (FIPS 204) signatures: sizes, verification, tamper detection: [`Pqc/MlDsaSignatures.java`](Pqc/MlDsaSignatures.java)
 <!-- INDEX:END -->
