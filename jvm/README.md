@@ -43,4 +43,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - Runtime, safepoints, handshakes, and why biased locking was removed: [`Runtime/SafepointsAndBiasedLocking.java`](Runtime/SafepointsAndBiasedLocking.java)
 - Bytecode, records and sealed types in the class file: [`Bytecode/RecordsAndSealedBytecode.java`](Bytecode/RecordsAndSealedBytecode.java)
 - Threads, virtual threads from the inside: carriers, mounting, parked continuations: [`Threads/VirtualThreadInternals.java`](Threads/VirtualThreadInternals.java)
+- Runtime, Class Data Sharing: default and dynamic AppCDS archives: [`Runtime/ClassDataSharing.java`](Runtime/ClassDataSharing.java)
 <!-- INDEX:END -->
