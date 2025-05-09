@@ -204,6 +204,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Date/Time, localized formats with `FormatStyle`, `ofLocalizedPattern` and `WeekFields`: [`DateTime/LocalizedFormatting`](DateTime/LocalizedFormatting/)
 - NIO, memory-mapped files (`MappedByteBuffer`, map modes, `Arena` unmapping): [`NIO/MemoryMappedFile`](NIO/MemoryMappedFile/)
 - Concurrency, `CompletableFuture` error handling and unwrapping: [`Concurrency/CompletableFutureErrors`](Concurrency/CompletableFutureErrors/)
+- Date/Time, arithmetic edge cases (month ends, leap days, DST): [`DateTime/ArithmeticEdgeCases`](DateTime/ArithmeticEdgeCases/)
 <!-- INDEX:END -->
 
 <br/>
