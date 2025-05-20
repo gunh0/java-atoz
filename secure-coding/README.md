@@ -136,4 +136,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - TPS01-J, do not execute interdependent tasks in a bounded thread pool: [`TPS/TPS01_InterdependentTasks.java`](TPS/TPS01_InterdependentTasks.java)
 - OWASP A06:2021 Vulnerable and Outdated Components, checking dependencies against advisories: [`OWASP/A06_VulnerableComponents_AdvisoryCheck.java`](OWASP/A06_VulnerableComponents_AdvisoryCheck.java)
 - NUM11-J, do not compare or inspect the string representation of floating-point values: [`NUM/NUM11_FloatStringComparison.java`](NUM/NUM11_FloatStringComparison.java)
+- OWASP A07:2021 Identification and Authentication Failures, session fixation and id rotation: [`OWASP/A07_AuthenticationFailures_SessionFixation.java`](OWASP/A07_AuthenticationFailures_SessionFixation.java)
 <!-- INDEX:END -->
