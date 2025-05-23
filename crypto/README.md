@@ -68,4 +68,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Tls, `SSLEngine`: a TLS handshake between two engines in memory: [`Tls/SslEngineInMemory.java`](Tls/SslEngineInMemory.java)
 - Pqc, ML-DSA (FIPS 204) signatures: sizes, verification, tamper detection: [`Pqc/MlDsaSignatures.java`](Pqc/MlDsaSignatures.java)
 - Certificates, revocation: reading a CRL and checking it during PKIX validation: [`Certificates/CrlRevocation.java`](Certificates/CrlRevocation.java)
+- Pqc, hybrid key exchange: X25519 + ML-KEM-768 with an X-Wing-style combiner: [`Pqc/HybridKemCombiner.java`](Pqc/HybridKemCombiner.java)
 <!-- INDEX:END -->
