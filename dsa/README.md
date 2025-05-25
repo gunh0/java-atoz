@@ -44,4 +44,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 - Graphs, Floyd-Warshall all-pairs shortest paths and transitive closure: [`Graphs/FloydWarshall.java`](Graphs/FloydWarshall.java)
 - Graphs, Tarjan's strongly connected components and the condensation DAG: [`Graphs/TarjanScc.java`](Graphs/TarjanScc.java)
 - Graphs, A* search on a grid with the Manhattan heuristic: [`Graphs/AStarGrid.java`](Graphs/AStarGrid.java)
+- Graphs, Edmonds-Karp max flow, min cut and bipartite matching: [`Graphs/EdmondsKarp.java`](Graphs/EdmondsKarp.java)
 <!-- INDEX:END -->
