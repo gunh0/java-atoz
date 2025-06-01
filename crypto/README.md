@@ -69,4 +69,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Pqc, ML-DSA (FIPS 204) signatures: sizes, verification, tamper detection: [`Pqc/MlDsaSignatures.java`](Pqc/MlDsaSignatures.java)
 - Certificates, revocation: reading a CRL and checking it during PKIX validation: [`Certificates/CrlRevocation.java`](Certificates/CrlRevocation.java)
 - Pqc, hybrid key exchange: X25519 + ML-KEM-768 with an X-Wing-style combiner: [`Pqc/HybridKemCombiner.java`](Pqc/HybridKemCombiner.java)
+- Tls, TLS 1.3 session resumption, observed from both ends: [`Tls/SessionResumption.java`](Tls/SessionResumption.java)
 <!-- INDEX:END -->
