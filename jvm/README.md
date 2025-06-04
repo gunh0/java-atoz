@@ -45,4 +45,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - Threads, virtual threads from the inside: carriers, mounting, parked continuations: [`Threads/VirtualThreadInternals.java`](Threads/VirtualThreadInternals.java)
 - Runtime, Class Data Sharing: default and dynamic AppCDS archives: [`Runtime/ClassDataSharing.java`](Runtime/ClassDataSharing.java)
 - Jit, tiered compilation observed with `-XX:+PrintCompilation`: [`Jit/JitTiers.java`](Jit/JitTiers.java)
+- ClassFile, stack map frames: read and generated with `java.lang.classfile`: [`ClassFile/StackMapFrames.java`](ClassFile/StackMapFrames.java)
 <!-- INDEX:END -->
