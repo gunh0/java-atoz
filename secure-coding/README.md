@@ -138,4 +138,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - NUM11-J, do not compare or inspect the string representation of floating-point values: [`NUM/NUM11_FloatStringComparison.java`](NUM/NUM11_FloatStringComparison.java)
 - OWASP A07:2021 Identification and Authentication Failures, session fixation and id rotation: [`OWASP/A07_AuthenticationFailures_SessionFixation.java`](OWASP/A07_AuthenticationFailures_SessionFixation.java)
 - OWASP A07:2021 Identification and Authentication Failures, brute-force and spraying throttling: [`OWASP/A07_AuthenticationFailures_BruteForceThrottling.java`](OWASP/A07_AuthenticationFailures_BruteForceThrottling.java)
+- OWASP A08:2021 Software and Data Integrity Failures, signed updates and rollback protection: [`OWASP/A08_IntegrityFailures_UpdateSignature.java`](OWASP/A08_IntegrityFailures_UpdateSignature.java)
 <!-- INDEX:END -->
