@@ -80,4 +80,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 24, JEP 485 stream gatherers (`Gatherers` built-ins): [`java24/StreamGatherers.java`](java24/StreamGatherers.java)
 - Java 24, JEP 485 writing a custom `Gatherer`: [`java24/CustomGatherer.java`](java24/CustomGatherer.java)
 - Java 24, JEP 484 Class-File API: reading class files: [`java24/ClassFileApiRead.java`](java24/ClassFileApiRead.java)
+- Java 24, JEP 484 Class-File API: generating and transforming classes: [`java24/ClassFileApiGenerate.java`](java24/ClassFileApiGenerate.java)
 <!-- INDEX:END -->
