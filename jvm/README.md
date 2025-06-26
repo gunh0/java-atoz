@@ -46,4 +46,5 @@ Related notes elsewhere: [StackWalker](../modern-java/java9/StackWalkerApi.java)
 - Runtime, Class Data Sharing: default and dynamic AppCDS archives: [`Runtime/ClassDataSharing.java`](Runtime/ClassDataSharing.java)
 - Jit, tiered compilation observed with `-XX:+PrintCompilation`: [`Jit/JitTiers.java`](Jit/JitTiers.java)
 - ClassFile, stack map frames: read and generated with `java.lang.classfile`: [`ClassFile/StackMapFrames.java`](ClassFile/StackMapFrames.java)
+- Runtime, `sun.misc.Unsafe` memory access: deprecated, warned about at run time: [`Runtime/UnsafeMemoryAccessWarnings.java`](Runtime/UnsafeMemoryAccessWarnings.java)
 <!-- INDEX:END -->
