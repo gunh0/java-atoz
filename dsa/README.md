@@ -46,4 +46,5 @@ Files are named `dsa/<Topic>/<Name>.java`, e.g. `Sorting/MergeSort.java`. Run on
 - Graphs, A* search on a grid with the Manhattan heuristic: [`Graphs/AStarGrid.java`](Graphs/AStarGrid.java)
 - Graphs, Edmonds-Karp max flow, min cut and bipartite matching: [`Graphs/EdmondsKarp.java`](Graphs/EdmondsKarp.java)
 - Strings, Z-algorithm (Z-array, pattern search, string periods): [`Strings/ZAlgorithm.java`](Strings/ZAlgorithm.java)
+- Strings, suffix array by prefix doubling and Kasai's LCP array: [`Strings/SuffixArray.java`](Strings/SuffixArray.java)
 <!-- INDEX:END -->
