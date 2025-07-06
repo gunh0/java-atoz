@@ -207,6 +207,7 @@ Each directory holds single-file programs: run one with `java File.java` from it
 - Date/Time, arithmetic edge cases (month ends, leap days, DST): [`DateTime/ArithmeticEdgeCases`](DateTime/ArithmeticEdgeCases/)
 - NIO, `FileLock` exclusive, shared and region locks across processes: [`NIO/FileLock`](NIO/FileLock/)
 - Streams, `Collectors.teeing` patterns (per group, nested, validation): [`Streams/TeeingPatterns`](Streams/TeeingPatterns/)
+- Concurrency, `Flow` backpressure with `SubmissionPublisher`: [`Concurrency/SubmissionPublisher`](Concurrency/SubmissionPublisher/)
 <!-- INDEX:END -->
 
 <br/>
