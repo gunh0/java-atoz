@@ -71,4 +71,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Pqc, hybrid key exchange: X25519 + ML-KEM-768 with an X-Wing-style combiner: [`Pqc/HybridKemCombiner.java`](Pqc/HybridKemCombiner.java)
 - Tls, TLS 1.3 session resumption, observed from both ends: [`Tls/SessionResumption.java`](Tls/SessionResumption.java)
 - Pqc, encoding ML-KEM and ML-DSA keys: X.509, PKCS#8, PEM: [`Pqc/PqcKeyEncodings.java`](Pqc/PqcKeyEncodings.java)
+- Randomness, seeding pitfalls: clock seeds, small seed spaces, cloned state: [`Randomness/SeedPitfalls.java`](Randomness/SeedPitfalls.java)
 <!-- INDEX:END -->
