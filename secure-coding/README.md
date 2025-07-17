@@ -140,4 +140,5 @@ The [`OWASP/`](OWASP/) folder adds web-application issues from the [OWASP Top 10
 - OWASP A07:2021 Identification and Authentication Failures, brute-force and spraying throttling: [`OWASP/A07_AuthenticationFailures_BruteForceThrottling.java`](OWASP/A07_AuthenticationFailures_BruteForceThrottling.java)
 - OWASP A08:2021 Software and Data Integrity Failures, signed updates and rollback protection: [`OWASP/A08_IntegrityFailures_UpdateSignature.java`](OWASP/A08_IntegrityFailures_UpdateSignature.java)
 - OWASP A09:2021 Security Logging and Monitoring Failures, structured hash-chained audit log: [`OWASP/A09_LoggingFailures_AuditLog.java`](OWASP/A09_LoggingFailures_AuditLog.java)
+- OWASP A10:2021 Server-Side Request Forgery, DNS rebinding, address pinning and redirect checks: [`OWASP/A10_Ssrf_DnsRebindingPinning.java`](OWASP/A10_Ssrf_DnsRebindingPinning.java)
 <!-- INDEX:END -->
