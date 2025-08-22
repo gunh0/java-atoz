@@ -85,4 +85,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 24, JEP 497 quantum-resistant signatures (ML-DSA): [`java24/QuantumResistantSignatures.java`](java24/QuantumResistantSignatures.java)
 - Java 24, JEP 491 synchronize virtual threads without pinning: [`java24/SynchronizeWithoutPinning.java`](java24/SynchronizeWithoutPinning.java)
 - Java 24, JEP 486 permanently disable the Security Manager: [`java24/SecurityManagerDisabled.java`](java24/SecurityManagerDisabled.java)
+- Java 24, JEP 483 ahead-of-time class loading and linking: [`java24/AheadOfTimeClassLoading.java`](java24/AheadOfTimeClassLoading.java)
 <!-- INDEX:END -->
