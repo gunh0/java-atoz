@@ -1,3 +1,4 @@
+// output-jdk: 25 (prints javac diagnostics, whose wording changed in JDK 26)
 // Effective Java, Item 40: Consistently use the Override annotation.
 //
 // Writing equals(Bigram b) instead of equals(Object o) does not override

@@ -1,3 +1,4 @@
+// output-jdk: 21 (HttpClient selector-thread lifecycle details differ in later releases)
 // Java 21 — java.net.http.HttpClient is AutoCloseable (API addition, no JEP)
 //
 // The Java 11 HttpClient owns a selector thread, connection pools and

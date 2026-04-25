@@ -1,3 +1,4 @@
+// output-jdk: 24 (prints the default PBES2 algorithm, which JDK 26 changed)
 // Encrypted PKCS#8 private keys: EncryptedPrivateKeyInfo and PBES2
 //
 // "-----BEGIN ENCRYPTED PRIVATE KEY-----" is PKCS#8 EncryptedPrivateKeyInfo

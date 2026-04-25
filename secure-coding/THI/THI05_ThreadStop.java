@@ -7,7 +7,8 @@
 // immediately visible to other threads (for example a transfer that had
 // debited one account but not yet credited the other). The method has been
 // deprecated since Java 1.2, and since Java 20 it no longer stops anything:
-// it just throws UnsupportedOperationException. Stop threads cooperatively:
+// it just throws UnsupportedOperationException; JDK 26 removed the method
+// altogether, so the demo looks it up reflectively. Stop threads cooperatively:
 // interrupt() them (or set a volatile flag) and let the thread check for
 // it at points where its state is consistent, then clean up and return.
 import java.util.concurrent.CountDownLatch;
@@ -19,12 +20,8 @@ public class THI05_ThreadStop {
         Thread t1 = new Thread(noncompliant);
         t1.start();
         noncompliant.started.await();
-        try {
-            stopNoncompliant(t1);
-            System.out.println("noncompliant: stop() returned");
-        } catch (UnsupportedOperationException e) {
-            System.out.println("noncompliant: stop() threw UnsupportedOperationException, thread still alive: " + t1.isAlive());
-        }
+        boolean stopped = stopNoncompliant(t1);
+        System.out.println("noncompliant: Thread.stop() stopped the thread: " + stopped + ", thread still alive: " + t1.isAlive());
         t1.interrupt(); // clean up the demo thread
         t1.join();
 
@@ -38,9 +35,16 @@ public class THI05_ThreadStop {
         System.out.println("compliant:    worker stopped cleanly, balances consistent: " + compliant.consistent());
     }
 
-    @SuppressWarnings("removal")
-    static void stopNoncompliant(Thread t) {
-        t.stop();
+    // Java 20-25: stop() throws UnsupportedOperationException; Java 26+: no such method.
+    static boolean stopNoncompliant(Thread t) {
+        try {
+            Thread.class.getMethod("stop").invoke(t);
+            return true;
+        } catch (java.lang.reflect.InvocationTargetException e) {
+            return !(e.getCause() instanceof UnsupportedOperationException);
+        } catch (ReflectiveOperationException e) {
+            return false;
+        }
     }
 }
 
@@ -70,6 +74,6 @@ class Worker implements Runnable {
 }
 
 /* Output:
-noncompliant: stop() threw UnsupportedOperationException, thread still alive: true
+noncompliant: Thread.stop() stopped the thread: false, thread still alive: true
 compliant:    worker stopped cleanly, balances consistent: true
 */

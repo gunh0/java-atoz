@@ -1,3 +1,4 @@
+// output-jdk: 25 (JDK 26 warns when a final field is mutated reflectively, JEP 500)
 // Final fields: the JMM's initialization-safety guarantee, and its limits
 //
 // JLS 17.5: when a constructor finishes, the values of the object's final

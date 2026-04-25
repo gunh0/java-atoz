@@ -1,3 +1,4 @@
+// output-jdk: 23 (prints generated javadoc HTML, which changes between releases)
 // JEP 467 — Markdown Documentation Comments (Java 23)
 //
 // Javadoc comments have been written in HTML plus @-tags since 1995:
