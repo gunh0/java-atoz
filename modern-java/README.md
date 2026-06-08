@@ -88,4 +88,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 24, JEP 483 ahead-of-time class loading and linking: [`java24/AheadOfTimeClassLoading.java`](java24/AheadOfTimeClassLoading.java)
 - Java 24, `Reader.of(CharSequence)` and `Process.waitFor(Duration)`: [`java24/ReaderOfAndProcessWaitFor.java`](java24/ReaderOfAndProcessWaitFor.java)
 - Java 25, JEP 512 compact source files and instance `main` methods: [`java25/CompactSourceFiles.java`](java25/CompactSourceFiles.java)
+- Java 25, JEP 513 flexible constructor bodies (statements before `super(...)`): [`java25/FlexibleConstructorBodies.java`](java25/FlexibleConstructorBodies.java)
 <!-- INDEX:END -->
