@@ -72,4 +72,5 @@ Related notes elsewhere: [`MSC02-J`](../secure-coding/MSC/MSC02_SecureRandom.jav
 - Tls, TLS 1.3 session resumption, observed from both ends: [`Tls/SessionResumption.java`](Tls/SessionResumption.java)
 - Pqc, encoding ML-KEM and ML-DSA keys: X.509, PKCS#8, PEM: [`Pqc/PqcKeyEncodings.java`](Pqc/PqcKeyEncodings.java)
 - Randomness, seeding pitfalls: clock seeds, small seed spaces, cloned state: [`Randomness/SeedPitfalls.java`](Randomness/SeedPitfalls.java)
+- Kdf, HKDF through the KDF API (`javax.crypto.KDF`, Java 25) vs the hand-rolled version, RFC 5869 vectors: [`Kdf/KdfApiHkdf.java`](Kdf/KdfApiHkdf.java)
 <!-- INDEX:END -->
