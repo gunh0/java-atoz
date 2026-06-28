@@ -89,4 +89,5 @@ Java has shipped a feature release every six months since Java 9. This section w
 - Java 24, `Reader.of(CharSequence)` and `Process.waitFor(Duration)`: [`java24/ReaderOfAndProcessWaitFor.java`](java24/ReaderOfAndProcessWaitFor.java)
 - Java 25, JEP 512 compact source files and instance `main` methods: [`java25/CompactSourceFiles.java`](java25/CompactSourceFiles.java)
 - Java 25, JEP 513 flexible constructor bodies (statements before `super(...)`): [`java25/FlexibleConstructorBodies.java`](java25/FlexibleConstructorBodies.java)
+- Java 26, Hybrid Public Key Encryption (`Cipher.getInstance("HPKE")`, `HPKEParameterSpec`, RFC 9180): [`java26/HybridPublicKeyEncryption.java`](java26/HybridPublicKeyEncryption.java)
 <!-- INDEX:END -->
